@@ -173,8 +173,32 @@ section#footer {
       width: 8em;
       height: 8em; }
 
-#upcomming-events div div img {
-  height: 10em; }
+#upcomming-events {
+  padding: 2em 2em; }
+  #upcomming-events h4:after {
+    border-bottom: 2px solid greenyellow;
+    content: "";
+    display: block;
+    width: 200px;
+    margin: 0 auto; }
+  #upcomming-events div {
+    justify-content: space-evenly; }
+    #upcomming-events div div {
+      height: 40vh;
+      padding: 0.5em; }
+      #upcomming-events div div div {
+        height: 100%;
+        width: 100%;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        align-items: center; }
+        #upcomming-events div div div h4 {
+          color: white;
+          font-weight: bold; }
+        #upcomming-events div div div h4:after {
+          border: none; }
 
 @media screen and (max-width: 767px) {
   #home-image {

@@ -16,13 +16,12 @@ window.onload = loadJSON(function(r){
   var ar = JSON.parse(r);
   console.log(ar.event[0].name);
   for(i = 0; i < ar.event.length; i++) {
-    console.log(i);
     $("#upcomming-events .row");
     $("#upcomming-events .row").append(
-      '<div class="xs-col-12 sm-col-12 md-col-6 lg-col-6">' +
-      '<img src=' + ar.event[i].image + '>' +
-      '<h6>' + ar.event[i].name + '</h6>' +
-      '</div>'
+      '<div class="col-xs-12 col-md-6">' +
+      '<div style="background-image:url( '+ ar.event[i].image +' )">' +
+      '<h4>' + ar.event[i].name + '</h4>' +
+      '</div></div>'
     );
   }
 });
