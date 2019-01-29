@@ -173,6 +173,9 @@ section#footer {
       width: 8em;
       height: 8em; }
 
+#upcomming-events div div img {
+  height: 10em; }
+
 @media screen and (max-width: 767px) {
   #home-image {
     background-image: url(https://66.media.tumblr.com/tumblr_m1yru9PNMV1qeo682o1_500.jpg); }

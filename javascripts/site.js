@@ -1,48 +1,29 @@
-// gallery page start
-function scaleGallery()
-{
-  // This is roughly the max pixels width/height of a square photo
-  var widthSetting = 400;
-  
-  // Do not edit any of this unless you know what you're doing
-  var containerWidth = $(".gallery").width();
-  var ratioSumMax = containerWidth / widthSetting;
-  var imgs = $(".gallery img");
-  var numPhotos = imgs.length, ratioSum, ratio, photo, row, rowPadding, i = 0;
+//homepage start
+function loadJSON(callback) {   
 
-  while (i < numPhotos) {
-    ratioSum = rowPadding = 0;
-    row = new Array();
-    while (i < numPhotos && ratioSum < ratioSumMax) {
-        photo = $(imgs[i]);
-        // reset width to original
-        photo.width(""); 
-        ratio = photo.width() / photo.height();
-        rowPadding += getHorizontalPadding(photo);
-        // if this is going to be first in the row, clear: left
-        if(ratioSum == 0) photo.css("clear", "left"); else photo.css("clear", "none");
-        ratioSum += ratio;
-        row.push(photo);
-        i++;
-        // if only 1 image left, squeeze it in
-        if(i == numPhotos - 1) ratioSumMax = 999;
-    }
-    unitWidth = (containerWidth - rowPadding) / ratioSum;
-
-    row.forEach(function (elem) {
-      elem.width(unitWidth * elem.width() / elem.height());
-    });
+  var xobj = new XMLHttpRequest();
+      xobj.overrideMimeType("application/json");
+  xobj.open('GET', 'https://sushantnadkar.github.io/vibgyoraws/data/upcommingevents.json', true); // Replace 'my_data' with the path to your file
+  xobj.onreadystatechange = function () {
+        if (xobj.readyState == 4 && xobj.status == "200") {
+          // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+          callback(xobj.responseText);
+        }
+  };
+  xobj.send(null);  
+}
+window.onload = loadJSON(function(r){
+  var ar = JSON.parse(r);
+  console.log(ar.event[0].name);
+  for(i = 0; i < ar.event.length; i++) {
+    console.log(i);
+    $("#upcomming-events .row");
+    $("#upcomming-events .row").append(
+      '<div class="xs-col-12 sm-col-12 md-col-6 lg-col-6">' +
+      '<img src=' + ar.event[i].image + '>' +
+      '<h6>' + ar.event[i].name + '</h6>' +
+      '</div>'
+    );
   }
-}
-function getHorizontalPadding(elem)
-{
-    var padding = 0;
-    var left = elem.css("padding-left");
-    var right = elem.css("padding-right");
-    padding += parseInt(left ? left.replace("px", "") : 0);
-    padding += parseInt(right ? right.replace("px", "") : 0);
-    return padding;
-}
-$(window).load(scaleGallery);
-$(window).resize(scaleGallery);
-//gallery page end
+});
+//homepage end
