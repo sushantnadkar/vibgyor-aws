@@ -14,7 +14,6 @@ function loadJSON(callback) {
 }
 window.onload = loadJSON(function(r){
   var ar = JSON.parse(r);
-  console.log(ar.event[0].name);
   for(i = 0; i < ar.event.length; i++) {
     $("#upcomming-events .row");
     $("#upcomming-events .row").append(

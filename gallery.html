@@ -9,6 +9,7 @@
 	<title>
 		Gallery
 	</title>
+	<script src="javascripts/jquery.js"></script>
 	<link href="stylesheets/site.css" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC" rel="stylesheet" />
 	<link href="stylesheets/bootstrap.css" rel="stylesheet" />
@@ -27,13 +28,13 @@
 		</button>
 		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			<div class="navbar-nav">
-				<a href="./" class="nav-item nav-link">Home</a>
-				<a href="/#.html" class="nav-item nav-link">Upcomming Events</a>
-				<a href="/#.html" class="nav-item nav-link">Success Stories</a>
-				<a href="/#.html" class="nav-item nav-link">Library</a>
-				<a href="gallery.html" class="nav-item nav-link">Gallery</a>
-				<a href="/#.html" class="nav-item nav-link">About Us</a>
-				<a href="/#.html" class="nav-item nav-link">Contact Us</a>
+				<a href="./" id="home" class="nav-item nav-link">Home</a>
+				<a href="/#.html" id="upcommingevents" class="nav-item nav-link">Upcomming Events</a>
+				<a href="/#.html" id="successstories" class="nav-item nav-link">Success Stories</a>
+				<a href="/#.html" id="library" class="nav-item nav-link">Library</a>
+				<a href="gallery.html" id="gallery" class="nav-item nav-link">Gallery</a>
+				<a href="/#.html" id="aboutus" class="nav-item nav-link">About Us</a>
+				<a href="/#.html" id="contactus" class="nav-item nav-link">Contact Us</a>
 			</div>
 		</div>
 	</nav>
@@ -54,6 +55,12 @@
 		<img src="https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr03/original-22498-1439319085-3.jpg?downsize=715:*&output-format=auto&output-quality=auto" alt="" width="100%" height="auto" class="gallery-img" />
 	</div> 
 </div>
+<script>
+	$(document).ready(function () {
+		$(".navbar-nav .nav-link").removeClass("active"); 
+		$('.navbar-nav #gallery.nav-link').addClass('active');
+	});
+</script>
 	<section id="footer" class="bg-dark">
 		<div class="container">
 			<div class="row text-center text-xs-center text-sm-left text-md-left">
@@ -99,7 +106,6 @@
 			</div>
 		</div>
 	</section>
-	<script src="javascripts/jquery.js"></script>
 	<script src="javascripts/bootstrap.js"></script>
 	<script src="javascripts/bootstrap.bundle.js"></script>
 	<script src="https://use.fontawesome.com/releases/v5.6.3/js/all.js"></script>
