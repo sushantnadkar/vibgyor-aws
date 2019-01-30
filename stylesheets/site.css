@@ -146,7 +146,7 @@ section#footer {
     height: 100vh; }
 
 #intro {
-  padding: 2em 5em; }
+  padding: 3em 5em; }
   #intro h4:after {
     border-bottom: 2px solid greenyellow;
     content: "";
@@ -154,7 +154,8 @@ section#footer {
     width: 120px;
     margin: 0 auto; }
   #intro p {
-    color: #000; }
+    color: #000;
+    margin: 2em 0em; }
 
 #activities {
   padding: 2em 5em;
@@ -205,3 +206,57 @@ section#footer {
     background-image: url(https://66.media.tumblr.com/tumblr_m1yru9PNMV1qeo682o1_500.jpg); }
   #intro {
     padding: 2em 2em; } }
+
+#ue-page #ue-header {
+  margin-top: 5em; }
+  #ue-page #ue-header h3:after {
+    border-bottom: 2px solid skyblue;
+    content: "";
+    display: block;
+    width: 300px;
+    margin: 0 auto; }
+
+#ue-page .event {
+  height: 40vh;
+  margin: 1em 0em; }
+  #ue-page .event .event-img {
+    margin: 1em;
+    height: 35vh;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat; }
+  #ue-page .event .event-desc {
+    height: inherit;
+    text-align: left;
+    margin: 1em; }
+    #ue-page .event .event-desc #text {
+      overflow: hidden;
+      position: relative;
+      line-height: 1.5em;
+      max-height: 4.5em;
+      text-align: justify;
+      margin-right: -1em;
+      padding-right: 1em; }
+      #ue-page .event .event-desc #text:before {
+        content: '...';
+        position: absolute;
+        right: 0;
+        bottom: 0; }
+      #ue-page .event .event-desc #text:after {
+        content: '';
+        position: absolute;
+        right: 0;
+        width: 1em;
+        height: 1em;
+        margin-top: 0.2em;
+        background: white; }
+
+#ue-page .event:after {
+  border-bottom: 2px solid lightgray;
+  content: "";
+  display: block;
+  width: 90%;
+  margin: 0 auto; }
+
+#ue-page .event:last-child::after {
+  border-bottom: none; }

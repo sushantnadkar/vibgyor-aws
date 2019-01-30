@@ -1,4 +1,3 @@
-//homepage start
 function loadJSON(callback) {   
 
   var xobj = new XMLHttpRequest();
@@ -12,16 +11,37 @@ function loadJSON(callback) {
   };
   xobj.send(null);  
 }
+
 window.onload = loadJSON(function(r){
   var ar = JSON.parse(r);
-  for(i = 0; i < ar.event.length; i++) {
-    $("#upcomming-events .row");
-    $("#upcomming-events .row").append(
-      '<div class="col-xs-12 col-md-6">' +
-      '<div style="background-image:url( '+ ar.event[i].image +' )">' +
-      '<h4>' + ar.event[i].name + '</h4>' +
-      '</div></div>'
-    );
+  for(i = 0; i < ar.upcommingevents.length; i++) {
+    //home page upcomming events
+    if($("#upcomming-events .row").length !== 0) { 
+      $("#upcomming-events .row").append(
+        '<div class="col-xs-12 col-md-6">' +
+        '<div style="background-image:url( '+ ar.upcommingevents[i].image +' )">' +
+        '<h4>' + ar.upcommingevents[i].name + '</h4>' +
+        '</div></div>'
+      );
+    }
+    //upgomming events page
+    if($("#ue-page").length !== 0) {
+      $("#ue-page").append(
+        '<div class="row event">' +
+          '<div class="col-xs-12 col-md-6">' +
+              '<div class="row event-img" style="background-image:url(' + ar.upcommingevents[i].image + ')">' +
+              '</div>' +
+          '</div>' +
+          '<div class="col-xs-12 col-md-6">' +
+            '<div class="row event-desc">' +
+                '<div class="col-xs-12 col-md-12"><h5>' + ar.upcommingevents[i].name + '</h5></div>' +
+                '<div id="text" class="col-xs-12 col-md-12">' + ar.upcommingevents[i].description + '</div>' +
+                '<div class="col-xs-12 col-md-12"></br><strong>Where: </strong>' + ar.upcommingevents[i].when + '</div>' +
+                '<div class="col-xs-12 col-md-12"></br><strong>When: </strong>' + ar.upcommingevents[i].where + '</p></div>' +
+            '</div>' +
+          '</div>' +
+        '</div>'
+      );        
+    }
   }
 });
-//homepage end
