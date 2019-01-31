@@ -43,5 +43,17 @@ window.onload = loadJSON(function(r){
         '</div>'
       );        
     }
+    //success stories page
+    if($("#ss-page").length !== 0) {
+      $("#ss-page").append(
+        '<div class="row event">' +
+          '<div class="col-xs-12 col-md-12">' +
+              '<img class="event-img" src="' + ar.successstories[0].image + '"></img>' +
+              '<h4>' + ar.successstories[0].title + '</h4>' +
+              '<p>' + ar.successstories[0].story + '</p>' +
+          '</div>' +
+        '</div>'
+      );
+    }
   }
 });

@@ -217,7 +217,7 @@ section#footer {
     margin: 0 auto; }
 
 #ue-page .event {
-  height: 40vh;
+  height: auto;
   margin: 1em 0em; }
   #ue-page .event .event-img {
     margin: 1em;
@@ -259,4 +259,64 @@ section#footer {
   margin: 0 auto; }
 
 #ue-page .event:last-child::after {
+  border-bottom: none; }
+
+#ss-page #ss-header {
+  margin-top: 5em; }
+  #ss-page #ss-header h3:after {
+    border-bottom: 2px solid skyblue;
+    content: "";
+    display: block;
+    width: 240px;
+    margin: 0 auto; }
+
+#ss-page .event {
+  height: auto;
+  margin: 1em 0em; }
+  #ss-page .event p {
+    text-align: left;
+    text-indent: 2em; }
+  #ss-page .event h4 {
+    text-align: left; }
+  #ss-page .event .event-img {
+    margin: 0 1em 1em 0;
+    height: 35vh;
+    float: left;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat; }
+  #ss-page .event .event-desc {
+    height: inherit;
+    text-align: left;
+    margin: 1em; }
+    #ss-page .event .event-desc #text {
+      overflow: hidden;
+      position: relative;
+      line-height: 1.5em;
+      max-height: 4.5em;
+      text-align: justify;
+      margin-right: -1em;
+      padding-right: 1em; }
+      #ss-page .event .event-desc #text:before {
+        content: '...';
+        position: absolute;
+        right: 0;
+        bottom: 0; }
+      #ss-page .event .event-desc #text:after {
+        content: '';
+        position: absolute;
+        right: 0;
+        width: 1em;
+        height: 1em;
+        margin-top: 0.2em;
+        background: white; }
+
+#ss-page .event:after {
+  border-bottom: 2px solid lightgray;
+  content: "";
+  display: block;
+  width: 90%;
+  margin: 0 auto; }
+
+#ss-page .event:last-child::after {
   border-bottom: none; }
