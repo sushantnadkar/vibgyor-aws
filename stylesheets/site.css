@@ -320,3 +320,16 @@ section#footer {
 
 #ss-page .event:last-child::after {
   border-bottom: none; }
+
+#about-page #about-header {
+  margin-top: 5em; }
+  #about-page #about-header h3:after {
+    border-bottom: 2px solid skyblue;
+    content: "";
+    display: block;
+    width: 100px;
+    margin: 0 auto; }
+
+#about-page #about-desc {
+  text-align: left;
+  text-indent: 2em; }
