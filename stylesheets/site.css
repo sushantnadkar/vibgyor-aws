@@ -333,3 +333,47 @@ section#footer {
 #about-page #about-desc {
   text-align: left;
   text-indent: 2em; }
+
+#contact-page #contact-header {
+  margin-top: 5em; }
+  #contact-page #contact-header h3:after {
+    border-bottom: 2px solid skyblue;
+    content: "";
+    display: block;
+    width: 100px;
+    margin: 0 auto; }
+
+#contact-page .container h4 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; }
+
+#contact-page .container .row {
+  justify-content: center; }
+
+#contact-page .container #map {
+  padding: 1em 0em; }
+  #contact-page .container #map .mapouter {
+    height: 40vh;
+    width: 100%;
+    margin: auto; }
+    #contact-page .container #map .mapouter .gmap_canvas {
+      overflow: hidden;
+      background: none !important;
+      height: 40vh;
+      width: 100%; }
+      #contact-page .container #map .mapouter .gmap_canvas iframe {
+        width: 100%;
+        height: 100%; }
+
+#contact-page .container input, #contact-page .container textarea, #contact-page .container button {
+  width: 80%;
+  padding: 0.2em;
+  margin: 1em 0em;
+  border: 2px solid turquoise;
+  border-radius: 10px; }
+
+#contact-page .container button {
+  background-color: turquoise;
+  color: white;
+  font-weight: bold; }
