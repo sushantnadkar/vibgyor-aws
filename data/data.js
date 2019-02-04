@@ -1,33 +1,91 @@
-{ 
-    "upcommingevents": [
-        {
-            "name": "Summer Camp",
-            "image": "images/summercamp.jpg",
-            "where": "Badlapur",
-            "when": "17th April 19 to 21st April 19",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
-        {
-            "name": "Cloths Donation",
-            "image": "images/clothsdonation.jpg",
-            "where": "Pranali classes Lokdhara Shopping Complex",
-            "when": "10:00am - 12:00pm and 6:00pm - 8:00pm Fri to Sun",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        }
-    ],
+{
+  "upcommingevents": [
+    {
+      "name": "Summer Camp",
+      "image": "images/summercamp.jpg",
+      "where": "Badlapur",
+      "when": "17th April 19 to 21st April 19",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Cloths Donation",
+      "image": "images/clothsdonation.jpg",
+      "where": "Pranali classes Lokdhara Shopping Complex",
+      "when": "10:00am - 12:00pm and 6:00pm - 8:00pm Fri to Sun",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ],
     "successstories": [
+      {
+        "title": "Cloths Donation Drive To Support GOONJ",
+        "image": "images/clothsdonation.jpg",
+        "story": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      {
+        "title": "Summer Camp of 2016",
+        "image": "images/summercamp.jpg",
+        "story": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      }
+    ],
+      "galleryimages":[
         {
-            "title": "Cloths Donation Drive To Support GOONJ",
-            "image": "images/clothsdonation.jpg",
-            "story": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr01/original-9161-1439317330-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-            "title": "Summer Camp of 2016",
-            "image": "images/summercamp.jpg",
-            "story": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "image":"https://66.media.tumblr.com/tumblr_m1yru9PNMV1qeo682o1_500.jpg",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr08/original-1654-1439317465-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr08/original-13354-1439321173-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr04/original-25740-1439321209-5.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr04/original-25740-1439321209-5.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr08/original-9292-1439319916-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr05/original-6710-1439319334-17.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr02/original-16901-1439320287-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr04/original-29345-1439321306-8.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr15/original-20286-1439320376-10.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr02/original-6989-1439317507-15.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr11/original-8867-1439317446-6.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr03/original-22498-1439319085-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         }
-    ],
-    "book_list": [
+      ],
+      "booklist": [
         {
           "Book No": "M1-001",
           "Book Name": "Kutumbsoukhya",
@@ -7648,5 +7706,5 @@
           "Book Name": "The Constitution of India",
           "Writer": "P. M. Bakshi"
         }
-       ]
+      ]
 }
