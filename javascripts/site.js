@@ -16,30 +16,30 @@ var url = 'https://sushantnadkar.github.io/vibgyoraws/data/data.js';
 
 window.onload = loadJSON(url, function(r){
   var ar = JSON.parse(r);
-  for(i = 0; i < ar.upcommingevents.length; i++) {
-    //home page upcomming events
+  for(i = 0; i < ar.flagshipevents.length; i++) {
+    //home page events
     if($("#upcomming-events .row").length !== 0) { 
       $("#upcomming-events .row").append(
         '<div class="col-xs-12 col-md-6">' +
-        '<div style="background-image:url( '+ ar.upcommingevents[i].image +' )">' +
-        '<h4>' + ar.upcommingevents[i].name + '</h4>' +
+        '<div style="background-image:url( '+ ar.flagshipevents[i].image +' )">' +
+        '<h4>' + ar.flagshipevents[i].name + '</h4>' +
         '</div></div>'
       );
     }
-    //upgomming events page
+    //events page
     if($("#ue-page").length !== 0) {
       $("#ue-page").append(
         '<div class="row event">' +
           '<div class="col-xs-12 col-md-6">' +
-              '<div class="row event-img" style="background-image:url(' + ar.upcommingevents[i].image + ')">' +
+              '<div class="row event-img" style="background-image:url(' + ar.events[i].image + ')">' +
               '</div>' +
           '</div>' +
           '<div class="col-xs-12 col-md-6">' +
             '<div class="row event-desc">' +
-                '<div class="col-xs-12 col-md-12"><h5>' + ar.upcommingevents[i].name + '</h5></div>' +
-                '<div id="text" class="col-xs-12 col-md-12">' + ar.upcommingevents[i].description + '</div>' +
-                '<div class="col-xs-12 col-md-12"></br><strong>Where: </strong>' + ar.upcommingevents[i].when + '</div>' +
-                '<div class="col-xs-12 col-md-12"></br><strong>When: </strong>' + ar.upcommingevents[i].where + '</p></div>' +
+                '<div class="col-xs-12 col-md-12"><h5>' + ar.events[i].name + '</h5></div>' +
+                '<div id="text" class="col-xs-12 col-md-12">' + ar.events[i].description + '</div>' +
+                '<div class="col-xs-12 col-md-12"></br><strong>Where: </strong>' + ar.events[i].when + '</div>' +
+                '<div class="col-xs-12 col-md-12"></br><strong>When: </strong>' + ar.events[i].where + '</p></div>' +
             '</div>' +
           '</div>' +
         '</div>'
