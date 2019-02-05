@@ -1,8 +1,8 @@
-function loadJSON(callback) {   
+function loadJSON(url, callback) {
 
   var xobj = new XMLHttpRequest();
   xobj.overrideMimeType("application/json");
-  xobj.open('GET', 'https://sushantnadkar.github.io/vibgyoraws/data/data.js', true); // Replace 'my_data' with the path to your file
+  xobj.open('GET', url, true);
   xobj.onreadystatechange = function () {
     if (xobj.readyState == 4 && xobj.status == "200") {
       // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
@@ -12,7 +12,9 @@ function loadJSON(callback) {
   xobj.send(null);  
 }
 
-window.onload = loadJSON(function(r){
+var url = 'https://sushantnadkar.github.io/vibgyoraws/data/data.js';
+
+window.onload = loadJSON(url, function(r){
   var ar = JSON.parse(r);
   for(i = 0; i < ar.upcommingevents.length; i++) {
     //home page upcomming events
@@ -41,8 +43,10 @@ window.onload = loadJSON(function(r){
             '</div>' +
           '</div>' +
         '</div>'
-      );        
+      );
     }
+  }
+  for(i = 0; i < ar.successstories.length; i++) {
     //success stories page
     if($("#ss-page").length !== 0) {
       $("#ss-page").append(
@@ -55,5 +59,23 @@ window.onload = loadJSON(function(r){
         '</div>'
       );
     }
+  }
+  for(i = 0; i < ar.galleryimages.length; i++) {
+    if($("#gallery-container .gallery").length !== 0) {
+      $("#gallery-container .gallery").append(
+        '<div class="img-container" style="background-image: url(' + ar.galleryimages[i].image + ')">' +
+        '<img src="' + ar.galleryimages[i].image + '">' +
+			    '<a href="#">' +
+			      '<div class="caption text-center">' +
+			        '<p>' + ar.galleryimages[i].caption + '</p>' +
+			      '</div>' +
+          '</a>' +
+		    '</div>'
+      );
+    }
+    // to stimulate hover effect on touch screen devices
+    $(".img-container a").on("touchstart touched", function(e) {
+      $(this).focus();
+    });
   }
 });

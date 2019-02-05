@@ -1,7 +1,8 @@
 body {
   color: #333;
   font-family: 'Noto Serif SC', serif !important;
-  text-align: center !important; }
+  text-align: center !important;
+  cursor: pointer; }
 
 nav.bg-dark {
   background-color: #000 !important; }
@@ -83,7 +84,7 @@ section#footer {
 
 #gallery-container {
   max-width: 100% !important;
-  padding: 3em; }
+  padding-top: 3em; }
   #gallery-container .gallery {
     -webkit-column-count: 3;
     column-count: 3;
@@ -94,19 +95,60 @@ section#footer {
     #gallery-container .gallery img {
       width: 100%;
       height: auto;
-      -webkit-transition: 500ms;
-      transition: 500ms;
+      visibility: hidden; }
+    #gallery-container .gallery .img-container {
+      position: relative;
+      width: 100%;
+      z-index: 1;
+      background-size: 125%;
+      background-position: center center;
       margin-bottom: 3em;
-      opacity: 0.8;
-      border-radius: 3em;
       page-break-inside: avoid;
-      /* For Firefox. */
-      -webkit-column-break-inside: avoid;
-      /* For Chrome & friends. */
-      break-inside: avoid;
-      /* For standard browsers like IE. :-) */ }
-    #gallery-container .gallery img:hover {
-      opacity: 1; }
+      border-radius: 3em; }
+      #gallery-container .gallery .img-container a {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 3;
+        margin: 0;
+        z-index: 3;
+        -webkit-transition: all 500ms ease-in;
+        transition: all 500ms ease-in;
+        opacity: 0;
+        left: 0;
+        border-radius: 3em; }
+        #gallery-container .gallery .img-container a .caption {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          -webkit-transform: translate(-50%, -50%);
+                  transform: translate(-50%, -50%); }
+          #gallery-container .gallery .img-container a .caption p {
+            font-size: 15px;
+            color: #fff; }
+      #gallery-container .gallery .img-container a:hover, #gallery-container .gallery .img-container a:focus {
+        text-decoration: none;
+        background: rgba(0, 0, 0, 0.65);
+        opacity: 1; }
+    #gallery-container .gallery .img-container:hover, #gallery-container .gallery .img-container:focus {
+      -webkit-animation: animbg 10s linear infinite;
+              animation: animbg 10s linear infinite; }
+
+@-webkit-keyframes animbg {
+  0% {
+    background-size: 125%; }
+  50% {
+    background-size: 250%; }
+  100% {
+    background-size: 125%; } }
+
+@keyframes animbg {
+  0% {
+    background-size: 125%; }
+  50% {
+    background-size: 250%; }
+  100% {
+    background-size: 125%; } }
 
 @media screen and (max-width: 767px) {
   #gallery-container .gallery {
