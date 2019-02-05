@@ -95,6 +95,7 @@ section#footer {
     -webkit-column-gap: 3em;
     column-gap: 3em;
     margin-top: 3em;
+    margin-bottom: 3em;
     overflow: hidden; }
     #gallery-container .gallery img {
       width: 100%;
