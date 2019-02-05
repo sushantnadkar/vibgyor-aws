@@ -18,8 +18,8 @@ window.onload = loadJSON(url, function(r){
   var ar = JSON.parse(r);
   for(i = 0; i < ar.flagshipevents.length; i++) {
     //home page events
-    if($("#upcomming-events .row").length !== 0) { 
-      $("#upcomming-events .row").append(
+    if($("#flagship-events .row").length !== 0) {
+      $("#flagship-events .row").append(
         '<div class="col-xs-12 col-md-6">' +
         '<div style="background-image:url( '+ ar.flagshipevents[i].image +' )">' +
         '<h4>' + ar.flagshipevents[i].name + '</h4>' +
@@ -27,8 +27,8 @@ window.onload = loadJSON(url, function(r){
       );
     }
     //events page
-    if($("#ue-page").length !== 0) {
-      $("#ue-page").append(
+    if($("#e-page").length !== 0) {
+      $("#e-page").append(
         '<div class="row event">' +
           '<div class="col-xs-12 col-md-6">' +
               '<div class="row event-img" style="background-image:url(' + ar.events[i].image + ')">' +

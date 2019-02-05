@@ -1,8 +1,7 @@
 body {
   color: #333;
   font-family: 'Noto Serif SC', serif !important;
-  text-align: center !important;
-  cursor: pointer; }
+  text-align: center !important; }
 
 nav.bg-dark {
   background-color: #000 !important; }
@@ -14,6 +13,10 @@ nav.bg-dark {
     justify-content: space-evenly !important; }
     nav.bg-dark .navbar-nav a {
       font-size: 1.2em; }
+    nav.bg-dark .navbar-nav .social-icon {
+      height: 2em;
+      width: auto;
+      vertical-align: baseline; }
 
 section#footer {
   padding: 2em; }
@@ -77,8 +80,9 @@ section#footer {
         justify-content: space-evenly; }
         section#footer #contact .container #social .fa-icon {
           font-size: 2em;
-          color: #fff;
           opacity: 0.8; }
+          section#footer #contact .container #social .fa-icon img {
+            height: 2em; }
         section#footer #contact .container #social .fa-icon:hover {
           opacity: 1; }
 
@@ -216,20 +220,20 @@ section#footer {
       width: 8em;
       height: 8em; }
 
-#upcomming-events {
+#flagship-events {
   padding: 2em 2em; }
-  #upcomming-events h4:after {
+  #flagship-events h4:after {
     border-bottom: 2px solid greenyellow;
     content: "";
     display: block;
     width: 200px;
     margin: 0 auto; }
-  #upcomming-events div {
+  #flagship-events div {
     justify-content: space-evenly; }
-    #upcomming-events div div {
+    #flagship-events div div {
       height: 40vh;
       padding: 0.5em; }
-      #upcomming-events div div div {
+      #flagship-events div div div {
         height: 100%;
         width: 100%;
         background-position: center center;
@@ -237,10 +241,10 @@ section#footer {
         background-size: cover;
         display: flex;
         align-items: center; }
-        #upcomming-events div div div h4 {
+        #flagship-events div div div h4 {
           color: white;
           font-weight: bold; }
-        #upcomming-events div div div h4:after {
+        #flagship-events div div div h4:after {
           border: none; }
 
 @media screen and (max-width: 767px) {
@@ -249,29 +253,29 @@ section#footer {
   #intro {
     padding: 2em 2em; } }
 
-#ue-page #ue-header {
+#e-page #e-header {
   margin-top: 5em; }
-  #ue-page #ue-header h3:after {
+  #e-page #e-header h3:after {
     border-bottom: 2px solid skyblue;
     content: "";
     display: block;
-    width: 300px;
+    width: 70px;
     margin: 0 auto; }
 
-#ue-page .event {
+#e-page .event {
   height: auto;
   margin: 1em 0em; }
-  #ue-page .event .event-img {
+  #e-page .event .event-img {
     margin: 1em;
     height: 35vh;
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat; }
-  #ue-page .event .event-desc {
+  #e-page .event .event-desc {
     height: inherit;
     text-align: left;
     margin: 1em; }
-    #ue-page .event .event-desc #text {
+    #e-page .event .event-desc #text {
       overflow: hidden;
       position: relative;
       line-height: 1.5em;
@@ -279,12 +283,12 @@ section#footer {
       text-align: justify;
       margin-right: -1em;
       padding-right: 1em; }
-      #ue-page .event .event-desc #text:before {
+      #e-page .event .event-desc #text:before {
         content: '...';
         position: absolute;
         right: 0;
         bottom: 0; }
-      #ue-page .event .event-desc #text:after {
+      #e-page .event .event-desc #text:after {
         content: '';
         position: absolute;
         right: 0;
@@ -293,14 +297,14 @@ section#footer {
         margin-top: 0.2em;
         background: white; }
 
-#ue-page .event:after {
+#e-page .event:after {
   border-bottom: 2px solid lightgray;
   content: "";
   display: block;
   width: 90%;
   margin: 0 auto; }
 
-#ue-page .event:last-child::after {
+#e-page .event:last-child::after {
   border-bottom: none; }
 
 #ss-page #ss-header {
