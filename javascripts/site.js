@@ -37,7 +37,9 @@ window.onload = loadJSON(url, function(r){
           '<div class="col-xs-12 col-md-6">' +
             '<div class="row event-desc">' +
                 '<div class="col-xs-12 col-md-12"><h5>' + ar.events[i].name + '</h5></div>' +
-                '<div id="text" class="col-xs-12 col-md-12">' + ar.events[i].description + '</div>' +
+                '<div class="col-xs-12 col-md-12">' + ar.events[i].shorttext + '</div>' +
+                '<div id="' + ar.events[i].id + '" class="collapse text col-xs-12 col-md-12" aria-expanded="false">' + ar.events[i].description + '</div>' +
+                '<a role="button" class="collapsed" data-toggle="collapse" href="#' + ar.events[i].id + '" aria-expanded="false" aria-controls="' + ar.events[i].id + '"></a>' +
                 '<div class="col-xs-12 col-md-12"></br><strong>Where: </strong>' + ar.events[i].when + '</div>' +
                 '<div class="col-xs-12 col-md-12"></br><strong>When: </strong>' + ar.events[i].where + '</p></div>' +
             '</div>' +
@@ -73,9 +75,13 @@ window.onload = loadJSON(url, function(r){
 		    '</div>'
       );
     }
-    // to stimulate hover effect on touch screen devices
-    $(".img-container a").on("touchstart touched", function(e) {
-      $(this).focus();
-    });
   }
+  // to stimulate hover effect on touch screen devices
+  $(".img-container a").on("touchstart touched", function(e) {
+    $(this).focus();
+  });
+  // $(".more-text").click(function(e) {
+  //   console.log($(this).siblings("#text-long"));
+  //   // $(this).siblings("#text-long").collapse({toggle: true});
+  // });
 });
