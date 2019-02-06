@@ -77,14 +77,10 @@ section#footer {
       section#footer #contact .container #social {
         margin-top: 1em;
         display: flex;
-        justify-content: space-evenly; }
-        section#footer #contact .container #social .fa-icon {
-          font-size: 2em;
-          opacity: 0.8; }
-          section#footer #contact .container #social .fa-icon img {
-            height: 2em; }
-        section#footer #contact .container #social .fa-icon:hover {
-          opacity: 1; }
+        justify-content: space-evenly;
+        font-size: 2em; }
+        section#footer #contact .container #social img {
+          height: 2em; }
 
 #gallery-container {
   max-width: 100% !important;
@@ -278,10 +274,20 @@ section#footer {
     margin: 1em; }
     #e-page .event .event-desc a.collapsed:after {
       content: '+ Show More';
-      padding-left: 0.9em; }
+      padding-left: 1.1em;
+      font-size: 0.9em;
+      color: #000; }
     #e-page .event .event-desc a:not(.collapsed):after {
       content: '- Show Less';
-      padding-left: 0.9em; }
+      padding-left: 1.1em;
+      font-size: 0.9em;
+      color: #000; }
+    #e-page .event .event-desc .text.collapse:not(.show) {
+      display: block;
+      height: 4.5em;
+      overflow: hidden; }
+    #e-page .event .event-desc .text.collapsing {
+      height: 4.5em; }
 
 #e-page .event:after {
   border-bottom: 2px solid lightgray;

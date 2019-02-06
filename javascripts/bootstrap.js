@@ -1231,7 +1231,7 @@
       }
     };
 
-    _proto.show = function show() {
+    _proto.show = function show() {                                ///////////////////////////////////////
       var _this = this;
 
       if (this._isTransitioning || $(this._element).hasClass(ClassName$3.SHOW)) {
@@ -1279,9 +1279,9 @@
       }
 
       var dimension = this._getDimension();
-
+     
       $(this._element).removeClass(ClassName$3.COLLAPSE).addClass(ClassName$3.COLLAPSING);
-      this._element.style[dimension] = 0;
+      this._element.style[dimension] = 0; ////////
 
       if (this._triggerArray.length) {
         $(this._triggerArray).removeClass(ClassName$3.COLLAPSED).attr('aria-expanded', true);
@@ -1291,21 +1291,21 @@
 
       var complete = function complete() {
         $(_this._element).removeClass(ClassName$3.COLLAPSING).addClass(ClassName$3.COLLAPSE).addClass(ClassName$3.SHOW);
-        _this._element.style[dimension] = '';
+        _this._element.style[dimension] = ''; /////////
 
         _this.setTransitioning(false);
 
         $(_this._element).trigger(Event$3.SHOWN);
       };
-
       var capitalizedDimension = dimension[0].toUpperCase() + dimension.slice(1);
       var scrollSize = "scroll" + capitalizedDimension;
       var transitionDuration = Util.getTransitionDurationFromElement(this._element);
       $(this._element).one(Util.TRANSITION_END, complete).emulateTransitionEnd(transitionDuration);
       this._element.style[dimension] = this._element[scrollSize] + "px";
+      console.log("show at end",this._element,this._element[scrollSize] + "px");
     };
 
-    _proto.hide = function hide() {
+    _proto.hide = function hide() {                           /////////////////////////////////////////////////
       var _this2 = this;
 
       if (this._isTransitioning || !$(this._element).hasClass(ClassName$3.SHOW)) {
@@ -1322,6 +1322,7 @@
       var dimension = this._getDimension();
 
       this._element.style[dimension] = this._element.getBoundingClientRect()[dimension] + "px";
+      console.log("hide 1",this._element.getBoundingClientRect()[dimension] + "px");
       Util.reflow(this._element);
       $(this._element).addClass(ClassName$3.COLLAPSING).removeClass(ClassName$3.COLLAPSE).removeClass(ClassName$3.SHOW);
       var triggerArrayLength = this._triggerArray.length;
@@ -1349,7 +1350,7 @@
         $(_this2._element).removeClass(ClassName$3.COLLAPSING).addClass(ClassName$3.COLLAPSE).trigger(Event$3.HIDDEN);
       };
 
-      this._element.style[dimension] = '';
+      this._element.style[dimension] = ''; ////////////
       var transitionDuration = Util.getTransitionDurationFromElement(this._element);
       $(this._element).one(Util.TRANSITION_END, complete).emulateTransitionEnd(transitionDuration);
     };
