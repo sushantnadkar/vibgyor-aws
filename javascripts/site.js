@@ -12,7 +12,7 @@ function loadJSON(url, callback) {
   xobj.send(null);  
 }
 
-var url = 'https://sushantnadkar.github.io/vibgyoraws/data/data.js';
+var url = 'data/data.js';//'https://sushantnadkar.github.io/vibgyoraws/data/data.js';
 
 window.onload = loadJSON(url, function(r){
   var ar = JSON.parse(r);
@@ -47,15 +47,29 @@ window.onload = loadJSON(url, function(r){
       );
     }
   }
-  for(i = 0; i < ar.successstories.length; i++) {
-    //success stories page
-    if($("#ss-page").length !== 0) {
-      $("#ss-page").append(
-        '<div class="row event">' +
-          '<div class="col-xs-12 col-md-12">' +
-              '<img class="event-img" src="' + ar.successstories[0].image + '"></img>' +
-              '<h4>' + ar.successstories[0].title + '</h4>' +
-              '<p>' + ar.successstories[0].story + '</p>' +
+  for(i = 0; i < ar.testimonials.length; i++) {
+    //testimonials page
+    if($("#t-page").length !== 0) {
+      var img_class = "";
+      var attribution_class = "";
+      if( i % 2 == 0 ) {
+        img_class = "float-left";
+        attribution_class = "text-right";
+      } else {
+        img_class = "float-right";
+        attribution_class = "text-left";  
+      }
+
+      $("#t-page").append(
+        '<div class="row testimonial">' +
+          '<div class="col-8 quote">' +
+            '<img class="testimonial-img rounded-circle ' + img_class + '" src="' + ar.testimonials[i].image + '"></img>' +
+            '<p>' + ar.testimonials[i].quote + '</p>' +
+          '</div>' +
+          '<div class="col-8 attribution">' +
+            '<p class="' + attribution_class + ' name">' + ar.testimonials[i].name + '</p>' +
+            '<p class="' + attribution_class + ' title">' + ar.testimonials[i].title + '</p>' +
+            '<p class="' + attribution_class + ' company">' + ar.testimonials[i].company + '</p>' +
           '</div>' +
         '</div>'
       );

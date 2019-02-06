@@ -42,7 +42,7 @@
     "testimonials": [
       {
         "id": "testimony-1",
-        "image": "images/clothesdonation.jpg",
+        "image": "images/sushant-nadkar.jpg",
         "name": "Lorem Ipsum",
         "title": "simply dummy text",
         "company": "typesetting industry",
@@ -50,7 +50,7 @@
       },
       {
         "id": "testimony-2",
-        "image": "images/clothesdonation.jpg",
+        "image": "images/sushant-nadkar.jpg",
         "name": "Lorem Ipsum",
         "title": "simply dummy text",
         "company": "typesetting industry",
