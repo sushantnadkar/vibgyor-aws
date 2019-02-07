@@ -62,11 +62,11 @@ window.onload = loadJSON(url, function(r){
 
       $("#t-page").append(
         '<div class="row testimonial">' +
-          '<div class="col-8 quote">' +
+          '<div class="col-md-8 quote">' +
             '<img class="testimonial-img rounded-circle ' + img_class + '" src="' + ar.testimonials[i].image + '"></img>' +
             '<p>' + ar.testimonials[i].quote + '</p>' +
           '</div>' +
-          '<div class="col-8 attribution">' +
+          '<div class="col-md-8 attribution">' +
             '<p class="' + attribution_class + ' name">' + ar.testimonials[i].name + '</p>' +
             '<p class="' + attribution_class + ' title">' + ar.testimonials[i].title + '</p>' +
             '<p class="' + attribution_class + ' company">' + ar.testimonials[i].company + '</p>' +
