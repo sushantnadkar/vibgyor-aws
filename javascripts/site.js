@@ -89,6 +89,20 @@ window.onload = loadJSON(url, function(r){
       );
     }
   }
+  for(var i = 0; i < ar.booklist.length; i++) {
+    if($("tbody").length !== 0) {
+      $("tbody").append(
+        '<tr class="row100 body">'+
+          '<td class="cell100 column1">' + ar.booklist[i].bookno + '</td>'+
+          '<td class="cell100 column2">' + ar.booklist[i].bookname + '</td>'+
+          '<td class="cell100 column3">' + ar.booklist[i].author + '</td>' +
+        '</tr>'
+      );
+    }
+    if($("tbody").length !== 0) {
+      $(".spinner").parent().remove();
+    }
+  }
   // to stimulate hover effect on touch screen devices
   $(".img-container a").on("touchstart touched", function(e) {
     $(this).focus();
