@@ -117,7624 +117,7624 @@
       ],
       "booklist": [
         {
-          "Book No": "M1-001",
-          "Book Name": "Kutumbsoukhya",
-          "Writer": "Aasha Parulekar"
+          "bookno": "M1-001",
+          "bookname": "Kutumbsoukhya",
+          "author": "Aasha Parulekar"
         },
         {
-          "Book No": "M1-002",
-          "Book Name": "Chala Utha Kaamaala Laagaa",
-          "Writer": "Anjali Naravane"
+          "bookno": "M1-002",
+          "bookname": "Chala Utha Kaamaala Laagaa",
+          "author": "Anjali Naravane"
         },
         {
-          "Book No": "M1-003",
-          "Book Name": "1, Vijaypath",
-          "Writer": "Avinash Dharmadhikari"
+          "bookno": "M1-003",
+          "bookname": "1, Vijaypath",
+          "author": "Avinash Dharmadhikari"
         },
         {
-          "Book No": "M1-004",
-          "Book Name": "Paalak Baalak Susamvaad",
-          "Writer": "Bhalachandra Sathe"
+          "bookno": "M1-004",
+          "bookname": "Paalak Baalak Susamvaad",
+          "author": "Bhalachandra Sathe"
         },
         {
-          "Book No": "M1-005",
-          "Book Name": "Eka Psychiatrist chi Diary",
-          "Writer": "Dr. Anand Nadkarni"
+          "bookno": "M1-005",
+          "bookname": "Eka Psychiatrist chi Diary",
+          "author": "Dr. Anand Nadkarni"
         },
         {
-          "Book No": "M1-006",
-          "Book Name": "Aapala Mool Hushaar Aahe Ka",
-          "Writer": "Dr. Anuradha Sovani"
+          "bookno": "M1-006",
+          "bookname": "Aapala Mool Hushaar Aahe Ka",
+          "author": "Dr. Anuradha Sovani"
         },
         {
-          "Book No": "M1-007",
-          "Book Name": "Tanaavmukta Jagnyaasathi",
-          "Writer": "Dr. Christain shiner"
+          "bookno": "M1-007",
+          "bookname": "Tanaavmukta Jagnyaasathi",
+          "author": "Dr. Christain shiner"
         },
         {
-          "Book No": "M1-008",
-          "Book Name": "Gharoghari Dnayneshwar Janmati",
-          "Writer": "Dr. H.V. Sardesai"
+          "bookno": "M1-008",
+          "bookname": "Gharoghari Dnayneshwar Janmati",
+          "author": "Dr. H.V. Sardesai"
         },
         {
-          "Book No": "M1-009",
-          "Book Name": "Phuloraa",
-          "Writer": "Dr. Rajendra Barve"
+          "bookno": "M1-009",
+          "bookname": "Phuloraa",
+          "author": "Dr. Rajendra Barve"
         },
         {
-          "Book No": "M1-010",
-          "Book Name": "Kathaa Palakaanchyaa Vyathaa Mulanchyaa",
-          "Writer": "Dr. Rajendra Barve"
+          "bookno": "M1-010",
+          "bookname": "Kathaa Palakaanchyaa Vyathaa Mulanchyaa",
+          "author": "Dr. Rajendra Barve"
         },
         {
-          "Book No": "M1-011",
-          "Book Name": "Zatakoon Taak Jeeeva",
-          "Writer": "Dr. Rajendra Barve"
+          "bookno": "M1-011",
+          "bookname": "Zatakoon Taak Jeeeva",
+          "author": "Dr. Rajendra Barve"
         },
         {
-          "Book No": "M1-012",
-          "Book Name": "Aapale Mool",
-          "Writer": "Dr. V. B. Athavle"
+          "bookno": "M1-012",
+          "bookname": "Aapale Mool",
+          "author": "Dr. V. B. Athavle"
         },
         {
-          "Book No": "M1-013",
-          "Book Name": "Chicken Soup for the Soul",
-          "Writer": "Jack Canfield"
+          "bookno": "M1-013",
+          "bookname": "Chicken Soup for the Soul",
+          "author": "Jack Canfield"
         },
         {
-          "Book No": "M1-014",
-          "Book Name": "Bhaygand aani Nyungand",
-          "Writer": "Madhukar Dighe "
+          "bookno": "M1-014",
+          "bookname": "Bhaygand aani Nyungand",
+          "author": "Madhukar Dighe "
         },
         {
-          "Book No": "M1-015",
-          "Book Name": "Kimaya Antarmanachi",
-          "Writer": "Madhukar Dighe "
+          "bookno": "M1-015",
+          "bookname": "Kimaya Antarmanachi",
+          "author": "Madhukar Dighe "
         },
         {
-          "Book No": "M1-016",
-          "Book Name": "S. S. C. Turning Point",
-          "Writer": "Mahendra Baisane"
+          "bookno": "M1-016",
+          "bookname": "S. S. C. Turning Point",
+          "author": "Mahendra Baisane"
         },
         {
-          "Book No": "M1-017",
-          "Book Name": "Vayat Yetana",
-          "Writer": "Mangala Godbole"
+          "bookno": "M1-017",
+          "bookname": "Vayat Yetana",
+          "author": "Mangala Godbole"
         },
         {
-          "Book No": "M1-018",
-          "Book Name": "Sujaan Palakatva",
-          "Writer": "Meena Takalkar"
+          "bookno": "M1-018",
+          "bookname": "Sujaan Palakatva",
+          "author": "Meena Takalkar"
         },
         {
-          "Book No": "M1-019",
-          "Book Name": "Ghadnarya Mulansathi",
-          "Writer": "Praveen Davne"
+          "bookno": "M1-019",
+          "bookname": "Ghadnarya Mulansathi",
+          "author": "Praveen Davne"
         },
         {
-          "Book No": "M1-020",
-          "Book Name": "Chhotisi Baat",
-          "Writer": "Rajeev Tambe"
+          "bookno": "M1-020",
+          "bookname": "Chhotisi Baat",
+          "author": "Rajeev Tambe"
         },
         {
-          "Book No": "M1-021",
-          "Book Name": "Yashachi Gaurantee",
-          "Writer": "Rajesh Kolambkar"
+          "bookno": "M1-021",
+          "bookname": "Yashachi Gaurantee",
+          "author": "Rajesh Kolambkar"
         },
         {
-          "Book No": "M1-022",
-          "Book Name": "Rich Dad Poor Dad",
-          "Writer": "Robert Kiosaki"
+          "bookno": "M1-022",
+          "bookname": "Rich Dad Poor Dad",
+          "author": "Robert Kiosaki"
         },
         {
-          "Book No": "M1-023",
-          "Book Name": "Yougik Kriya",
-          "Writer": "Sadashiv Nimbalkar"
+          "bookno": "M1-023",
+          "bookname": "Yougik Kriya",
+          "author": "Sadashiv Nimbalkar"
         },
         {
-          "Book No": "M1-024",
-          "Book Name": "Jagaa Pan Sanmanane",
-          "Writer": "Shiv Khera"
+          "bookno": "M1-024",
+          "bookname": "Jagaa Pan Sanmanane",
+          "author": "Shiv Khera"
         },
         {
-          "Book No": "M1-025",
-          "Book Name": "Mi Vijeta Honarach",
-          "Writer": "Umesh Kankavlikar"
+          "bookno": "M1-025",
+          "bookname": "Mi Vijeta Honarach",
+          "author": "Umesh Kankavlikar"
         },
         {
-          "Book No": "M1-026",
-          "Book Name": "Aapala Baal",
-          "Writer": "V. S. Apte"
+          "bookno": "M1-026",
+          "bookname": "Aapala Baal",
+          "author": "V. S. Apte"
         },
         {
-          "Book No": "M1-027",
-          "Book Name": "Jeevansaathichi Nivad",
-          "Writer": "Vanaraaj Malvi"
+          "bookno": "M1-027",
+          "bookname": "Jeevansaathichi Nivad",
+          "author": "Vanaraaj Malvi"
         },
         {
-          "Book No": "M1-028",
-          "Book Name": "Manachyaa Shakti Ani Taannivaaran",
-          "Writer": "Kumud Bedarkar"
+          "bookno": "M1-028",
+          "bookname": "Manachyaa Shakti Ani Taannivaaran",
+          "author": "Kumud Bedarkar"
         },
         {
-          "Book No": "M1-029",
-          "Book Name": "Aapali Mule Ka Bighadtat?",
-          "Writer": "Anuradha Sovani"
+          "bookno": "M1-029",
+          "bookname": "Aapali Mule Ka Bighadtat?",
+          "author": "Anuradha Sovani"
         },
         {
-          "Book No": "M1-030",
-          "Book Name": "The Monk Who Sold His Ferrari",
-          "Writer": "Robin Sharma"
+          "bookno": "M1-030",
+          "bookname": "The Monk Who Sold His Ferrari",
+          "author": "Robin Sharma"
         },
         {
-          "Book No": "M1-031",
-          "Book Name": "Kaatkasar Va Bachat",
-          "Writer": "H.A. Bhave (Transl)"
+          "bookno": "M1-031",
+          "bookname": "Kaatkasar Va Bachat",
+          "author": "H.A. Bhave (Transl)"
         },
         {
-          "Book No": "M1-032",
-          "Book Name": "Aapali Mula Ghadavitana",
-          "Writer": "Milind Joshi"
+          "bookno": "M1-032",
+          "bookname": "Aapali Mula Ghadavitana",
+          "author": "Milind Joshi"
         },
         {
-          "Book No": "M1-033",
-          "Book Name": "Manorama General Knowledge",
-          "Writer": "Bipinchandra Dhapare"
+          "bookno": "M1-033",
+          "bookname": "Manorama General Knowledge",
+          "author": "Bipinchandra Dhapare"
         },
         {
-          "Book No": "M1-034",
-          "Book Name": "Yashaache Rahasya",
-          "Writer": "Pradeep Pawar"
+          "bookno": "M1-034",
+          "bookname": "Yashaache Rahasya",
+          "author": "Pradeep Pawar"
         },
         {
-          "Book No": "M1-035",
-          "Book Name": "Vaktrutva: Tantra Aani Mantra",
-          "Writer": "Parikshit Shevade"
+          "bookno": "M1-035",
+          "bookname": "Vaktrutva: Tantra Aani Mantra",
+          "author": "Parikshit Shevade"
         },
         {
-          "Book No": "M1-036",
-          "Book Name": "Susanvaad Sahakaaryaanshi",
-          "Writer": "Avinaash Bhome (Transl)"
+          "bookno": "M1-036",
+          "bookname": "Susanvaad Sahakaaryaanshi",
+          "author": "Avinaash Bhome (Transl)"
         },
         {
-          "Book No": "M1-037",
-          "Book Name": "Haach Yashaachaa Maarga",
-          "Writer": "Madhav Potdar"
+          "bookno": "M1-037",
+          "bookname": "Haach Yashaachaa Maarga",
+          "author": "Madhav Potdar"
         },
         {
-          "Book No": "M1-038",
-          "Book Name": "Yash Tumchyaa Haataat",
-          "Writer": "Shiv Khera"
+          "bookno": "M1-038",
+          "bookname": "Yash Tumchyaa Haataat",
+          "author": "Shiv Khera"
         },
         {
-          "Book No": "M1-039",
-          "Book Name": "Jagaa Pan Sanmanane",
-          "Writer": "Shiv Khera"
+          "bookno": "M1-039",
+          "bookname": "Jagaa Pan Sanmanane",
+          "author": "Shiv Khera"
         },
         {
-          "Book No": "M1-040",
-          "Book Name": "Aatmavishwaas",
-          "Writer": "Krushkant Khamkar"
+          "bookno": "M1-040",
+          "bookname": "Aatmavishwaas",
+          "author": "Krushkant Khamkar"
         },
         {
-          "Book No": "M1-041",
-          "Book Name": "Yash Fakta sahaa Paavalaanvar",
-          "Writer": "Dinesh Vora"
+          "bookno": "M1-041",
+          "bookname": "Yash Fakta sahaa Paavalaanvar",
+          "author": "Dinesh Vora"
         },
         {
-          "Book No": "M1-042",
-          "Book Name": "University of Success: Jag Jinku Chala",
-          "Writer": "Baal Sadwelkar"
+          "bookno": "M1-042",
+          "bookname": "University of Success: Jag Jinku Chala",
+          "author": "Baal Sadwelkar"
         },
         {
-          "Book No": "M1-043",
-          "Book Name": "Yatna To Deo Jaanaavaa",
-          "Writer": "H. A. Bhave"
+          "bookno": "M1-043",
+          "bookname": "Yatna To Deo Jaanaavaa",
+          "author": "H. A. Bhave"
         },
         {
-          "Book No": "M1-044",
-          "Book Name": "Yashaacha Kaanmantra",
-          "Writer": "Anant Pai"
+          "bookno": "M1-044",
+          "bookname": "Yashaacha Kaanmantra",
+          "author": "Anant Pai"
         },
         {
-          "Book No": "M1-045",
-          "Book Name": "Gaatha Udyogpatinchya Anubhavanchi",
-          "Writer": "Vanaraaj Maalvi"
+          "bookno": "M1-045",
+          "bookname": "Gaatha Udyogpatinchya Anubhavanchi",
+          "author": "Vanaraaj Maalvi"
         },
         {
-          "Book No": "M1-046",
-          "Book Name": "Surya Dondaa Ugavla",
-          "Writer": "Shyam Talvadekar"
+          "bookno": "M1-046",
+          "bookname": "Surya Dondaa Ugavla",
+          "author": "Shyam Talvadekar"
         },
         {
-          "Book No": "M1-047",
-          "Book Name": "Naapaas Mulanchi Goshta",
-          "Writer": "Arun Shevte"
+          "bookno": "M1-047",
+          "bookname": "Naapaas Mulanchi Goshta",
+          "author": "Arun Shevte"
         },
         {
-          "Book No": "M1-048",
-          "Book Name": "Abhyaas Kaushalya",
-          "Writer": "Dr. Nandini Divan"
+          "bookno": "M1-048",
+          "bookname": "Abhyaas Kaushalya",
+          "author": "Dr. Nandini Divan"
         },
         {
-          "Book No": "M1-049",
-          "Book Name": "Sammohan Upchar - Ek Vardan",
-          "Writer": "Dr. Dhansingh Chaudhary"
+          "bookno": "M1-049",
+          "bookname": "Sammohan Upchar - Ek Vardan",
+          "author": "Dr. Dhansingh Chaudhary"
         },
         {
-          "Book No": "M1-050",
-          "Book Name": "Vishadiyog",
-          "Writer": "Dr. Anand Nadkarni"
+          "bookno": "M1-050",
+          "bookname": "Vishadiyog",
+          "author": "Dr. Anand Nadkarni"
         },
         {
-          "Book No": "M1-051",
-          "Book Name": "Balsangopan",
-          "Writer": "Dr. Deepak Kelkar"
+          "bookno": "M1-051",
+          "bookname": "Balsangopan",
+          "author": "Dr. Deepak Kelkar"
         },
         {
-          "Book No": "M1-052",
-          "Book Name": "Maitricha Mantra",
-          "Writer": "H.A. Bhave"
+          "bookno": "M1-052",
+          "bookname": "Maitricha Mantra",
+          "author": "H.A. Bhave"
         },
         {
-          "Book No": "M1-053",
-          "Book Name": "Sukhi Manasacha Sadara",
-          "Writer": "Karuna Gokhale"
+          "bookno": "M1-053",
+          "bookname": "Sukhi Manasacha Sadara",
+          "author": "Karuna Gokhale"
         },
         {
-          "Book No": "M1-054",
-          "Book Name": "Maanus Naavache Jagane",
-          "Writer": "Dr. Ravin Thatte"
+          "bookno": "M1-054",
+          "bookname": "Maanus Naavache Jagane",
+          "author": "Dr. Ravin Thatte"
         },
         {
-          "Book No": "M1-055",
-          "Book Name": "Vaastuvistaar",
-          "Writer": "Dr. Sahasrabuddhe"
+          "bookno": "M1-055",
+          "bookname": "Vaastuvistaar",
+          "author": "Dr. Sahasrabuddhe"
         },
         {
-          "Book No": "M1-056",
-          "Book Name": "Shikshanyaatraa",
-          "Writer": "Lataa Kaatdare"
+          "bookno": "M1-056",
+          "bookname": "Shikshanyaatraa",
+          "author": "Lataa Kaatdare"
         },
         {
-          "Book No": "M1-057",
-          "Book Name": "Tumhi Un Tumachi Mula",
-          "Writer": "C. Northcoat Parkinson"
+          "bookno": "M1-057",
+          "bookname": "Tumhi Un Tumachi Mula",
+          "author": "C. Northcoat Parkinson"
         },
         {
-          "Book No": "M1-058",
-          "Book Name": "Teraa Te Tevis",
-          "Writer": "Mukta Chaitanya"
+          "bookno": "M1-058",
+          "bookname": "Teraa Te Tevis",
+          "author": "Mukta Chaitanya"
         },
         {
-          "Book No": "M1-059",
-          "Book Name": "Aapali Mula",
-          "Writer": "Shobha Bhagavat"
+          "bookno": "M1-059",
+          "bookname": "Aapali Mula",
+          "author": "Shobha Bhagavat"
         },
         {
-          "Book No": "M1-060",
-          "Book Name": "Swabhaav Vibhaav",
-          "Writer": "Dr. Anand Nadkarni"
+          "bookno": "M1-060",
+          "bookname": "Swabhaav Vibhaav",
+          "author": "Dr. Anand Nadkarni"
         },
         {
-          "Book No": "M1-061",
-          "Book Name": "Kadhitari He Bolayalaach Have",
-          "Writer": "Dr. Amol Annadaate"
+          "bookno": "M1-061",
+          "bookname": "Kadhitari He Bolayalaach Have",
+          "author": "Dr. Amol Annadaate"
         },
         {
-          "Book No": "M1-062",
-          "Book Name": "Kovali Mane Savarnaare Haat",
-          "Writer": "Dr. Anuradha Sovani"
+          "bookno": "M1-062",
+          "bookname": "Kovali Mane Savarnaare Haat",
+          "author": "Dr. Anuradha Sovani"
         },
         {
-          "Book No": "M1-063",
-          "Book Name": "Mazya Kaalajachi Gosht",
-          "Writer": "Sunita Sangawai"
+          "bookno": "M1-063",
+          "bookname": "Mazya Kaalajachi Gosht",
+          "author": "Sunita Sangawai"
         },
         {
-          "Book No": "M1-064",
-          "Book Name": "Mula Ghadataanaa Ghadavitaanaa",
-          "Writer": "Renu Dandekar"
+          "bookno": "M1-064",
+          "bookname": "Mula Ghadataanaa Ghadavitaanaa",
+          "author": "Renu Dandekar"
         },
         {
-          "Book No": "M1-065",
-          "Book Name": "Chintan",
-          "Writer": "Kalpanaa Ksheersagar"
+          "bookno": "M1-065",
+          "bookname": "Chintan",
+          "author": "Kalpanaa Ksheersagar"
         },
         {
-          "Book No": "M1-066",
-          "Book Name": "Baalakanchaa Hatt",
-          "Writer": "Tarabai Modak"
+          "bookno": "M1-066",
+          "bookname": "Baalakanchaa Hatt",
+          "author": "Tarabai Modak"
         },
         {
-          "Book No": "M1-067",
-          "Book Name": "He Hi Divas Jaatil",
-          "Writer": "Dr. Anand Nadkarni"
+          "bookno": "M1-067",
+          "bookname": "He Hi Divas Jaatil",
+          "author": "Dr. Anand Nadkarni"
         },
         {
-          "Book No": "M1-068",
-          "Book Name": "Brain Programming",
-          "Writer": "Dr. Rama Marathe"
+          "bookno": "M1-068",
+          "bookname": "Brain Programming",
+          "author": "Dr. Rama Marathe"
         },
         {
-          "Book No": "M1-069",
-          "Book Name": "Karm Dharm Sanyog",
-          "Writer": "Dr. Anand Nadkarni"
+          "bookno": "M1-069",
+          "bookname": "Karm Dharm Sanyog",
+          "author": "Dr. Anand Nadkarni"
         },
         {
-          "Book No": "M1-070",
-          "Book Name": "Diabitees Va Hriday Raktavahinyanche Vikar",
-          "Writer": "Dr. D. S. Kulkarni"
+          "bookno": "M1-070",
+          "bookname": "Diabitees Va Hriday Raktavahinyanche Vikar",
+          "author": "Dr. D. S. Kulkarni"
         },
         {
-          "Book No": "M1-071",
-          "Book Name": "Shivaji-The Management Guru",
-          "Writer": "Prof. Namdeorav Jadhav"
+          "bookno": "M1-071",
+          "bookname": "Shivaji-The Management Guru",
+          "author": "Prof. Namdeorav Jadhav"
         },
         {
-          "Book No": "M1-072",
-          "Book Name": "Manat",
-          "Writer": "Atchyut Godbole"
+          "bookno": "M1-072",
+          "bookname": "Manat",
+          "author": "Atchyut Godbole"
         },
         {
-          "Book No": "M1-073",
-          "Book Name": "Chhoti Si Baat",
-          "Writer": "Rajeev Tambe"
+          "bookno": "M1-073",
+          "bookname": "Chhoti Si Baat",
+          "author": "Rajeev Tambe"
         },
         {
-          "Book No": "M1-074",
-          "Book Name": "I'm OK, You Are OK",
-          "Writer": "Dr. Thomas Harrris"
+          "bookno": "M1-074",
+          "bookname": "I'm OK, You Are OK",
+          "author": "Dr. Thomas Harrris"
         },
         {
-          "Book No": "M1-075",
-          "Book Name": "Maazi Paalakniti",
-          "Writer": "Mangala Godbole"
+          "bookno": "M1-075",
+          "bookname": "Maazi Paalakniti",
+          "author": "Mangala Godbole"
         },
         {
-          "Book No": "M1-076",
-          "Book Name": "Accupressure",
-          "Writer": "Dr. Gaala"
+          "bookno": "M1-076",
+          "bookname": "Accupressure",
+          "author": "Dr. Gaala"
         },
         {
-          "Book No": "M1-077",
-          "Book Name": "Yog Pravesh",
-          "Writer": "Vishwas Mandlik"
+          "bookno": "M1-077",
+          "bookname": "Yog Pravesh",
+          "author": "Vishwas Mandlik"
         },
         {
-          "Book No": "M1-078",
-          "Book Name": "Self Leadership and the One Minute Manager",
-          "Writer": "Ken Blanchard"
+          "bookno": "M1-078",
+          "bookname": "Self Leadership and the One Minute Manager",
+          "author": "Ken Blanchard"
         },
         {
-          "Book No": "M1-079",
-          "Book Name": "The Secret",
-          "Writer": ""
+          "bookno": "M1-079",
+          "bookname": "The Secret",
+          "author": ""
         },
         {
-          "Book No": "M1-080",
-          "Book Name": "Tumcha Hasta Resha Kay Sangtat",
-          "Writer": "Nilikash Pradhan"
+          "bookno": "M1-080",
+          "bookname": "Tumcha Hasta Resha Kay Sangtat",
+          "author": "Nilikash Pradhan"
         },
         {
-          "Book No": "M1-081",
-          "Book Name": "Doctorani Sangitlelya Manorugnanchya Satya Katha",
-          "Writer": "Vasu Bharadwaj"
+          "bookno": "M1-081",
+          "bookname": "Doctorani Sangitlelya Manorugnanchya Satya Katha",
+          "author": "Vasu Bharadwaj"
         },
         {
-          "Book No": "M1-082",
-          "Book Name": "Vichar Niyam (The Ower of Thoughts)",
-          "Writer": "Sarashree"
+          "bookno": "M1-082",
+          "bookname": "Vichar Niyam (The Ower of Thoughts)",
+          "author": "Sarashree"
         },
         {
-          "Book No": "M1-083",
-          "Book Name": "Shrimanta Honyache Niyam",
-          "Writer": "Richard Templar"
+          "bookno": "M1-083",
+          "bookname": "Shrimanta Honyache Niyam",
+          "author": "Richard Templar"
         },
         {
-          "Book No": "M1-084",
-          "Book Name": "Pudhe Vha",
-          "Writer": "Yadunath Tathe"
+          "bookno": "M1-084",
+          "bookname": "Pudhe Vha",
+          "author": "Yadunath Tathe"
         },
         {
-          "Book No": "M1-085",
-          "Book Name": "Yashashikhar",
-          "Writer": "Swami Vivekanand"
+          "bookno": "M1-085",
+          "bookname": "Yashashikhar",
+          "author": "Swami Vivekanand"
         },
         {
-          "Book No": "M1-086",
-          "Book Name": "Yashashastra",
-          "Writer": "Abdulsalam  Usmaan Chaus"
+          "bookno": "M1-086",
+          "bookname": "Yashashastra",
+          "author": "Abdulsalam  Usmaan Chaus"
         },
         {
-          "Book No": "M1-087",
-          "Book Name": "Swathala Oolkha",
-          "Writer": "Savita Nabar"
+          "bookno": "M1-087",
+          "bookname": "Swathala Oolkha",
+          "author": "Savita Nabar"
         },
         {
-          "Book No": "M1-088",
-          "Book Name": "Yash Tumchya Hatat",
-          "Writer": "Shiv Khera"
+          "bookno": "M1-088",
+          "bookname": "Yash Tumchya Hatat",
+          "author": "Shiv Khera"
         },
         {
-          "Book No": "M1-089",
-          "Book Name": "Kaamachi Kemaya",
-          "Writer": "G. N. Sapri"
+          "bookno": "M1-089",
+          "bookname": "Kaamachi Kemaya",
+          "author": "G. N. Sapri"
         },
         {
-          "Book No": "M2-001",
-          "Book Name": "Karyarat",
-          "Writer": "Anil Avchat"
+          "bookno": "M2-001",
+          "bookname": "Karyarat",
+          "author": "Anil Avchat"
         },
         {
-          "Book No": "M2-002",
-          "Book Name": "Baba Amte",
-          "Writer": "B. G. Baapat"
+          "bookno": "M2-002",
+          "bookname": "Baba Amte",
+          "author": "B. G. Baapat"
         },
         {
-          "Book No": "M2-003",
-          "Book Name": "Baba Amte",
-          "Writer": "Dr. Govind Kasat"
+          "bookno": "M2-003",
+          "bookname": "Baba Amte",
+          "author": "Dr. Govind Kasat"
         },
         {
-          "Book No": "M2-004",
-          "Book Name": "Aamcha Baap An Amhi",
-          "Writer": "Dr. Narendra Jadhav"
+          "bookno": "M2-004",
+          "bookname": "Aamcha Baap An Amhi",
+          "author": "Dr. Narendra Jadhav"
         },
         {
-          "Book No": "M2-005",
-          "Book Name": "Snehankit",
-          "Writer": "Editor Arun Shevte"
+          "bookno": "M2-005",
+          "bookname": "Snehankit",
+          "author": "Editor Arun Shevte"
         },
         {
-          "Book No": "M2-006",
-          "Book Name": "Gandhihatya Ani Mi",
-          "Writer": "Gopal Godse"
+          "bookno": "M2-006",
+          "bookname": "Gandhihatya Ani Mi",
+          "author": "Gopal Godse"
         },
         {
-          "Book No": "M2-007",
-          "Book Name": "Chaar Nagaratle Maaze Vishwa",
-          "Writer": "Jayant Narlikar"
+          "bookno": "M2-007",
+          "bookname": "Chaar Nagaratle Maaze Vishwa",
+          "author": "Jayant Narlikar"
         },
         {
-          "Book No": "M2-008",
-          "Book Name": "Na Khant Na Khed",
-          "Writer": "Krushna Hathi Sing"
+          "bookno": "M2-008",
+          "bookname": "Na Khant Na Khed",
+          "author": "Krushna Hathi Sing"
         },
         {
-          "Book No": "M2-009",
-          "Book Name": "Smritichitre",
-          "Writer": "Lakshmiai Tilak"
+          "bookno": "M2-009",
+          "bookname": "Smritichitre",
+          "author": "Lakshmiai Tilak"
         },
         {
-          "Book No": "M2-010",
-          "Book Name": "Nepolean Charitra",
-          "Writer": "M. S. Deexit"
+          "bookno": "M2-010",
+          "bookname": "Nepolean Charitra",
+          "author": "M. S. Deexit"
         },
         {
-          "Book No": "M2-011",
-          "Book Name": "Mi Atre Bolatoy",
-          "Writer": "P. K. Atre"
+          "bookno": "M2-011",
+          "bookname": "Mi Atre Bolatoy",
+          "author": "P. K. Atre"
         },
         {
-          "Book No": "M2-012",
-          "Book Name": "Surya Pernara Manus",
-          "Writer": "Praveen Davne"
+          "bookno": "M2-012",
+          "bookname": "Surya Pernara Manus",
+          "author": "Praveen Davne"
         },
         {
-          "Book No": "M2-013",
-          "Book Name": "Aamchya Aayushyatil Kaahi Aathvani",
-          "Writer": "Ramabai Ranade"
+          "bookno": "M2-013",
+          "bookname": "Aamchya Aayushyatil Kaahi Aathvani",
+          "author": "Ramabai Ranade"
         },
         {
-          "Book No": "M2-014",
-          "Book Name": "Katha Gautam Buddhachi",
-          "Writer": "Ramesh Patange"
+          "bookno": "M2-014",
+          "bookname": "Katha Gautam Buddhachi",
+          "author": "Ramesh Patange"
         },
         {
-          "Book No": "M2-015",
-          "Book Name": "Samidha",
-          "Writer": "Sadhana Amte"
+          "bookno": "M2-015",
+          "bookname": "Samidha",
+          "author": "Sadhana Amte"
         },
         {
-          "Book No": "M2-016",
-          "Book Name": "Maazya Jalmachi Chittarkatha",
-          "Writer": "Shantabai Kamle"
+          "bookno": "M2-016",
+          "bookname": "Maazya Jalmachi Chittarkatha",
+          "author": "Shantabai Kamle"
         },
         {
-          "Book No": "M2-017",
-          "Book Name": "Ek Izam Niragas",
-          "Writer": "Suhasini Malde"
+          "bookno": "M2-017",
+          "bookname": "Ek Izam Niragas",
+          "author": "Suhasini Malde"
         },
         {
-          "Book No": "M2-018",
-          "Book Name": "Head Hunter",
-          "Writer": "Sumedh Vadawala"
+          "bookno": "M2-018",
+          "bookname": "Head Hunter",
+          "author": "Sumedh Vadawala"
         },
         {
-          "Book No": "M2-019",
-          "Book Name": "Vapu",
-          "Writer": "Swati Chandorkar"
+          "bookno": "M2-019",
+          "bookname": "Vapu",
+          "author": "Swati Chandorkar"
         },
         {
-          "Book No": "M2-020",
-          "Book Name": "Maazi Janmathep",
-          "Writer": "V. D. Savarkar"
+          "bookno": "M2-020",
+          "bookname": "Maazi Janmathep",
+          "author": "V. D. Savarkar"
         },
         {
-          "Book No": "M2-021",
-          "Book Name": "Dr. Ayda Skadar",
-          "Writer": "Veena Gavankar"
+          "bookno": "M2-021",
+          "bookname": "Dr. Ayda Skadar",
+          "author": "Veena Gavankar"
         },
         {
-          "Book No": "M2-022",
-          "Book Name": "Ek Hota Carver",
-          "Writer": "Veena Gavankar"
+          "bookno": "M2-022",
+          "bookname": "Ek Hota Carver",
+          "author": "Veena Gavankar"
         },
         {
-          "Book No": "M2-023",
-          "Book Name": "Idli, Orchid ani Mi",
-          "Writer": "Vitthal Kamat"
+          "bookno": "M2-023",
+          "bookname": "Idli, Orchid ani Mi",
+          "author": "Vitthal Kamat"
         },
         {
-          "Book No": "M2-024",
-          "Book Name": "Karunashtak",
-          "Writer": "Vyeankatesh Madhulkar"
+          "bookno": "M2-024",
+          "bookname": "Karunashtak",
+          "author": "Vyeankatesh Madhulkar"
         },
         {
-          "Book No": "M2-025",
-          "Book Name": "Ketkarvahini",
-          "Writer": "Uma Kulkarni"
+          "bookno": "M2-025",
+          "bookname": "Ketkarvahini",
+          "author": "Uma Kulkarni"
         },
         {
-          "Book No": "M2-026",
-          "Book Name": "Bheemsen",
-          "Writer": "Vasant Potdar"
+          "bookno": "M2-026",
+          "bookname": "Bheemsen",
+          "author": "Vasant Potdar"
         },
         {
-          "Book No": "M2-027",
-          "Book Name": "Mohammad Rafi",
-          "Writer": "Subhashchandra Jadhav"
+          "bookno": "M2-027",
+          "bookname": "Mohammad Rafi",
+          "author": "Subhashchandra Jadhav"
         },
         {
-          "Book No": "M2-028",
-          "Book Name": "Veerappan",
-          "Writer": "Sunaad Raghuram"
+          "bookno": "M2-028",
+          "bookname": "Veerappan",
+          "author": "Sunaad Raghuram"
         },
         {
-          "Book No": "M2-029",
-          "Book Name": "Maaza Desh, Maazi Manasa",
-          "Writer": "Dalai Lama"
+          "bookno": "M2-029",
+          "bookname": "Maaza Desh, Maazi Manasa",
+          "author": "Dalai Lama"
         },
         {
-          "Book No": "M2-030",
-          "Book Name": "Ravindranathanchya Sahavasat",
-          "Writer": "Maitreyi Devi"
+          "bookno": "M2-030",
+          "bookname": "Ravindranathanchya Sahavasat",
+          "author": "Maitreyi Devi"
         },
         {
-          "Book No": "M2-031",
-          "Book Name": "Vairyachi Ek Raatra",
-          "Writer": "Olga Lengyel"
+          "bookno": "M2-031",
+          "bookname": "Vairyachi Ek Raatra",
+          "author": "Olga Lengyel"
         },
         {
-          "Book No": "M2-032",
-          "Book Name": "Sant Kabeer",
-          "Writer": "Shanti Sethi"
+          "bookno": "M2-032",
+          "bookname": "Sant Kabeer",
+          "author": "Shanti Sethi"
         },
         {
-          "Book No": "M2-033",
-          "Book Name": "Saradar Vallabhbhai Patel",
-          "Writer": "V. R. Kale"
+          "bookno": "M2-033",
+          "bookname": "Saradar Vallabhbhai Patel",
+          "author": "V. R. Kale"
         },
         {
-          "Book No": "M2-034",
-          "Book Name": "A. P. J. Abdul Kalam - Ek Vyaktivedh",
-          "Writer": "R. Ramnaathan"
+          "bookno": "M2-034",
+          "bookname": "A. P. J. Abdul Kalam - Ek Vyaktivedh",
+          "author": "R. Ramnaathan"
         },
         {
-          "Book No": "M2-035",
-          "Book Name": "Charlie Chaplin",
-          "Writer": "L. M. Kadu"
+          "bookno": "M2-035",
+          "bookname": "Charlie Chaplin",
+          "author": "L. M. Kadu"
         },
         {
-          "Book No": "M2-036",
-          "Book Name": "Ekta Jeev",
-          "Writer": "Dada Kondake"
+          "bookno": "M2-036",
+          "bookname": "Ekta Jeev",
+          "author": "Dada Kondake"
         },
         {
-          "Book No": "M2-037",
-          "Book Name": "Asaa Baalgandharva",
-          "Writer": "Abhiram Bhadkamkar"
+          "bookno": "M2-037",
+          "bookname": "Asaa Baalgandharva",
+          "author": "Abhiram Bhadkamkar"
         },
         {
-          "Book No": "M2-038",
-          "Book Name": "Gadgebaba",
-          "Writer": "Vasant Potdar"
+          "bookno": "M2-038",
+          "bookname": "Gadgebaba",
+          "author": "Vasant Potdar"
         },
         {
-          "Book No": "M2-039",
-          "Book Name": "Madhubaalaa",
-          "Writer": "Shreekant Mundargi"
+          "bookno": "M2-039",
+          "bookname": "Madhubaalaa",
+          "author": "Shreekant Mundargi"
         },
         {
-          "Book No": "M2-040",
-          "Book Name": "Mee Albert Elis",
-          "Writer": "Anjali Joshi"
+          "bookno": "M2-040",
+          "bookname": "Mee Albert Elis",
+          "author": "Anjali Joshi"
         },
         {
-          "Book No": "M2-041",
-          "Book Name": "Baajiraav",
-          "Writer": "Jayaraj Salgavkar"
+          "bookno": "M2-041",
+          "bookname": "Baajiraav",
+          "author": "Jayaraj Salgavkar"
         },
         {
-          "Book No": "M2-042",
-          "Book Name": "Uparaa",
-          "Writer": "Laxman Mane"
+          "bookno": "M2-042",
+          "bookname": "Uparaa",
+          "author": "Laxman Mane"
         },
         {
-          "Book No": "M2-043",
-          "Book Name": "What Went Wrong",
-          "Writer": "Kiran Bedi"
+          "bookno": "M2-043",
+          "bookname": "What Went Wrong",
+          "author": "Kiran Bedi"
         },
         {
-          "Book No": "M2-044",
-          "Book Name": "Zimma- Aathvanicha Goofh",
-          "Writer": "Vijay Mehta"
+          "bookno": "M2-044",
+          "bookname": "Zimma- Aathvanicha Goofh",
+          "author": "Vijay Mehta"
         },
         {
-          "Book No": "M2-045",
-          "Book Name": "Lata Didi",
-          "Writer": "Harish Bhimani"
+          "bookno": "M2-045",
+          "bookname": "Lata Didi",
+          "author": "Harish Bhimani"
         },
         {
-          "Book No": "M2-046",
-          "Book Name": "Eka Kheliyaane",
-          "Writer": "Dilip Prabhavalkar"
+          "bookno": "M2-046",
+          "bookname": "Eka Kheliyaane",
+          "author": "Dilip Prabhavalkar"
         },
         {
-          "Book No": "M2-047",
-          "Book Name": "Amithabh",
-          "Writer": "Soumya Bandhyopadhya"
+          "bookno": "M2-047",
+          "bookname": "Amithabh",
+          "author": "Soumya Bandhyopadhya"
         },
         {
-          "Book No": "M2-048",
-          "Book Name": "To The Last Bullet",
-          "Writer": "Vinita Kamte/Vinita deshmukh"
+          "bookno": "M2-048",
+          "bookname": "To The Last Bullet",
+          "author": "Vinita Kamte/Vinita deshmukh"
         },
         {
-          "Book No": "M2-049",
-          "Book Name": "Yodha Sanyasi",
-          "Writer": "Vasant Potdar"
+          "bookno": "M2-049",
+          "bookname": "Yodha Sanyasi",
+          "author": "Vasant Potdar"
         },
         {
-          "Book No": "M2-050",
-          "Book Name": "Kabuliwalyachi Bangali baiko",
-          "Writer": "Sushmita Banerji"
+          "bookno": "M2-050",
+          "bookname": "Kabuliwalyachi Bangali baiko",
+          "author": "Sushmita Banerji"
         },
         {
-          "Book No": "M2-051",
-          "Book Name": "Eka Teliyaane",
-          "Writer": "Girish Kuber"
+          "bookno": "M2-051",
+          "bookname": "Eka Teliyaane",
+          "author": "Girish Kuber"
         },
         {
-          "Book No": "M2-052",
-          "Book Name": "Roseline Franklin",
-          "Writer": "Veena Gavankar"
+          "bookno": "M2-052",
+          "bookname": "Roseline Franklin",
+          "author": "Veena Gavankar"
         },
         {
-          "Book No": "M2-053",
-          "Book Name": "Prakashachi Saawli",
-          "Writer": "Smita bhagwat"
+          "bookno": "M2-053",
+          "bookname": "Prakashachi Saawli",
+          "author": "Smita bhagwat"
         },
         {
-          "Book No": "M2-054",
-          "Book Name": "Tolstoy -Ek Maanus",
-          "Writer": "Sumati Devasthal"
+          "bookno": "M2-054",
+          "bookname": "Tolstoy -Ek Maanus",
+          "author": "Sumati Devasthal"
         },
         {
-          "Book No": "M2-055",
-          "Book Name": "Ek Zhaad Doon Pakshi",
-          "Writer": "Vishram Bedekar"
+          "bookno": "M2-055",
+          "bookname": "Ek Zhaad Doon Pakshi",
+          "author": "Vishram Bedekar"
         },
         {
-          "Book No": "M2-056",
-          "Book Name": "Indira Gandhi",
-          "Writer": "Pupul Jaykanth"
+          "bookno": "M2-056",
+          "bookname": "Indira Gandhi",
+          "author": "Pupul Jaykanth"
         },
         {
-          "Book No": "M2-057",
-          "Book Name": "Arunachi Goosth",
-          "Writer": "Pinki Viraani"
+          "bookno": "M2-057",
+          "bookname": "Arunachi Goosth",
+          "author": "Pinki Viraani"
         },
         {
-          "Book No": "M2-058",
-          "Book Name": "Mee S. M.",
-          "Writer": "S. M. Joshi"
+          "bookno": "M2-058",
+          "bookname": "Mee S. M.",
+          "author": "S. M. Joshi"
         },
         {
-          "Book No": "M2-059",
-          "Book Name": "Aanandavanicha Shramyogi",
-          "Writer": "Avinaash Pitale"
+          "bookno": "M2-059",
+          "bookname": "Aanandavanicha Shramyogi",
+          "author": "Avinaash Pitale"
         },
         {
-          "Book No": "M2-060",
-          "Book Name": "Kanthasnaan Aani Balidaan",
-          "Writer": "V. S. Joshi"
+          "bookno": "M2-060",
+          "bookname": "Kanthasnaan Aani Balidaan",
+          "author": "V. S. Joshi"
         },
         {
-          "Book No": "M2-061",
-          "Book Name": "Aayadaan",
-          "Writer": "Urmila Pawar"
+          "bookno": "M2-061",
+          "bookname": "Aayadaan",
+          "author": "Urmila Pawar"
         },
         {
-          "Book No": "M2-062",
-          "Book Name": "Joticharitra",
-          "Writer": "Tarkateertha L. S. Joshi"
+          "bookno": "M2-062",
+          "bookname": "Joticharitra",
+          "author": "Tarkateertha L. S. Joshi"
         },
         {
-          "Book No": "M2-063",
-          "Book Name": "Chandrashekhar",
-          "Writer": "Maadhuri Shaanbhaag"
+          "bookno": "M2-063",
+          "bookname": "Chandrashekhar",
+          "author": "Maadhuri Shaanbhaag"
         },
         {
-          "Book No": "M2-064",
-          "Book Name": "Doctor Khaankhoje",
-          "Writer": "Veena Gavankar"
+          "bookno": "M2-064",
+          "bookname": "Doctor Khaankhoje",
+          "author": "Veena Gavankar"
         },
         {
-          "Book No": "M2-065",
-          "Book Name": "Dr. C.N.R.Rao",
-          "Writer": "Madhuri Shanbhag"
+          "bookno": "M2-065",
+          "bookname": "Dr. C.N.R.Rao",
+          "author": "Madhuri Shanbhag"
         },
         {
-          "Book No": "M2-066",
-          "Book Name": "Taai Mi Collector Vhaenu",
-          "Writer": "Rajesh Patil"
+          "bookno": "M2-066",
+          "bookname": "Taai Mi Collector Vhaenu",
+          "author": "Rajesh Patil"
         },
         {
-          "Book No": "M2-067",
-          "Book Name": "Maazaa Ladhaa",
-          "Writer": "Adolf Hitler"
+          "bookno": "M2-067",
+          "bookname": "Maazaa Ladhaa",
+          "author": "Adolf Hitler"
         },
         {
-          "Book No": "M2-068",
-          "Book Name": "Loree Bekar",
-          "Writer": "Atul Deulgaonkar"
+          "bookno": "M2-068",
+          "bookname": "Loree Bekar",
+          "author": "Atul Deulgaonkar"
         },
         {
-          "Book No": "M2-069",
-          "Book Name": "Shree Pu",
-          "Writer": "Shree Pu Bhagavat"
+          "bookno": "M2-069",
+          "bookname": "Shree Pu",
+          "author": "Shree Pu Bhagavat"
         },
         {
-          "Book No": "M2-070",
-          "Book Name": "Tibetchyaa Vaatevar",
-          "Writer": "Sabriye Tenberken"
+          "bookno": "M2-070",
+          "bookname": "Tibetchyaa Vaatevar",
+          "author": "Sabriye Tenberken"
         },
         {
-          "Book No": "M2-071",
-          "Book Name": "Videshini",
-          "Writer": "Nandini Atmasiddha"
+          "bookno": "M2-071",
+          "bookname": "Videshini",
+          "author": "Nandini Atmasiddha"
         },
         {
-          "Book No": "M2-072",
-          "Book Name": "Baluta",
-          "Writer": "Dayaa Pawar"
+          "bookno": "M2-072",
+          "bookname": "Baluta",
+          "author": "Dayaa Pawar"
         },
         {
-          "Book No": "M2-073",
-          "Book Name": "Vidnyaan Vishaaradaa",
-          "Writer": "Vasumati Dhuru"
+          "bookno": "M2-073",
+          "bookname": "Vidnyaan Vishaaradaa",
+          "author": "Vasumati Dhuru"
         },
         {
-          "Book No": "M2-074",
-          "Book Name": "Dr. Saleem Ali",
-          "Writer": "Veena Gavankar"
+          "bookno": "M2-074",
+          "bookname": "Dr. Saleem Ali",
+          "author": "Veena Gavankar"
         },
         {
-          "Book No": "M2-075",
-          "Book Name": "Mahaayodhha (Mahadji Shinde)",
-          "Writer": "Suresh Desai"
+          "bookno": "M2-075",
+          "bookname": "Mahaayodhha (Mahadji Shinde)",
+          "author": "Suresh Desai"
         },
         {
-          "Book No": "M2-076",
-          "Book Name": "Satyache Prayog",
-          "Writer": "Mahatma Gandhi"
+          "bookno": "M2-076",
+          "bookname": "Satyache Prayog",
+          "author": "Mahatma Gandhi"
         },
         {
-          "Book No": "M2-077",
-          "Book Name": "Hee 'Shree'chi Ichha",
-          "Writer": "Dr. Shree Thanedaar"
+          "bookno": "M2-077",
+          "bookname": "Hee 'Shree'chi Ichha",
+          "author": "Dr. Shree Thanedaar"
         },
         {
-          "Book No": "M2-078",
-          "Book Name": "Majal Darmajal",
-          "Writer": "Kiran Bedi"
+          "bookno": "M2-078",
+          "bookname": "Majal Darmajal",
+          "author": "Kiran Bedi"
         },
         {
-          "Book No": "M2-079",
-          "Book Name": "Agnipankh",
-          "Writer": "A. P. J. Abdu Kalaam"
+          "bookno": "M2-079",
+          "bookname": "Agnipankh",
+          "author": "A. P. J. Abdu Kalaam"
         },
         {
-          "Book No": "M2-080",
-          "Book Name": "Mahaanaayak",
-          "Writer": "Vishwas Patil"
+          "bookno": "M2-080",
+          "bookname": "Mahaanaayak",
+          "author": "Vishwas Patil"
         },
         {
-          "Book No": "M2-081",
-          "Book Name": "Musaafir",
-          "Writer": "Atchyut Godbole"
+          "bookno": "M2-081",
+          "bookname": "Musaafir",
+          "author": "Atchyut Godbole"
         },
         {
-          "Book No": "M2-082",
-          "Book Name": "Sam Manikshaw",
-          "Writer": "Shubhi Sood"
+          "bookno": "M2-082",
+          "bookname": "Sam Manikshaw",
+          "author": "Shubhi Sood"
         },
         {
-          "Book No": "M2-083",
-          "Book Name": "Adnyat Gandhi",
-          "Writer": "Narayanbhai Desai"
+          "bookno": "M2-083",
+          "bookname": "Adnyat Gandhi",
+          "author": "Narayanbhai Desai"
         },
         {
-          "Book No": "M2-084",
-          "Book Name": "Human",
-          "Writer": "Sangeeta Dhaygude"
+          "bookno": "M2-084",
+          "bookname": "Human",
+          "author": "Sangeeta Dhaygude"
         },
         {
-          "Book No": "M2-085",
-          "Book Name": "Prakaashvaataa",
-          "Writer": "Dr. Prakash Amte"
+          "bookno": "M2-085",
+          "bookname": "Prakaashvaataa",
+          "author": "Dr. Prakash Amte"
         },
         {
-          "Book No": "M2-086",
-          "Book Name": "Shahaanyanchaa Saykiatrist",
-          "Writer": "Dr. Anand Nadkarni"
+          "bookno": "M2-086",
+          "bookname": "Shahaanyanchaa Saykiatrist",
+          "author": "Dr. Anand Nadkarni"
         },
         {
-          "Book No": "M2-087",
-          "Book Name": "Voran Bafe",
-          "Writer": "Atul Kahate"
+          "bookno": "M2-087",
+          "bookname": "Voran Bafe",
+          "author": "Atul Kahate"
         },
         {
-          "Book No": "M2-088",
-          "Book Name": "Tanapihinipaja",
-          "Writer": "Dwarakanath Sanzgiri"
+          "bookno": "M2-088",
+          "bookname": "Tanapihinipaja",
+          "author": "Dwarakanath Sanzgiri"
         },
         {
-          "Book No": "M2-089",
-          "Book Name": "Mala (Na) Kalalele Baba",
-          "Writer": "Vilas Manohar"
+          "bookno": "M2-089",
+          "bookname": "Mala (Na) Kalalele Baba",
+          "author": "Vilas Manohar"
         },
         {
-          "Book No": "M2-090",
-          "Book Name": "Melghatavaril Mohar",
-          "Writer": "Mrinalini Chitale"
+          "bookno": "M2-090",
+          "bookname": "Melghatavaril Mohar",
+          "author": "Mrinalini Chitale"
         },
         {
-          "Book No": "M2-091",
-          "Book Name": "To Raajahansa Ek",
-          "Writer": "Ramesh Udare"
+          "bookno": "M2-091",
+          "bookname": "To Raajahansa Ek",
+          "author": "Ramesh Udare"
         },
         {
-          "Book No": "M2-092",
-          "Book Name": "Phule Vechita",
-          "Writer": "Lata Mangeshkar"
+          "bookno": "M2-092",
+          "bookname": "Phule Vechita",
+          "author": "Lata Mangeshkar"
         },
         {
-          "Book No": "M2-093",
-          "Book Name": "Faiz Ahmad Faiz",
-          "Writer": ""
+          "bookno": "M2-093",
+          "bookname": "Faiz Ahmad Faiz",
+          "author": ""
         },
         {
-          "Book No": "M2-094",
-          "Book Name": "Rajarshi Shahu Chhatrapati",
-          "Writer": "Ra. Tu. Bhagat"
+          "bookno": "M2-094",
+          "bookname": "Rajarshi Shahu Chhatrapati",
+          "author": "Ra. Tu. Bhagat"
         },
         {
-          "Book No": "M2-095",
-          "Book Name": "I Dare",
-          "Writer": "Paramesh Dangawal"
+          "bookno": "M2-095",
+          "bookname": "I Dare",
+          "author": "Paramesh Dangawal"
         },
         {
-          "Book No": "M2-096",
-          "Book Name": "Picaso",
-          "Writer": "Madhuri Purandare"
+          "bookno": "M2-096",
+          "bookname": "Picaso",
+          "author": "Madhuri Purandare"
         },
         {
-          "Book No": "M2-097",
-          "Book Name": "Taataayan",
-          "Writer": "Girish Kuber"
+          "bookno": "M2-097",
+          "bookname": "Taataayan",
+          "author": "Girish Kuber"
         },
         {
-          "Book No": "M2-098",
-          "Book Name": "Gurudatta",
-          "Writer": "Milind Champaanerkar"
+          "bookno": "M2-098",
+          "bookname": "Gurudatta",
+          "author": "Milind Champaanerkar"
         },
         {
-          "Book No": "M2-099",
-          "Book Name": "Madam Kyuri",
-          "Writer": "Ashwini Bhide Deshpande"
+          "bookno": "M2-099",
+          "bookname": "Madam Kyuri",
+          "author": "Ashwini Bhide Deshpande"
         },
         {
-          "Book No": "M2-100",
-          "Book Name": "Shehenshaha",
-          "Writer": "N. S. Inamdar"
+          "bookno": "M2-100",
+          "bookname": "Shehenshaha",
+          "author": "N. S. Inamdar"
         },
         {
-          "Book No": "M2-101",
-          "Book Name": "Dhirubhai Ambaani",
-          "Writer": "Girish Dabke"
+          "bookno": "M2-101",
+          "bookname": "Dhirubhai Ambaani",
+          "author": "Girish Dabke"
         },
         {
-          "Book No": "M2-102",
-          "Book Name": "Ganaaryaacha Por",
-          "Writer": "Raaghavendra Joshi"
+          "bookno": "M2-102",
+          "bookname": "Ganaaryaacha Por",
+          "author": "Raaghavendra Joshi"
         },
         {
-          "Book No": "M2-103",
-          "Book Name": "Eka Maaravadyaachi Gosht",
-          "Writer": "Dr. Girish Jakhotia"
+          "bookno": "M2-103",
+          "bookname": "Eka Maaravadyaachi Gosht",
+          "author": "Dr. Girish Jakhotia"
         },
         {
-          "Book No": "M2-104",
-          "Book Name": "Thodabahut Kafka",
-          "Writer": "Kanyalkar"
+          "bookno": "M2-104",
+          "bookname": "Thodabahut Kafka",
+          "author": "Kanyalkar"
         },
         {
-          "Book No": "M2-105",
-          "Book Name": "Saavarkar",
-          "Writer": "V.S. Valimbe"
+          "bookno": "M2-105",
+          "bookname": "Saavarkar",
+          "author": "V.S. Valimbe"
         },
         {
-          "Book No": "M2-106",
-          "Book Name": "Nach Ga Ghuma",
-          "Writer": "Madhvi Desai"
+          "bookno": "M2-106",
+          "bookname": "Nach Ga Ghuma",
+          "author": "Madhvi Desai"
         },
         {
-          "Book No": "M2-107",
-          "Book Name": "Karma Chale Sangati",
-          "Writer": "Gajanan Pendherkar"
+          "bookno": "M2-107",
+          "bookname": "Karma Chale Sangati",
+          "author": "Gajanan Pendherkar"
         },
         {
-          "Book No": "M2-108",
-          "Book Name": "A Double Life",
-          "Writer": "Alek Padamasi"
+          "bookno": "M2-108",
+          "bookname": "A Double Life",
+          "author": "Alek Padamasi"
         },
         {
-          "Book No": "M2-109",
-          "Book Name": "Majhahee ek swapna hota",
-          "Writer": "Verghese Kurien"
+          "bookno": "M2-109",
+          "bookname": "Majhahee ek swapna hota",
+          "author": "Verghese Kurien"
         },
         {
-          "Book No": "M2-110",
-          "Book Name": "Hasare Dukh",
-          "Writer": "B.D. Kher"
+          "bookno": "M2-110",
+          "bookname": "Hasare Dukh",
+          "author": "B.D. Kher"
         },
         {
-          "Book No": "M2-111",
-          "Book Name": "Nath Ha Maza",
-          "Writer": "Kanchan Kashinath Ghanekar"
+          "bookno": "M2-111",
+          "bookname": "Nath Ha Maza",
+          "author": "Kanchan Kashinath Ghanekar"
         },
         {
-          "Book No": "M2-112",
-          "Book Name": "Anandwan Prayogwan",
-          "Writer": "Dr Vikas Amte"
+          "bookno": "M2-112",
+          "bookname": "Anandwan Prayogwan",
+          "author": "Dr Vikas Amte"
         },
         {
-          "Book No": "M2-113",
-          "Book Name": "Bhaghaichi Bhumika",
-          "Writer": "Mandar Anant Bahrade"
+          "bookno": "M2-113",
+          "bookname": "Bhaghaichi Bhumika",
+          "author": "Mandar Anant Bahrade"
         },
         {
-          "Book No": "M3-001",
-          "Book Name": "Mahaan Striya",
-          "Writer": "Anuradha Potdar"
+          "bookno": "M3-001",
+          "bookname": "Mahaan Striya",
+          "author": "Anuradha Potdar"
         },
         {
-          "Book No": "M3-002",
-          "Book Name": "Goshtiroop Shivadarshan",
-          "Writer": "Ashok Mahadevshastri Joshi"
+          "bookno": "M3-002",
+          "bookname": "Goshtiroop Shivadarshan",
+          "author": "Ashok Mahadevshastri Joshi"
         },
         {
-          "Book No": "M3-003",
-          "Book Name": "Olakh Prani-Pakshyanchi",
-          "Writer": "Avinash Jamadagni"
+          "bookno": "M3-003",
+          "bookname": "Olakh Prani-Pakshyanchi",
+          "author": "Avinash Jamadagni"
         },
         {
-          "Book No": "M3-004",
-          "Book Name": "Bhatanchya Vadyatali Bhutaval",
-          "Writer": "B. R. Bhagvat"
+          "bookno": "M3-004",
+          "bookname": "Bhatanchya Vadyatali Bhutaval",
+          "author": "B. R. Bhagvat"
         },
         {
-          "Book No": "M3-005",
-          "Book Name": "Vedhak Goshti",
-          "Writer": "Bipinchandra Dhapare"
+          "bookno": "M3-005",
+          "bookname": "Vedhak Goshti",
+          "author": "Bipinchandra Dhapare"
         },
         {
-          "Book No": "M3-006",
-          "Book Name": "Shree Sant Tukaram",
-          "Writer": "D. D. Joshi"
+          "bookno": "M3-006",
+          "bookname": "Shree Sant Tukaram",
+          "author": "D. D. Joshi"
         },
         {
-          "Book No": "M3-007",
-          "Book Name": "Ambyachi Gosht",
-          "Writer": "Debasheesh Deb"
+          "bookno": "M3-007",
+          "bookname": "Ambyachi Gosht",
+          "author": "Debasheesh Deb"
         },
         {
-          "Book No": "M3-008",
-          "Book Name": "Bokya Satbande - 4",
-          "Writer": "Dilip Prabhavalkar"
+          "bookno": "M3-008",
+          "bookname": "Bokya Satbande - 4",
+          "author": "Dilip Prabhavalkar"
         },
         {
-          "Book No": "M3-009",
-          "Book Name": "Goshtiroop Mahabharat",
-          "Writer": "Dnyaneshwar Kulkarni"
+          "bookno": "M3-009",
+          "bookname": "Goshtiroop Mahabharat",
+          "author": "Dnyaneshwar Kulkarni"
         },
         {
-          "Book No": "M3-010",
-          "Book Name": "Yanni Ghadavila Samaj",
-          "Writer": "Dr. Leela Patil/ Bajirav Jathar Naik"
+          "bookno": "M3-010",
+          "bookname": "Yanni Ghadavila Samaj",
+          "author": "Dr. Leela Patil/ Bajirav Jathar Naik"
         },
         {
-          "Book No": "M3-011",
-          "Book Name": "Jaagatik Keertiche 125 Shastradnya",
-          "Writer": "Gajaanan Johari"
+          "bookno": "M3-011",
+          "bookname": "Jaagatik Keertiche 125 Shastradnya",
+          "author": "Gajaanan Johari"
         },
         {
-          "Book No": "M3-012",
-          "Book Name": "Aaine Sangitlelya Goshti",
-          "Writer": "Kalidas Mondkar"
+          "bookno": "M3-012",
+          "bookname": "Aaine Sangitlelya Goshti",
+          "author": "Kalidas Mondkar"
         },
         {
-          "Book No": "M3-013",
-          "Book Name": "Ye Re Ye Re Pavsa",
-          "Writer": "Kamakshi Baalsubramanyan"
+          "bookno": "M3-013",
+          "bookname": "Ye Re Ye Re Pavsa",
+          "author": "Kamakshi Baalsubramanyan"
         },
         {
-          "Book No": "M3-014",
-          "Book Name": "Chunmoon Udu Lagte",
-          "Writer": "Kamlesh Mohindra"
+          "bookno": "M3-014",
+          "bookname": "Chunmoon Udu Lagte",
+          "author": "Kamlesh Mohindra"
         },
         {
-          "Book No": "M3-015",
-          "Book Name": "Kikinak",
-          "Writer": "Madhuri Purandare"
+          "bookno": "M3-015",
+          "bookname": "Kikinak",
+          "author": "Madhuri Purandare"
         },
         {
-          "Book No": "M3-016",
-          "Book Name": "Aamchi Shala",
-          "Writer": "Madhuri Purandare"
+          "bookno": "M3-016",
+          "bookname": "Aamchi Shala",
+          "author": "Madhuri Purandare"
         },
         {
-          "Book No": "M3-017",
-          "Book Name": "Lalu Bokyachya Goshti",
-          "Writer": "Madhuri Purandare"
+          "bookno": "M3-017",
+          "bookname": "Lalu Bokyachya Goshti",
+          "author": "Madhuri Purandare"
         },
         {
-          "Book No": "M3-018",
-          "Book Name": "Radhache Ghar",
-          "Writer": "Madhuri Purandare"
+          "bookno": "M3-018",
+          "bookname": "Radhache Ghar",
+          "author": "Madhuri Purandare"
         },
         {
-          "Book No": "M3-019",
-          "Book Name": "Vadhdiwsachi Bhet",
-          "Writer": "Mangesh Padgaonkar"
+          "bookno": "M3-019",
+          "bookname": "Vadhdiwsachi Bhet",
+          "author": "Mangesh Padgaonkar"
         },
         {
-          "Book No": "M3-020",
-          "Book Name": "Dhamal Goshti",
-          "Writer": "Manjusha Amdekar"
+          "bookno": "M3-020",
+          "bookname": "Dhamal Goshti",
+          "author": "Manjusha Amdekar"
         },
         {
-          "Book No": "M3-021",
-          "Book Name": "Tonic",
-          "Writer": "Mankar Kaka"
+          "bookno": "M3-021",
+          "bookname": "Tonic",
+          "author": "Mankar Kaka"
         },
         {
-          "Book No": "M3-022",
-          "Book Name": "Chor Aala",
-          "Writer": "Many"
+          "bookno": "M3-022",
+          "bookname": "Chor Aala",
+          "author": "Many"
         },
         {
-          "Book No": "M3-023",
-          "Book Name": "Tharar Katha",
-          "Writer": "Mohan Rawal"
+          "bookno": "M3-023",
+          "bookname": "Tharar Katha",
+          "author": "Mohan Rawal"
         },
         {
-          "Book No": "M3-024",
-          "Book Name": "Hitopdesh Prerak Kathaa",
-          "Writer": "Mohan Velhal"
+          "bookno": "M3-024",
+          "bookname": "Hitopdesh Prerak Kathaa",
+          "author": "Mohan Velhal"
         },
         {
-          "Book No": "M3-025",
-          "Book Name": "Goshtich Goshti Gamatichya 1",
-          "Writer": "Mohanbhai Patel"
+          "bookno": "M3-025",
+          "bookname": "Goshtich Goshti Gamatichya 1",
+          "author": "Mohanbhai Patel"
         },
         {
-          "Book No": "M3-026",
-          "Book Name": "Gotya",
-          "Writer": "N. D. Tamhankar"
+          "bookno": "M3-026",
+          "bookname": "Gotya",
+          "author": "N. D. Tamhankar"
         },
         {
-          "Book No": "M3-027",
-          "Book Name": "Olakh Paryavaranachi",
-          "Writer": "Nirmala Mone"
+          "bookno": "M3-027",
+          "bookname": "Olakh Paryavaranachi",
+          "author": "Nirmala Mone"
         },
         {
-          "Book No": "M3-028",
-          "Book Name": "Jatak Katha",
-          "Writer": "Nirmala Sarda"
+          "bookno": "M3-028",
+          "bookname": "Jatak Katha",
+          "author": "Nirmala Sarda"
         },
         {
-          "Book No": "M3-029",
-          "Book Name": "Hitachya Goshti",
-          "Writer": "P. G. Sahastrabuddhe"
+          "bookno": "M3-029",
+          "bookname": "Hitachya Goshti",
+          "author": "P. G. Sahastrabuddhe"
         },
         {
-          "Book No": "M3-030",
-          "Book Name": "Krantikarakanchya Katha",
-          "Writer": "Pallavi Sarlashkar-Ashtekar"
+          "bookno": "M3-030",
+          "bookname": "Krantikarakanchya Katha",
+          "author": "Pallavi Sarlashkar-Ashtekar"
         },
         {
-          "Book No": "M3-031",
-          "Book Name": "Mala Gosht Sanga",
-          "Writer": "Pandharinaath Rege"
+          "bookno": "M3-031",
+          "bookname": "Mala Gosht Sanga",
+          "author": "Pandharinaath Rege"
         },
         {
-          "Book No": "M3-032",
-          "Book Name": "Teen Bal Natika",
-          "Writer": "Pratibha Nimkar"
+          "bookno": "M3-032",
+          "bookname": "Teen Bal Natika",
+          "author": "Pratibha Nimkar"
         },
         {
-          "Book No": "M3-033",
-          "Book Name": "Manatle Prashna and Vidnyanachi Uttare - 1",
-          "Writer": "R. M. Bhagvat"
+          "bookno": "M3-033",
+          "bookname": "Manatle Prashna and Vidnyanachi Uttare - 1",
+          "author": "R. M. Bhagvat"
         },
         {
-          "Book No": "M3-034",
-          "Book Name": "Manatle Prashna and Vidnyanachi Uttare - 2",
-          "Writer": "R. M. Bhagvat"
+          "bookno": "M3-034",
+          "bookname": "Manatle Prashna and Vidnyanachi Uttare - 2",
+          "author": "R. M. Bhagvat"
         },
         {
-          "Book No": "M3-035",
-          "Book Name": "Bahurangi Karamnuk",
-          "Writer": "R. T. Ranade"
+          "bookno": "M3-035",
+          "bookname": "Bahurangi Karamnuk",
+          "author": "R. T. Ranade"
         },
         {
-          "Book No": "M3-036",
-          "Book Name": "Gulachi Dhep Ani Sarbat",
-          "Writer": "Rajeev Tambe"
+          "bookno": "M3-036",
+          "bookname": "Gulachi Dhep Ani Sarbat",
+          "author": "Rajeev Tambe"
         },
         {
-          "Book No": "M3-037",
-          "Book Name": "Zakpak Shodh",
-          "Writer": "Rajeev Tambe"
+          "bookno": "M3-037",
+          "bookname": "Zakpak Shodh",
+          "author": "Rajeev Tambe"
         },
         {
-          "Book No": "M3-038",
-          "Book Name": "Bantu Basala Dhagat",
-          "Writer": "Rajeev Tambe"
+          "bookno": "M3-038",
+          "bookname": "Bantu Basala Dhagat",
+          "author": "Rajeev Tambe"
         },
         {
-          "Book No": "M3-039",
-          "Book Name": "Bantucha Tik Tik Mitra",
-          "Writer": "Rajeev Tambe"
+          "bookno": "M3-039",
+          "bookname": "Bantucha Tik Tik Mitra",
+          "author": "Rajeev Tambe"
         },
         {
-          "Book No": "M3-040",
-          "Book Name": "Chitramay Isapniti",
-          "Writer": "Rajesh Lavlekar"
+          "bookno": "M3-040",
+          "bookname": "Chitramay Isapniti",
+          "author": "Rajesh Lavlekar"
         },
         {
-          "Book No": "M3-041",
-          "Book Name": "Swami Vivekanand - Jeevan Ani Upadesh",
-          "Writer": "Ramakrishna Mission"
+          "bookno": "M3-041",
+          "bookname": "Swami Vivekanand - Jeevan Ani Upadesh",
+          "author": "Ramakrishna Mission"
         },
         {
-          "Book No": "M3-042",
-          "Book Name": "Dashavtarachya Goshti",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "M3-042",
+          "bookname": "Dashavtarachya Goshti",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "M3-043",
-          "Book Name": "Isapnitichya 530 Goshti",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "M3-043",
+          "bookname": "Isapnitichya 530 Goshti",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "M3-044",
-          "Book Name": "Lal Bahadur Shastri",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "M3-044",
+          "bookname": "Lal Bahadur Shastri",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "M3-045",
-          "Book Name": "Swatantryaveer Savarkar",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "M3-045",
+          "bookname": "Swatantryaveer Savarkar",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "M3-046",
-          "Book Name": "Pandit Javaharlaal Nehru",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "M3-046",
+          "bookname": "Pandit Javaharlaal Nehru",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "M3-047",
-          "Book Name": "Lokmanya Tilak",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "M3-047",
+          "bookname": "Lokmanya Tilak",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "M3-048",
-          "Book Name": "Chaturaichya Goshti",
-          "Writer": "S.G. Malshe"
+          "bookno": "M3-048",
+          "bookname": "Chaturaichya Goshti",
+          "author": "S.G. Malshe"
         },
         {
-          "Book No": "M3-049",
-          "Book Name": "Salo Ki Palo",
-          "Writer": "Saee Paranjape"
+          "bookno": "M3-049",
+          "bookname": "Salo Ki Palo",
+          "author": "Saee Paranjape"
         },
         {
-          "Book No": "M3-050",
-          "Book Name": "Safar Aitihasik Killyanchi",
-          "Writer": "Sambhaji Patil"
+          "bookno": "M3-050",
+          "bookname": "Safar Aitihasik Killyanchi",
+          "author": "Sambhaji Patil"
         },
         {
-          "Book No": "M3-051",
-          "Book Name": "Olakh Thor Netyanchi",
-          "Writer": "Sambhaji Patil/ Leela Patil"
+          "bookno": "M3-051",
+          "bookname": "Olakh Thor Netyanchi",
+          "author": "Sambhaji Patil/ Leela Patil"
         },
         {
-          "Book No": "M3-052",
-          "Book Name": "Pranisangrahalayas Bhet",
-          "Writer": "Sanat Soorti"
+          "bookno": "M3-052",
+          "bookname": "Pranisangrahalayas Bhet",
+          "author": "Sanat Soorti"
         },
         {
-          "Book No": "M3-053",
-          "Book Name": "Sorab Ni Rustum",
-          "Writer": "Sane Guruji"
+          "bookno": "M3-053",
+          "bookname": "Sorab Ni Rustum",
+          "author": "Sane Guruji"
         },
         {
-          "Book No": "M3-054",
-          "Book Name": "Shyam",
-          "Writer": "Sane Guruji"
+          "bookno": "M3-054",
+          "bookname": "Shyam",
+          "author": "Sane Guruji"
         },
         {
-          "Book No": "M3-055",
-          "Book Name": "Shyamchi Aai",
-          "Writer": "Sane Guruji"
+          "bookno": "M3-055",
+          "bookname": "Shyamchi Aai",
+          "author": "Sane Guruji"
         },
         {
-          "Book No": "M3-056",
-          "Book Name": "Shyaamchi Aai",
-          "Writer": "Sane Guruji"
+          "bookno": "M3-056",
+          "bookname": "Shyaamchi Aai",
+          "author": "Sane Guruji"
         },
         {
-          "Book No": "M3-057",
-          "Book Name": "Dhamal Goshti",
-          "Writer": "Shantaram Karnik"
+          "bookno": "M3-057",
+          "bookname": "Dhamal Goshti",
+          "author": "Shantaram Karnik"
         },
         {
-          "Book No": "M3-058",
-          "Book Name": "120 Goshti",
-          "Writer": "Shreekant Govande"
+          "bookno": "M3-058",
+          "bookname": "120 Goshti",
+          "author": "Shreekant Govande"
         },
         {
-          "Book No": "M3-059",
-          "Book Name": "Panchatantrachya 100 Goshti",
-          "Writer": "Shreekant Govande"
+          "bookno": "M3-059",
+          "bookname": "Panchatantrachya 100 Goshti",
+          "author": "Shreekant Govande"
         },
         {
-          "Book No": "M3-060",
-          "Book Name": "Nobelnagaritil Navalswapne",
-          "Writer": "Sudhir Thatte/ Nandini Thatte"
+          "bookno": "M3-060",
+          "bookname": "Nobelnagaritil Navalswapne",
+          "author": "Sudhir Thatte/ Nandini Thatte"
         },
         {
-          "Book No": "M3-061",
-          "Book Name": "Santanchya Shreshta Katha",
-          "Writer": "Sumedha Kulkarni"
+          "bookno": "M3-061",
+          "bookname": "Santanchya Shreshta Katha",
+          "author": "Sumedha Kulkarni"
         },
         {
-          "Book No": "M3-062",
-          "Book Name": "Milva Prayogatoon Dnyan",
-          "Writer": "Sumitra Jadhav"
+          "bookno": "M3-062",
+          "bookname": "Milva Prayogatoon Dnyan",
+          "author": "Sumitra Jadhav"
         },
         {
-          "Book No": "M3-063",
-          "Book Name": "Tottochan",
-          "Writer": "Tetsuko Kuroyanagi"
+          "bookno": "M3-063",
+          "bookname": "Tottochan",
+          "author": "Tetsuko Kuroyanagi"
         },
         {
-          "Book No": "M3-064",
-          "Book Name": "Mulansaathi Sandhyakaal",
-          "Writer": "Vaman Deshpande"
+          "bookno": "M3-064",
+          "bookname": "Mulansaathi Sandhyakaal",
+          "author": "Vaman Deshpande"
         },
         {
-          "Book No": "M3-065",
-          "Book Name": "Isapniti",
-          "Writer": "Yogesh Joshi"
+          "bookno": "M3-065",
+          "bookname": "Isapniti",
+          "author": "Yogesh Joshi"
         },
         {
-          "Book No": "M3-066",
-          "Book Name": "Mulla Nasaruddin 1",
-          "Writer": "Yogesh Joshi"
+          "bookno": "M3-066",
+          "bookname": "Mulla Nasaruddin 1",
+          "author": "Yogesh Joshi"
         },
         {
-          "Book No": "M3-067",
-          "Book Name": "Chhaan Chhaan Goshti",
-          "Writer": ""
+          "bookno": "M3-067",
+          "bookname": "Chhaan Chhaan Goshti",
+          "author": ""
         },
         {
-          "Book No": "M3-068",
-          "Book Name": "Lolipop",
-          "Writer": ""
+          "bookno": "M3-068",
+          "bookname": "Lolipop",
+          "author": ""
         },
         {
-          "Book No": "M3-069",
-          "Book Name": "Arebian Nights 1",
-          "Writer": ""
+          "bookno": "M3-069",
+          "bookname": "Arebian Nights 1",
+          "author": ""
         },
         {
-          "Book No": "M3-070",
-          "Book Name": "Arebian Nights 2",
-          "Writer": ""
+          "bookno": "M3-070",
+          "bookname": "Arebian Nights 2",
+          "author": ""
         },
         {
-          "Book No": "M3-071",
-          "Book Name": "Arebian Nights 3",
-          "Writer": ""
+          "bookno": "M3-071",
+          "bookname": "Arebian Nights 3",
+          "author": ""
         },
         {
-          "Book No": "M3-072",
-          "Book Name": "Arebian Nights 4",
-          "Writer": ""
+          "bookno": "M3-072",
+          "bookname": "Arebian Nights 4",
+          "author": ""
         },
         {
-          "Book No": "M3-073",
-          "Book Name": "Arebian Nights 5",
-          "Writer": ""
+          "bookno": "M3-073",
+          "bookname": "Arebian Nights 5",
+          "author": ""
         },
         {
-          "Book No": "M3-074",
-          "Book Name": "Arebian Nights 6",
-          "Writer": ""
+          "bookno": "M3-074",
+          "bookname": "Arebian Nights 6",
+          "author": ""
         },
         {
-          "Book No": "M3-075",
-          "Book Name": "Arebian Nights 7",
-          "Writer": ""
+          "bookno": "M3-075",
+          "bookname": "Arebian Nights 7",
+          "author": ""
         },
         {
-          "Book No": "M3-076",
-          "Book Name": "Arebian Nights 8",
-          "Writer": ""
+          "bookno": "M3-076",
+          "bookname": "Arebian Nights 8",
+          "author": ""
         },
         {
-          "Book No": "M3-077",
-          "Book Name": "Isaapachya Neetikatha",
-          "Writer": ""
+          "bookno": "M3-077",
+          "bookname": "Isaapachya Neetikatha",
+          "author": ""
         },
         {
-          "Book No": "M3-078",
-          "Book Name": "Sachitra Isaapniti",
-          "Writer": ""
+          "bookno": "M3-078",
+          "bookname": "Sachitra Isaapniti",
+          "author": ""
         },
         {
-          "Book No": "M3-079",
-          "Book Name": "Alladdin",
-          "Writer": ""
+          "bookno": "M3-079",
+          "bookname": "Alladdin",
+          "author": ""
         },
         {
-          "Book No": "M3-080",
-          "Book Name": "Katha Sarovar",
-          "Writer": "Harishchandra"
+          "bookno": "M3-080",
+          "bookname": "Katha Sarovar",
+          "author": "Harishchandra"
         },
         {
-          "Book No": "M3-081",
-          "Book Name": "Taraichu",
-          "Writer": "Aravind Dode"
+          "bookno": "M3-081",
+          "bookname": "Taraichu",
+          "author": "Aravind Dode"
         },
         {
-          "Book No": "M3-082",
-          "Book Name": "Sangitateel Antarnaad",
-          "Writer": "Pandmaja Phenani"
+          "bookno": "M3-082",
+          "bookname": "Sangitateel Antarnaad",
+          "author": "Pandmaja Phenani"
         },
         {
-          "Book No": "M3-083",
-          "Book Name": "Ati Tithe Maati",
-          "Writer": "Radhika Kunte"
+          "bookno": "M3-083",
+          "bookname": "Ati Tithe Maati",
+          "author": "Radhika Kunte"
         },
         {
-          "Book No": "M3-084",
-          "Book Name": "Haasyachitre",
-          "Writer": "Sanjay Mistri"
+          "bookno": "M3-084",
+          "bookname": "Haasyachitre",
+          "author": "Sanjay Mistri"
         },
         {
-          "Book No": "M3-085",
-          "Book Name": "Tappuchi Sena",
-          "Writer": "Vasant Bhumkar"
+          "bookno": "M3-085",
+          "bookname": "Tappuchi Sena",
+          "author": "Vasant Bhumkar"
         },
         {
-          "Book No": "M3-086",
-          "Book Name": "Samarthanche Baalpan",
-          "Writer": "Mohanbuva Raamdaasi"
+          "bookno": "M3-086",
+          "bookname": "Samarthanche Baalpan",
+          "author": "Mohanbuva Raamdaasi"
         },
         {
-          "Book No": "M3-087",
-          "Book Name": "Swapna",
-          "Writer": "Ramesh Tambe"
+          "bookno": "M3-087",
+          "bookname": "Swapna",
+          "author": "Ramesh Tambe"
         },
         {
-          "Book No": "M3-088",
-          "Book Name": "Tejaswininchya Shouryagaatha",
-          "Writer": "Suchitra Kulkarni"
+          "bookno": "M3-088",
+          "bookname": "Tejaswininchya Shouryagaatha",
+          "author": "Suchitra Kulkarni"
         },
         {
-          "Book No": "M3-089",
-          "Book Name": "Vajvoon Ghya",
-          "Writer": "Diwakar Bapat"
+          "bookno": "M3-089",
+          "bookname": "Vajvoon Ghya",
+          "author": "Diwakar Bapat"
         },
         {
-          "Book No": "M3-090",
-          "Book Name": "Tu Savitri Ho!",
-          "Writer": "Girija Keer"
+          "bookno": "M3-090",
+          "bookname": "Tu Savitri Ho!",
+          "author": "Girija Keer"
         },
         {
-          "Book No": "M3-091",
-          "Book Name": "Kampani Chaalali Suryakade",
-          "Writer": "B. R. Bhagvat"
+          "bookno": "M3-091",
+          "bookname": "Kampani Chaalali Suryakade",
+          "author": "B. R. Bhagvat"
         },
         {
-          "Book No": "M3-092",
-          "Book Name": "Jagaprasiddha Goshti",
-          "Writer": "Darshana Priyank"
+          "bookno": "M3-092",
+          "bookname": "Jagaprasiddha Goshti",
+          "author": "Darshana Priyank"
         },
         {
-          "Book No": "M3-093",
-          "Book Name": "Jeevanshaili",
-          "Writer": ""
+          "bookno": "M3-093",
+          "bookname": "Jeevanshaili",
+          "author": ""
         },
         {
-          "Book No": "M3-094",
-          "Book Name": "Gajakathaa",
-          "Writer": "Ninad Bedekar"
+          "bookno": "M3-094",
+          "bookname": "Gajakathaa",
+          "author": "Ninad Bedekar"
         },
         {
-          "Book No": "M3-095",
-          "Book Name": "Ababa! Goshtich Goshti 1",
-          "Writer": "Mohanbhai Patel"
+          "bookno": "M3-095",
+          "bookname": "Ababa! Goshtich Goshti 1",
+          "author": "Mohanbhai Patel"
         },
         {
-          "Book No": "M3-096",
-          "Book Name": "Esaapnitichyaa 530 Goshti",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "M3-096",
+          "bookname": "Esaapnitichyaa 530 Goshti",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "M3-097",
-          "Book Name": "Samartha Charitraatil Goshti",
-          "Writer": "L.N. Kulkarni (Edited)"
+          "bookno": "M3-097",
+          "bookname": "Samartha Charitraatil Goshti",
+          "author": "L.N. Kulkarni (Edited)"
         },
         {
-          "Book No": "M3-098",
-          "Book Name": "Su-Neeti Katha Maala",
-          "Writer": "M. G. Katkar"
+          "bookno": "M3-098",
+          "bookname": "Su-Neeti Katha Maala",
+          "author": "M. G. Katkar"
         },
         {
-          "Book No": "M3-099",
-          "Book Name": "Mulla Nasaruddinchy Goshti",
-          "Writer": "Rohit Desai"
+          "bookno": "M3-099",
+          "bookname": "Mulla Nasaruddinchy Goshti",
+          "author": "Rohit Desai"
         },
         {
-          "Book No": "M3-100",
-          "Book Name": "Marutichi Goshth",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "M3-100",
+          "bookname": "Marutichi Goshth",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "M3-101",
-          "Book Name": "Gandhiji",
-          "Writer": "P.L. Deshpande"
+          "bookno": "M3-101",
+          "bookname": "Gandhiji",
+          "author": "P.L. Deshpande"
         },
         {
-          "Book No": "M3-102",
-          "Book Name": "Paryavarnachya 21 God Goshti",
-          "Writer": "Mrunal Jadhav"
+          "bookno": "M3-102",
+          "bookname": "Paryavarnachya 21 God Goshti",
+          "author": "Mrunal Jadhav"
         },
         {
-          "Book No": "M3-103",
-          "Book Name": "Mahatma Jotiba Phule",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "M3-103",
+          "bookname": "Mahatma Jotiba Phule",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "M3-104",
-          "Book Name": "Amhalahi Jagu Dya",
-          "Writer": "Madhavi Malgaonkar"
+          "bookno": "M3-104",
+          "bookname": "Amhalahi Jagu Dya",
+          "author": "Madhavi Malgaonkar"
         },
         {
-          "Book No": "M3-105",
-          "Book Name": "Saat Eke Saat",
-          "Writer": "Vinda Karandikar"
+          "bookno": "M3-105",
+          "bookname": "Saat Eke Saat",
+          "author": "Vinda Karandikar"
         },
         {
-          "Book No": "M3-106",
-          "Book Name": "Shyaamchi Aai",
-          "Writer": "Saane Guruji"
+          "bookno": "M3-106",
+          "bookname": "Shyaamchi Aai",
+          "author": "Saane Guruji"
         },
         {
-          "Book No": "M3-107",
-          "Book Name": "Swami Vivekanand - Sankshipt Charitra Ani Upadesh",
-          "Writer": "Swami Apoorvanand"
+          "bookno": "M3-107",
+          "bookname": "Swami Vivekanand - Sankshipt Charitra Ani Upadesh",
+          "author": "Swami Apoorvanand"
         },
         {
-          "Book No": "M3-108",
-          "Book Name": "Chiman Geete",
-          "Writer": "Raam Gayakvad"
+          "bookno": "M3-108",
+          "bookname": "Chiman Geete",
+          "author": "Raam Gayakvad"
         },
         {
-          "Book No": "M3-109",
-          "Book Name": "Chaafaa ",
-          "Writer": "Kusumagraj"
+          "bookno": "M3-109",
+          "bookname": "Chaafaa ",
+          "author": "Kusumagraj"
         },
         {
-          "Book No": "M3-110",
-          "Book Name": "Pari Ga Pari",
-          "Writer": "Vinda Karandikar"
+          "bookno": "M3-110",
+          "bookname": "Pari Ga Pari",
+          "author": "Vinda Karandikar"
         },
         {
-          "Book No": "M3-111",
-          "Book Name": "Lokancha Raaja Shaahu Chhatrapati",
-          "Writer": "Prof. Ashok Raana"
+          "bookno": "M3-111",
+          "bookname": "Lokancha Raaja Shaahu Chhatrapati",
+          "author": "Prof. Ashok Raana"
         },
         {
-          "Book No": "M3-112",
-          "Book Name": "Avakaashaacha Shodh",
-          "Writer": "Vasant Shirvadkad"
+          "bookno": "M3-112",
+          "bookname": "Avakaashaacha Shodh",
+          "author": "Vasant Shirvadkad"
         },
         {
-          "Book No": "M3-113",
-          "Book Name": "Varyachaa Ranga",
-          "Writer": "Shanta Shelke"
+          "bookno": "M3-113",
+          "bookname": "Varyachaa Ranga",
+          "author": "Shanta Shelke"
         },
         {
-          "Book No": "M3-114",
-          "Book Name": "Sarkasvaalaa",
-          "Writer": "Vinda Karandikar"
+          "bookno": "M3-114",
+          "bookname": "Sarkasvaalaa",
+          "author": "Vinda Karandikar"
         },
         {
-          "Book No": "M3-115",
-          "Book Name": "Manjarancha Gaon",
-          "Writer": "Shanta Shelke"
+          "bookno": "M3-115",
+          "bookname": "Manjarancha Gaon",
+          "author": "Shanta Shelke"
         },
         {
-          "Book No": "M3-116",
-          "Book Name": "Chimukala",
-          "Writer": "Shanta Shelke"
+          "bookno": "M3-116",
+          "bookname": "Chimukala",
+          "author": "Shanta Shelke"
         },
         {
-          "Book No": "M3-117",
-          "Book Name": "Baal Maifal",
-          "Writer": "Kumar Kadam"
+          "bookno": "M3-117",
+          "bookname": "Baal Maifal",
+          "author": "Kumar Kadam"
         },
         {
-          "Book No": "M3-118",
-          "Book Name": "Kathaaras",
-          "Writer": "Raamgopaal Verma"
+          "bookno": "M3-118",
+          "bookname": "Kathaaras",
+          "author": "Raamgopaal Verma"
         },
         {
-          "Book No": "M3-119",
-          "Book Name": "Kahaani Don Bhaavanchi",
-          "Writer": "Suhasini Deshpande"
+          "bookno": "M3-119",
+          "bookname": "Kahaani Don Bhaavanchi",
+          "author": "Suhasini Deshpande"
         },
         {
-          "Book No": "M3-120",
-          "Book Name": "Shyaamchi Aai",
-          "Writer": "Saane Guruji"
+          "bookno": "M3-120",
+          "bookname": "Shyaamchi Aai",
+          "author": "Saane Guruji"
         },
         {
-          "Book No": "M3-121",
-          "Book Name": "Bodhkathaa",
-          "Writer": "Kalpanaa Ksheersagar"
+          "bookno": "M3-121",
+          "bookname": "Bodhkathaa",
+          "author": "Kalpanaa Ksheersagar"
         },
         {
-          "Book No": "M3-122",
-          "Book Name": "Tenaliram",
-          "Writer": "Yogesh Joshi"
+          "bookno": "M3-122",
+          "bookname": "Tenaliram",
+          "author": "Yogesh Joshi"
         },
         {
-          "Book No": "M3-123",
-          "Book Name": "Rangatdar Goshti",
-          "Writer": ""
+          "bookno": "M3-123",
+          "bookname": "Rangatdar Goshti",
+          "author": ""
         },
         {
-          "Book No": "M3-124",
-          "Book Name": "Aghalpaghal Goshto",
-          "Writer": "Shreeniwas Pandit"
+          "bookno": "M3-124",
+          "bookname": "Aghalpaghal Goshto",
+          "author": "Shreeniwas Pandit"
         },
         {
-          "Book No": "M3-125",
-          "Book Name": "Mahabhartatil Amar Patre",
-          "Writer": "Chaya Page"
+          "bookno": "M3-125",
+          "bookname": "Mahabhartatil Amar Patre",
+          "author": "Chaya Page"
         },
         {
-          "Book No": "M3-126",
-          "Book Name": "Nivdak Charitri, Bhag 1",
-          "Writer": "Dr M V Ghokhale"
+          "bookno": "M3-126",
+          "bookname": "Nivdak Charitri, Bhag 1",
+          "author": "Dr M V Ghokhale"
         },
         {
-          "Book No": "M3-127",
-          "Book Name": "Nivdak Charitri, Bhag 2",
-          "Writer": "Dr M V Ghokhale"
+          "bookno": "M3-127",
+          "bookname": "Nivdak Charitri, Bhag 2",
+          "author": "Dr M V Ghokhale"
         },
         {
-          "Book No": "M3-128",
-          "Book Name": "Bal Maifil",
-          "Writer": "Multiple Authors"
+          "bookno": "M3-128",
+          "bookname": "Bal Maifil",
+          "author": "Multiple Authors"
         },
         {
-          "Book No": "M3-129",
-          "Book Name": "Ishapchya Neetikatha",
-          "Writer": "P G Sahastrabuddhe"
+          "bookno": "M3-129",
+          "bookname": "Ishapchya Neetikatha",
+          "author": "P G Sahastrabuddhe"
         },
         {
-          "Book No": "M4-001",
-          "Book Name": "Chandanvishayi",
-          "Writer": "Anil Avchat"
+          "bookno": "M4-001",
+          "bookname": "Chandanvishayi",
+          "author": "Anil Avchat"
         },
         {
-          "Book No": "M4-002",
-          "Book Name": "Shodhyatra",
-          "Writer": "Arun Sadhu"
+          "bookno": "M4-002",
+          "bookname": "Shodhyatra",
+          "author": "Arun Sadhu"
         },
         {
-          "Book No": "M4-003",
-          "Book Name": "Te Daan Tya Kshanaache",
-          "Writer": "Arun Shevte"
+          "bookno": "M4-003",
+          "bookname": "Te Daan Tya Kshanaache",
+          "author": "Arun Shevte"
         },
         {
-          "Book No": "M4-004",
-          "Book Name": "Goshti Apalya Sukhadukhhachya",
-          "Writer": "C. P. Bhishikar"
+          "bookno": "M4-004",
+          "bookname": "Goshti Apalya Sukhadukhhachya",
+          "author": "C. P. Bhishikar"
         },
         {
-          "Book No": "M4-005",
-          "Book Name": "Paschimvela",
-          "Writer": "Dr. Prakash Joshi"
+          "bookno": "M4-005",
+          "bookname": "Paschimvela",
+          "author": "Dr. Prakash Joshi"
         },
         {
-          "Book No": "M4-006",
-          "Book Name": "Rutuchakra",
-          "Writer": "Durga Bhagvat"
+          "bookno": "M4-006",
+          "bookname": "Rutuchakra",
+          "author": "Durga Bhagvat"
         },
         {
-          "Book No": "M4-007",
-          "Book Name": "Mogara Phulala",
-          "Writer": "G. N. Dandekar"
+          "bookno": "M4-007",
+          "bookname": "Mogara Phulala",
+          "author": "G. N. Dandekar"
         },
         {
-          "Book No": "M4-008",
-          "Book Name": "Daas Dongari Rahato",
-          "Writer": "G. N. Dandekar"
+          "bookno": "M4-008",
+          "bookname": "Daas Dongari Rahato",
+          "author": "G. N. Dandekar"
         },
         {
-          "Book No": "M4-009",
-          "Book Name": "Ekek Paan Galaavaya",
-          "Writer": "Gauri Deshpande"
+          "bookno": "M4-009",
+          "bookname": "Ekek Paan Galaavaya",
+          "author": "Gauri Deshpande"
         },
         {
-          "Book No": "M4-010",
-          "Book Name": "Animal Farm",
-          "Writer": "George Orwel"
+          "bookno": "M4-010",
+          "bookname": "Animal Farm",
+          "author": "George Orwel"
         },
         {
-          "Book No": "M4-011",
-          "Book Name": "Pan Lakshat Kon Gheto",
-          "Writer": "Hari Naayan Apte"
+          "bookno": "M4-011",
+          "bookname": "Pan Lakshat Kon Gheto",
+          "author": "Hari Naayan Apte"
         },
         {
-          "Book No": "M4-012",
-          "Book Name": "Ushahkaal",
-          "Writer": "Hari Naayan Apte"
+          "bookno": "M4-012",
+          "bookname": "Ushahkaal",
+          "author": "Hari Naayan Apte"
         },
         {
-          "Book No": "M4-013",
-          "Book Name": "Vaman Parat Na Aalaa",
-          "Writer": "Jayant Narlikar"
+          "bookno": "M4-013",
+          "bookname": "Vaman Parat Na Aalaa",
+          "author": "Jayant Narlikar"
         },
         {
-          "Book No": "M4-014",
-          "Book Name": "Virus",
-          "Writer": "Jayant Narlikar"
+          "bookno": "M4-014",
+          "bookname": "Virus",
+          "author": "Jayant Narlikar"
         },
         {
-          "Book No": "M4-015",
-          "Book Name": "Abhayaranya",
-          "Writer": "Jayant Narlikar"
+          "bookno": "M4-015",
+          "bookname": "Abhayaranya",
+          "author": "Jayant Narlikar"
         },
         {
-          "Book No": "M4-016",
-          "Book Name": "Yakshanchi Denagi",
-          "Writer": "Jayant Narlikar"
+          "bookno": "M4-016",
+          "bookname": "Yakshanchi Denagi",
+          "author": "Jayant Narlikar"
         },
         {
-          "Book No": "M4-017",
-          "Book Name": "Antaralatil Sfot",
-          "Writer": "Jayant Narlikar"
+          "bookno": "M4-017",
+          "bookname": "Antaralatil Sfot",
+          "author": "Jayant Narlikar"
         },
         {
-          "Book No": "M4-018",
-          "Book Name": "Sare Pravasi Ghadiche",
-          "Writer": "Jayavant Dalwi"
+          "bookno": "M4-018",
+          "bookname": "Sare Pravasi Ghadiche",
+          "author": "Jayavant Dalwi"
         },
         {
-          "Book No": "M4-019",
-          "Book Name": "Kolhatyache Por",
-          "Writer": "Kishor Shantabai Kale"
+          "bookno": "M4-019",
+          "bookname": "Kolhatyache Por",
+          "author": "Kishor Shantabai Kale"
         },
         {
-          "Book No": "M4-020",
-          "Book Name": "Surya Pahilela Manus",
-          "Writer": "Makarand Sathe"
+          "bookno": "M4-020",
+          "bookname": "Surya Pahilela Manus",
+          "author": "Makarand Sathe"
         },
         {
-          "Book No": "M4-021",
-          "Book Name": "Baalpan",
-          "Writer": "Maxim Gorky"
+          "bookno": "M4-021",
+          "bookname": "Baalpan",
+          "author": "Maxim Gorky"
         },
         {
-          "Book No": "M4-022",
-          "Book Name": "Miskilar",
-          "Writer": "Mukund Taksale"
+          "bookno": "M4-022",
+          "bookname": "Miskilar",
+          "author": "Mukund Taksale"
         },
         {
-          "Book No": "M4-023",
-          "Book Name": "Veeradhaval",
-          "Writer": "Naathmadhav"
+          "bookno": "M4-023",
+          "bookname": "Veeradhaval",
+          "author": "Naathmadhav"
         },
         {
-          "Book No": "M4-024",
-          "Book Name": "Satya Katha",
-          "Writer": "Neela Satyanarayan"
+          "bookno": "M4-024",
+          "bookname": "Satya Katha",
+          "author": "Neela Satyanarayan"
         },
         {
-          "Book No": "M4-025",
-          "Book Name": "Vaaras",
-          "Writer": "Niranjan Ghate"
+          "bookno": "M4-025",
+          "bookname": "Vaaras",
+          "author": "Niranjan Ghate"
         },
         {
-          "Book No": "M4-026",
-          "Book Name": "Hasha Ani Talya",
-          "Writer": "P. K. Atre"
+          "bookno": "M4-026",
+          "bookname": "Hasha Ani Talya",
+          "author": "P. K. Atre"
         },
         {
-          "Book No": "M4-027",
-          "Book Name": "Ganagot",
-          "Writer": "P. L. Deshpande"
+          "bookno": "M4-027",
+          "bookname": "Ganagot",
+          "author": "P. L. Deshpande"
         },
         {
-          "Book No": "M4-028",
-          "Book Name": "Phodani",
-          "Writer": "Ramdas Phutane"
+          "bookno": "M4-028",
+          "bookname": "Phodani",
+          "author": "Ramdas Phutane"
         },
         {
-          "Book No": "M4-029",
-          "Book Name": "Snehadhara",
-          "Writer": "Ranjeet Desai"
+          "bookno": "M4-029",
+          "bookname": "Snehadhara",
+          "author": "Ranjeet Desai"
         },
         {
-          "Book No": "M4-030",
-          "Book Name": "Swami",
-          "Writer": "Ranjeet Desai"
+          "bookno": "M4-030",
+          "bookname": "Swami",
+          "author": "Ranjeet Desai"
         },
         {
-          "Book No": "M4-031",
-          "Book Name": "Soneri Suryafula",
-          "Writer": "Ravindra Pinge"
+          "bookno": "M4-031",
+          "bookname": "Soneri Suryafula",
+          "author": "Ravindra Pinge"
         },
         {
-          "Book No": "M4-032",
-          "Book Name": "Porvay",
-          "Writer": "Ravindranath Thakur"
+          "bookno": "M4-032",
+          "bookname": "Porvay",
+          "author": "Ravindranath Thakur"
         },
         {
-          "Book No": "M4-033",
-          "Book Name": "Not Only Potels",
-          "Writer": "Shobha Bondre"
+          "bookno": "M4-033",
+          "bookname": "Not Only Potels",
+          "author": "Shobha Bondre"
         },
         {
-          "Book No": "M4-034",
-          "Book Name": "Tichi Kahanich Vegali",
-          "Writer": "Smita Kulakarni"
+          "bookno": "M4-034",
+          "bookname": "Tichi Kahanich Vegali",
+          "author": "Smita Kulakarni"
         },
         {
-          "Book No": "M4-035",
-          "Book Name": "Goshti Mansanchya",
-          "Writer": "Sudha Moorthy"
+          "bookno": "M4-035",
+          "bookname": "Goshti Mansanchya",
+          "author": "Sudha Moorthy"
         },
         {
-          "Book No": "M4-036",
-          "Book Name": "Kharikhuri Team India",
-          "Writer": "Suhas Kulkarni"
+          "bookno": "M4-036",
+          "bookname": "Kharikhuri Team India",
+          "author": "Suhas Kulkarni"
         },
         {
-          "Book No": "M4-037",
-          "Book Name": "Celebration",
-          "Writer": "Swati Chandorkar"
+          "bookno": "M4-037",
+          "bookname": "Celebration",
+          "author": "Swati Chandorkar"
         },
         {
-          "Book No": "M4-038",
-          "Book Name": "Lajja",
-          "Writer": "Taslima Nasarin"
+          "bookno": "M4-038",
+          "bookname": "Lajja",
+          "author": "Taslima Nasarin"
         },
         {
-          "Book No": "M4-039",
-          "Book Name": "Krushnamegh",
-          "Writer": "Ullhaas Deodhar"
+          "bookno": "M4-039",
+          "bookname": "Krushnamegh",
+          "author": "Ullhaas Deodhar"
         },
         {
-          "Book No": "M4-040",
-          "Book Name": "Kharekhure Idols",
-          "Writer": "Unique Features"
+          "bookno": "M4-040",
+          "bookname": "Kharekhure Idols",
+          "author": "Unique Features"
         },
         {
-          "Book No": "M4-041",
-          "Book Name": "Kharekhure Idols",
-          "Writer": "Unique Features"
+          "bookno": "M4-041",
+          "bookname": "Kharekhure Idols",
+          "author": "Unique Features"
         },
         {
-          "Book No": "M4-042",
-          "Book Name": "Andhashraddha Nirmulak Katha - 1",
-          "Writer": "V. D. Savarkar"
+          "bookno": "M4-042",
+          "bookname": "Andhashraddha Nirmulak Katha - 1",
+          "author": "V. D. Savarkar"
         },
         {
-          "Book No": "M4-043",
-          "Book Name": "Andhashraddha Nirmulak Katha - 2",
-          "Writer": "V. D. Savarkar"
+          "bookno": "M4-043",
+          "bookname": "Andhashraddha Nirmulak Katha - 2",
+          "author": "V. D. Savarkar"
         },
         {
-          "Book No": "M4-044",
-          "Book Name": "Hi Vaat Ekatichi",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-044",
+          "bookname": "Hi Vaat Ekatichi",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-045",
-          "Book Name": "Gulmohar",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-045",
+          "bookname": "Gulmohar",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-046",
-          "Book Name": "Chaturbhuj",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-046",
+          "bookname": "Chaturbhuj",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-047",
-          "Book Name": "Zopala",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-047",
+          "bookname": "Zopala",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-048",
-          "Book Name": "Vapurza",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-048",
+          "bookname": "Vapurza",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-049",
-          "Book Name": "Moden Pan Vaknar Nahi",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-049",
+          "bookname": "Moden Pan Vaknar Nahi",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-050",
-          "Book Name": "Cheers",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-050",
+          "bookname": "Cheers",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-051",
-          "Book Name": "Kathakathanachi Katha",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-051",
+          "bookname": "Kathakathanachi Katha",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-052",
-          "Book Name": "Aapan Sare Arjun",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-052",
+          "bookname": "Aapan Sare Arjun",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-053",
-          "Book Name": "Samvadini",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-053",
+          "bookname": "Samvadini",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-054",
-          "Book Name": "Maza Mazyapashi",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-054",
+          "bookname": "Maza Mazyapashi",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-055",
-          "Book Name": "One for the Road",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-055",
+          "bookname": "One for the Road",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-056",
-          "Book Name": "Navara Mhanava Aapla",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-056",
+          "bookname": "Navara Mhanava Aapla",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-057",
-          "Book Name": "Pleasure Box",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-057",
+          "bookname": "Pleasure Box",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-058",
-          "Book Name": "Rangapanchami",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-058",
+          "bookname": "Rangapanchami",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-059",
-          "Book Name": "Fantacy Ek Preyasi",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-059",
+          "bookname": "Fantacy Ek Preyasi",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-060",
-          "Book Name": "Paanpoyi",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-060",
+          "bookname": "Paanpoyi",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-061",
-          "Book Name": "Duniya Tula Visarel",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-061",
+          "bookname": "Duniya Tula Visarel",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-062",
-          "Book Name": "Vapu Sange Vadilanchi Keerti",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-062",
+          "bookname": "Vapu Sange Vadilanchi Keerti",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-063",
-          "Book Name": "Vapu Yanchi Manasa",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-063",
+          "bookname": "Vapu Yanchi Manasa",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-064",
-          "Book Name": "Tu Bhramat Ahasi Waya",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-064",
+          "bookname": "Tu Bhramat Ahasi Waya",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-065",
-          "Book Name": "Premamayi",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-065",
+          "bookname": "Premamayi",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-066",
-          "Book Name": "Sakhi",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-066",
+          "bookname": "Sakhi",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-067",
-          "Book Name": "Ka Re Bhulalasi",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-067",
+          "bookname": "Ka Re Bhulalasi",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-068",
-          "Book Name": "Gosht Hatatali Hoti",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-068",
+          "bookname": "Gosht Hatatali Hoti",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-069",
-          "Book Name": "Valay",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-069",
+          "bookname": "Valay",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-070",
-          "Book Name": "Mi Maanus Shodhatoy",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-070",
+          "bookname": "Mi Maanus Shodhatoy",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-071",
-          "Book Name": "Hunkaar",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-071",
+          "bookname": "Hunkaar",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-072",
-          "Book Name": "Nimitta",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-072",
+          "bookname": "Nimitta",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-073",
-          "Book Name": "Taptapadi",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-073",
+          "bookname": "Taptapadi",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-074",
-          "Book Name": "Kramachaari",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-074",
+          "bookname": "Kramachaari",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-075",
-          "Book Name": "Dost",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-075",
+          "bookname": "Dost",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-076",
-          "Book Name": "Swar",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-076",
+          "bookname": "Swar",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-077",
-          "Book Name": "Thikari",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-077",
+          "bookname": "Thikari",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-078",
-          "Book Name": "Intimate",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-078",
+          "bookname": "Intimate",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-079",
-          "Book Name": "Partner",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-079",
+          "bookname": "Partner",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-080",
-          "Book Name": "Va Pu Panchyanshi",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-080",
+          "bookname": "Va Pu Panchyanshi",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-081",
-          "Book Name": "Pleasure Box 2",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-081",
+          "bookname": "Pleasure Box 2",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-082",
-          "Book Name": "Vapurvai",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-082",
+          "bookname": "Vapurvai",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-083",
-          "Book Name": "Mayabajaar",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-083",
+          "bookname": "Mayabajaar",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-084",
-          "Book Name": "Rang Manaache",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-084",
+          "bookname": "Rang Manaache",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-085",
-          "Book Name": "Bhulbhulaiyya",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-085",
+          "bookname": "Bhulbhulaiyya",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-086",
-          "Book Name": "Aik Sakhe",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-086",
+          "bookname": "Aik Sakhe",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-087",
-          "Book Name": "Kahi Khare Kahi Khote",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-087",
+          "bookname": "Kahi Khare Kahi Khote",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-088",
-          "Book Name": "Bai, Bayako, Calendar",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-088",
+          "bookname": "Bai, Bayako, Calendar",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-089",
-          "Book Name": "Mahotsav",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-089",
+          "bookname": "Mahotsav",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-090",
-          "Book Name": "Ghar Haravleli Maanasa",
-          "Writer": "V. P. Kale"
+          "bookno": "M4-090",
+          "bookname": "Ghar Haravleli Maanasa",
+          "author": "V. P. Kale"
         },
         {
-          "Book No": "M4-091",
-          "Book Name": "Sukhaacha Shodh",
-          "Writer": "V. S. Khandekar"
+          "bookno": "M4-091",
+          "bookname": "Sukhaacha Shodh",
+          "author": "V. S. Khandekar"
         },
         {
-          "Book No": "M4-092",
-          "Book Name": "Pather Panchhali",
-          "Writer": "Vibhutibhushan Banerji/ Prasad Thakur"
+          "bookno": "M4-092",
+          "bookname": "Pather Panchhali",
+          "author": "Vibhutibhushan Banerji/ Prasad Thakur"
         },
         {
-          "Book No": "M4-093",
-          "Book Name": "Aahe Manohar Tari",
-          "Writer": "Sunita Deshpande"
+          "bookno": "M4-093",
+          "bookname": "Aahe Manohar Tari",
+          "author": "Sunita Deshpande"
         },
         {
-          "Book No": "M4-094",
-          "Book Name": "Urala Surala",
-          "Writer": "P. L. Deshpande"
+          "bookno": "M4-094",
+          "bookname": "Urala Surala",
+          "author": "P. L. Deshpande"
         },
         {
-          "Book No": "M4-095",
-          "Book Name": "Tatvamasi",
-          "Writer": "Dhruv Bhatt"
+          "bookno": "M4-095",
+          "bookname": "Tatvamasi",
+          "author": "Dhruv Bhatt"
         },
         {
-          "Book No": "M4-096",
-          "Book Name": "Vyakti Valli",
-          "Writer": "P. L. Deshpande"
+          "bookno": "M4-096",
+          "bookname": "Vyakti Valli",
+          "author": "P. L. Deshpande"
         },
         {
-          "Book No": "M4-097",
-          "Book Name": "Devdi",
-          "Writer": "Guljar"
+          "bookno": "M4-097",
+          "bookname": "Devdi",
+          "author": "Guljar"
         },
         {
-          "Book No": "M4-098",
-          "Book Name": "Ashok Charitra",
-          "Writer": "Vasudev Apte"
+          "bookno": "M4-098",
+          "bookname": "Ashok Charitra",
+          "author": "Vasudev Apte"
         },
         {
-          "Book No": "M4-099",
-          "Book Name": "Ant Na Aarambhahi",
-          "Writer": "Ambika Sarkar"
+          "bookno": "M4-099",
+          "bookname": "Ant Na Aarambhahi",
+          "author": "Ambika Sarkar"
         },
         {
-          "Book No": "M4-100",
-          "Book Name": "Purachundi",
-          "Writer": "P. L. Deshpande"
+          "bookno": "M4-100",
+          "bookname": "Purachundi",
+          "author": "P. L. Deshpande"
         },
         {
-          "Book No": "M4-101",
-          "Book Name": "Yayaati",
-          "Writer": "V. S. Khandekar"
+          "bookno": "M4-101",
+          "bookname": "Yayaati",
+          "author": "V. S. Khandekar"
         },
         {
-          "Book No": "M4-102",
-          "Book Name": "Lavasa",
-          "Writer": "Nilu Damale"
+          "bookno": "M4-102",
+          "bookname": "Lavasa",
+          "author": "Nilu Damale"
         },
         {
-          "Book No": "M4-103",
-          "Book Name": "Dongari Te Dubai",
-          "Writer": "S. Hussain Zaidi"
+          "bookno": "M4-103",
+          "bookname": "Dongari Te Dubai",
+          "author": "S. Hussain Zaidi"
         },
         {
-          "Book No": "M4-104",
-          "Book Name": "Deborah Ellis - Sacred Leaf",
-          "Writer": "Meghana Dhoke"
+          "bookno": "M4-104",
+          "bookname": "Deborah Ellis - Sacred Leaf",
+          "author": "Meghana Dhoke"
         },
         {
-          "Book No": "M4-105",
-          "Book Name": "Thaimaan",
-          "Writer": "Raamchandra Nalavde"
+          "bookno": "M4-105",
+          "bookname": "Thaimaan",
+          "author": "Raamchandra Nalavde"
         },
         {
-          "Book No": "M4-106",
-          "Book Name": "Muktipatre",
-          "Writer": "Dr. Anand Nadkarni"
+          "bookno": "M4-106",
+          "bookname": "Muktipatre",
+          "author": "Dr. Anand Nadkarni"
         },
         {
-          "Book No": "M4-107",
-          "Book Name": "Bra",
-          "Writer": "Kavita Mahajan"
+          "bookno": "M4-107",
+          "bookname": "Bra",
+          "author": "Kavita Mahajan"
         },
         {
-          "Book No": "M4-108",
-          "Book Name": "Tya Ratri",
-          "Writer": "Vrinda Diwan"
+          "bookno": "M4-108",
+          "bookname": "Tya Ratri",
+          "author": "Vrinda Diwan"
         },
         {
-          "Book No": "M4-109",
-          "Book Name": "The God of Animals",
-          "Writer": "Aryan Kayale"
+          "bookno": "M4-109",
+          "bookname": "The God of Animals",
+          "author": "Aryan Kayale"
         },
         {
-          "Book No": "M4-110",
-          "Book Name": "Brainwaves",
-          "Writer": "Madhuri Shanbhaag"
+          "bookno": "M4-110",
+          "bookname": "Brainwaves",
+          "author": "Madhuri Shanbhaag"
         },
         {
-          "Book No": "M4-111",
-          "Book Name": "To Sir With Love",
-          "Writer": "E. R. Brethwet"
+          "bookno": "M4-111",
+          "bookname": "To Sir With Love",
+          "author": "E. R. Brethwet"
         },
         {
-          "Book No": "M4-112",
-          "Book Name": "Kurukshetra",
-          "Writer": "Subodh Javdekar"
+          "bookno": "M4-112",
+          "bookname": "Kurukshetra",
+          "author": "Subodh Javdekar"
         },
         {
-          "Book No": "M4-113",
-          "Book Name": "Daas Dongari Rahato",
-          "Writer": "G. N. Dandekar"
+          "bookno": "M4-113",
+          "bookname": "Daas Dongari Rahato",
+          "author": "G. N. Dandekar"
         },
         {
-          "Book No": "M4-114",
-          "Book Name": "Tuesdays with Morrey",
-          "Writer": "Mitch Album"
+          "bookno": "M4-114",
+          "bookname": "Tuesdays with Morrey",
+          "author": "Mitch Album"
         },
         {
-          "Book No": "M4-115",
-          "Book Name": "Pangira",
-          "Writer": "Vishwas Patil"
+          "bookno": "M4-115",
+          "bookname": "Pangira",
+          "author": "Vishwas Patil"
         },
         {
-          "Book No": "M4-116",
-          "Book Name": "Samanyatil Asamanya",
-          "Writer": "Sudha Moorty"
+          "bookno": "M4-116",
+          "bookname": "Samanyatil Asamanya",
+          "author": "Sudha Moorty"
         },
         {
-          "Book No": "M4-117",
-          "Book Name": "The Zaheer",
-          "Writer": "Paulo Koello"
+          "bookno": "M4-117",
+          "bookname": "The Zaheer",
+          "author": "Paulo Koello"
         },
         {
-          "Book No": "M4-118",
-          "Book Name": "Five Point Someone",
-          "Writer": "Chetan Bhagat"
+          "bookno": "M4-118",
+          "bookname": "Five Point Someone",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "M4-119",
-          "Book Name": "Paradhi",
-          "Writer": "Girish Prabhune"
+          "bookno": "M4-119",
+          "bookname": "Paradhi",
+          "author": "Girish Prabhune"
         },
         {
-          "Book No": "M4-120",
-          "Book Name": "Train to Pakistan",
-          "Writer": "Khushvant Singh"
+          "bookno": "M4-120",
+          "bookname": "Train to Pakistan",
+          "author": "Khushvant Singh"
         },
         {
-          "Book No": "M4-121",
-          "Book Name": "Sambhramachya Lata",
-          "Writer": "Ratnakar Matkari"
+          "bookno": "M4-121",
+          "bookname": "Sambhramachya Lata",
+          "author": "Ratnakar Matkari"
         },
         {
-          "Book No": "M4-122",
-          "Book Name": "Doctor Zivaago",
-          "Writer": "Borris Pasternak"
+          "bookno": "M4-122",
+          "bookname": "Doctor Zivaago",
+          "author": "Borris Pasternak"
         },
         {
-          "Book No": "M4-123",
-          "Book Name": "Andharachya Parambya",
-          "Writer": "Jayavant Dalvi"
+          "bookno": "M4-123",
+          "bookname": "Andharachya Parambya",
+          "author": "Jayavant Dalvi"
         },
         {
-          "Book No": "M4-124",
-          "Book Name": "Pavasat Surya Shodhanari Manasa",
-          "Writer": "Neeraja"
+          "bookno": "M4-124",
+          "bookname": "Pavasat Surya Shodhanari Manasa",
+          "author": "Neeraja"
         },
         {
-          "Book No": "M4-125",
-          "Book Name": "The God of Small Things",
-          "Writer": "Aarundhati Roy"
+          "bookno": "M4-125",
+          "bookname": "The God of Small Things",
+          "author": "Aarundhati Roy"
         },
         {
-          "Book No": "M4-126",
-          "Book Name": "Paravana",
-          "Writer": "Deborah Ellis"
+          "bookno": "M4-126",
+          "bookname": "Paravana",
+          "author": "Deborah Ellis"
         },
         {
-          "Book No": "M4-127",
-          "Book Name": "Aalo Andhari",
-          "Writer": "Baby Haaldaar"
+          "bookno": "M4-127",
+          "bookname": "Aalo Andhari",
+          "author": "Baby Haaldaar"
         },
         {
-          "Book No": "M4-128",
-          "Book Name": "1984",
-          "Writer": "George Orwel"
+          "bookno": "M4-128",
+          "bookname": "1984",
+          "author": "George Orwel"
         },
         {
-          "Book No": "M4-129",
-          "Book Name": "Maachivaralaa Budhaa",
-          "Writer": "G.N. Dandekar"
+          "bookno": "M4-129",
+          "bookname": "Maachivaralaa Budhaa",
+          "author": "G.N. Dandekar"
         },
         {
-          "Book No": "M4-130",
-          "Book Name": "Devaraaichyaa Saavalit",
-          "Writer": "Anand Nadkarni"
+          "bookno": "M4-130",
+          "bookname": "Devaraaichyaa Saavalit",
+          "author": "Anand Nadkarni"
         },
         {
-          "Book No": "M4-131",
-          "Book Name": "Mogara Phulala",
-          "Writer": "G.N. Dandekar"
+          "bookno": "M4-131",
+          "bookname": "Mogara Phulala",
+          "author": "G.N. Dandekar"
         },
         {
-          "Book No": "M4-132",
-          "Book Name": "Kurukshetre",
-          "Writer": "Aashaa Bage"
+          "bookno": "M4-132",
+          "bookname": "Kurukshetre",
+          "author": "Aashaa Bage"
         },
         {
-          "Book No": "M4-133",
-          "Book Name": "Tripadi",
-          "Writer": "G.N. Dandekar"
+          "bookno": "M4-133",
+          "bookname": "Tripadi",
+          "author": "G.N. Dandekar"
         },
         {
-          "Book No": "M4-134",
-          "Book Name": "Samidha",
-          "Writer": "Ranjeet Desai"
+          "bookno": "M4-134",
+          "bookname": "Samidha",
+          "author": "Ranjeet Desai"
         },
         {
-          "Book No": "M4-135",
-          "Book Name": "Aandhalee",
-          "Writer": "Shaantaa Shelke"
+          "bookno": "M4-135",
+          "bookname": "Aandhalee",
+          "author": "Shaantaa Shelke"
         },
         {
-          "Book No": "M4-136",
-          "Book Name": "Maalgudichaa Narabhakshak",
-          "Writer": "R.K. Narayan"
+          "bookno": "M4-136",
+          "bookname": "Maalgudichaa Narabhakshak",
+          "author": "R.K. Narayan"
         },
         {
-          "Book No": "M4-137",
-          "Book Name": "The Batchelor of Arts",
-          "Writer": "R.K. Narayan"
+          "bookno": "M4-137",
+          "bookname": "The Batchelor of Arts",
+          "author": "R.K. Narayan"
         },
         {
-          "Book No": "M4-138",
-          "Book Name": "Mahaatmyaachyaa Pratikshet",
-          "Writer": "R.K. Narayan"
+          "bookno": "M4-138",
+          "bookname": "Mahaatmyaachyaa Pratikshet",
+          "author": "R.K. Narayan"
         },
         {
-          "Book No": "M4-139",
-          "Book Name": "Paani",
-          "Writer": "Aashaa Bage"
+          "bookno": "M4-139",
+          "bookname": "Paani",
+          "author": "Aashaa Bage"
         },
         {
-          "Book No": "M4-140",
-          "Book Name": "Ashi Kaalvel",
-          "Writer": "Shashi Deshpande"
+          "bookno": "M4-140",
+          "bookname": "Ashi Kaalvel",
+          "author": "Shashi Deshpande"
         },
         {
-          "Book No": "M4-141",
-          "Book Name": "Shahaani Sakaal",
-          "Writer": "S.N. Navare"
+          "bookno": "M4-141",
+          "bookname": "Shahaani Sakaal",
+          "author": "S.N. Navare"
         },
         {
-          "Book No": "M4-142",
-          "Book Name": "Vaaluchaa Killaa",
-          "Writer": "Vyankatesh Madgulkar"
+          "bookno": "M4-142",
+          "bookname": "Vaaluchaa Killaa",
+          "author": "Vyankatesh Madgulkar"
         },
         {
-          "Book No": "M4-143",
-          "Book Name": "Jatraa",
-          "Writer": "S.N. Navare"
+          "bookno": "M4-143",
+          "bookname": "Jatraa",
+          "author": "S.N. Navare"
         },
         {
-          "Book No": "M4-144",
-          "Book Name": "Kaalhi An Aajahi",
-          "Writer": "Aashaa Kardale"
+          "bookno": "M4-144",
+          "bookname": "Kaalhi An Aajahi",
+          "author": "Aashaa Kardale"
         },
         {
-          "Book No": "M4-145",
-          "Book Name": "Tyaa Varshi",
-          "Writer": "Shaantaa Gokhale"
+          "bookno": "M4-145",
+          "bookname": "Tyaa Varshi",
+          "author": "Shaantaa Gokhale"
         },
         {
-          "Book No": "M4-146",
-          "Book Name": "Abhogi",
-          "Writer": "Ranjeet Desai"
+          "bookno": "M4-146",
+          "bookname": "Abhogi",
+          "author": "Ranjeet Desai"
         },
         {
-          "Book No": "M4-147",
-          "Book Name": "Manaatale Kans - Ekmek",
-          "Writer": "S.N. Navare"
+          "bookno": "M4-147",
+          "bookname": "Manaatale Kans - Ekmek",
+          "author": "S.N. Navare"
         },
         {
-          "Book No": "M4-148",
-          "Book Name": "Shaala",
-          "Writer": "Milind Bokil"
+          "bookno": "M4-148",
+          "bookname": "Shaala",
+          "author": "Milind Bokil"
         },
         {
-          "Book No": "M4-149",
-          "Book Name": "Swa-Gat",
-          "Writer": "Jayavant Dalavi"
+          "bookno": "M4-149",
+          "bookname": "Swa-Gat",
+          "author": "Jayavant Dalavi"
         },
         {
-          "Book No": "M4-150",
-          "Book Name": "Suryasta",
-          "Writer": "Jayavant Dalavi"
+          "bookno": "M4-150",
+          "bookname": "Suryasta",
+          "author": "Jayavant Dalavi"
         },
         {
-          "Book No": "M4-151",
-          "Book Name": "Bhoommi",
-          "Writer": "Asha Bage"
+          "bookno": "M4-151",
+          "bookname": "Bhoommi",
+          "author": "Asha Bage"
         },
         {
-          "Book No": "M4-152",
-          "Book Name": "Sayankalachya Savalya",
-          "Writer": "Jayavant Dalavi"
+          "bookno": "M4-152",
+          "bookname": "Sayankalachya Savalya",
+          "author": "Jayavant Dalavi"
         },
         {
-          "Book No": "M4-153",
-          "Book Name": "The Alchemist",
-          "Writer": "Paulo Koello"
+          "bookno": "M4-153",
+          "bookname": "The Alchemist",
+          "author": "Paulo Koello"
         },
         {
-          "Book No": "M4-154",
-          "Book Name": "I Am a Taxi",
-          "Writer": "Deborah Ellis"
+          "bookno": "M4-154",
+          "bookname": "I Am a Taxi",
+          "author": "Deborah Ellis"
         },
         {
-          "Book No": "M4-155",
-          "Book Name": "Aandhalyachya Gaayee",
-          "Writer": "Meghana Pethe"
+          "bookno": "M4-155",
+          "bookname": "Aandhalyachya Gaayee",
+          "author": "Meghana Pethe"
         },
         {
-          "Book No": "M4-156",
-          "Book Name": "Fakta Teen Minite",
-          "Writer": "Madan Patil"
+          "bookno": "M4-156",
+          "bookname": "Fakta Teen Minite",
+          "author": "Madan Patil"
         },
         {
-          "Book No": "M4-157",
-          "Book Name": "Zopala",
-          "Writer": "S. N. Navare"
+          "bookno": "M4-157",
+          "bookname": "Zopala",
+          "author": "S. N. Navare"
         },
         {
-          "Book No": "M4-158",
-          "Book Name": "Vaataa",
-          "Writer": "Vyankatesh Madgulkar"
+          "bookno": "M4-158",
+          "bookname": "Vaataa",
+          "author": "Vyankatesh Madgulkar"
         },
         {
-          "Book No": "M4-159",
-          "Book Name": "Roopamahaal",
-          "Writer": "Ranjeet Desai"
+          "bookno": "M4-159",
+          "bookname": "Roopamahaal",
+          "author": "Ranjeet Desai"
         },
         {
-          "Book No": "M4-160",
-          "Book Name": "Katha Gurjari",
-          "Writer": "Anjani Naravane"
+          "bookno": "M4-160",
+          "bookname": "Katha Gurjari",
+          "author": "Anjani Naravane"
         },
         {
-          "Book No": "M4-161",
-          "Book Name": "Faashi Bakhal",
-          "Writer": "Ratnakar Matkari"
+          "bookno": "M4-161",
+          "bookname": "Faashi Bakhal",
+          "author": "Ratnakar Matkari"
         },
         {
-          "Book No": "M4-162",
-          "Book Name": "Manasachya Goshti",
-          "Writer": "Ratnakar Matkari"
+          "bookno": "M4-162",
+          "bookname": "Manasachya Goshti",
+          "author": "Ratnakar Matkari"
         },
         {
-          "Book No": "M4-163",
-          "Book Name": "Sansanati",
-          "Writer": "Suhas Shirwalkar"
+          "bookno": "M4-163",
+          "bookname": "Sansanati",
+          "author": "Suhas Shirwalkar"
         },
         {
-          "Book No": "M4-164",
-          "Book Name": "Akher",
-          "Writer": "Suhas Shirwalkar"
+          "bookno": "M4-164",
+          "bookname": "Akher",
+          "author": "Suhas Shirwalkar"
         },
         {
-          "Book No": "M4-165",
-          "Book Name": "Chakravhyu",
-          "Writer": "Suhas Shirwalkar"
+          "bookno": "M4-165",
+          "bookname": "Chakravhyu",
+          "author": "Suhas Shirwalkar"
         },
         {
-          "Book No": "M4-166",
-          "Book Name": "Objection Your Honour",
-          "Writer": "Suhas Shirwalkar"
+          "bookno": "M4-166",
+          "bookname": "Objection Your Honour",
+          "author": "Suhas Shirwalkar"
         },
         {
-          "Book No": "M4-167",
-          "Book Name": "Satrh",
-          "Writer": "Suhas Shirwalkar"
+          "bookno": "M4-167",
+          "bookname": "Satrh",
+          "author": "Suhas Shirwalkar"
         },
         {
-          "Book No": "M4-168",
-          "Book Name": "Zhanzhavati",
-          "Writer": "Suhas Shirwalkar"
+          "bookno": "M4-168",
+          "bookname": "Zhanzhavati",
+          "author": "Suhas Shirwalkar"
         },
         {
-          "Book No": "M4-169",
-          "Book Name": "Tower House",
-          "Writer": "Suhas Shirwalkar"
+          "bookno": "M4-169",
+          "bookname": "Tower House",
+          "author": "Suhas Shirwalkar"
         },
         {
-          "Book No": "M4-170",
-          "Book Name": "Punya Bhumi",
-          "Writer": "Sudha Murthy"
+          "bookno": "M4-170",
+          "bookname": "Punya Bhumi",
+          "author": "Sudha Murthy"
         },
         {
-          "Book No": "M4-171",
-          "Book Name": "Wise and Otherwise",
-          "Writer": "Sudha Murthy"
+          "bookno": "M4-171",
+          "bookname": "Wise and Otherwise",
+          "author": "Sudha Murthy"
         },
         {
-          "Book No": "M4-172",
-          "Book Name": "The English Teacher",
-          "Writer": "R. K. Narayan"
+          "bookno": "M4-172",
+          "bookname": "The English Teacher",
+          "author": "R. K. Narayan"
         },
         {
-          "Book No": "M4-173",
-          "Book Name": "Prakashache Gaane",
-          "Writer": "Aruna Dhere"
+          "bookno": "M4-173",
+          "bookname": "Prakashache Gaane",
+          "author": "Aruna Dhere"
         },
         {
-          "Book No": "M4-174",
-          "Book Name": "The Pelican Brief",
-          "Writer": "John Grisham"
+          "bookno": "M4-174",
+          "bookname": "The Pelican Brief",
+          "author": "John Grisham"
         },
         {
-          "Book No": "M4-175",
-          "Book Name": "Speedpost",
-          "Writer": "Shobha De"
+          "bookno": "M4-175",
+          "bookname": "Speedpost",
+          "author": "Shobha De"
         },
         {
-          "Book No": "M4-176",
-          "Book Name": "Teechi Gosth",
-          "Writer": "Madhuri Shanbhag"
+          "bookno": "M4-176",
+          "bookname": "Teechi Gosth",
+          "author": "Madhuri Shanbhag"
         },
         {
-          "Book No": "M4-177",
-          "Book Name": "Sambhaji ",
-          "Writer": "Vishwas Patil"
+          "bookno": "M4-177",
+          "bookname": "Sambhaji ",
+          "author": "Vishwas Patil"
         },
         {
-          "Book No": "M4-178",
-          "Book Name": "Indradhanush",
-          "Writer": "Prof. Madhuri Shanbhag"
+          "bookno": "M4-178",
+          "bookname": "Indradhanush",
+          "author": "Prof. Madhuri Shanbhag"
         },
         {
-          "Book No": "M4-179",
-          "Book Name": "Ailathtavar Pailathtavar",
-          "Writer": "Vidhyadhar Bhagwat"
+          "bookno": "M4-179",
+          "bookname": "Ailathtavar Pailathtavar",
+          "author": "Vidhyadhar Bhagwat"
         },
         {
-          "Book No": "M4-180",
-          "Book Name": "Aamhi Bhaghiratache Putra",
-          "Writer": "Gopal Dhandekar"
+          "bookno": "M4-180",
+          "bookname": "Aamhi Bhaghiratache Putra",
+          "author": "Gopal Dhandekar"
         },
         {
-          "Book No": "M4-181",
-          "Book Name": "Tumbadche Khot",
-          "Writer": "S. N. Pense"
+          "bookno": "M4-181",
+          "bookname": "Tumbadche Khot",
+          "author": "S. N. Pense"
         },
         {
-          "Book No": "M4-182",
-          "Book Name": "Vilpava",
-          "Writer": "Arun Saadhu"
+          "bookno": "M4-182",
+          "bookname": "Vilpava",
+          "author": "Arun Saadhu"
         },
         {
-          "Book No": "M4-183",
-          "Book Name": "Chaava",
-          "Writer": "Shivaji Sawant"
+          "bookno": "M4-183",
+          "bookname": "Chaava",
+          "author": "Shivaji Sawant"
         },
         {
-          "Book No": "M4-184",
-          "Book Name": "Zhadazhadati",
-          "Writer": "Vishwas Patil"
+          "bookno": "M4-184",
+          "bookname": "Zhadazhadati",
+          "author": "Vishwas Patil"
         },
         {
-          "Book No": "M4-185",
-          "Book Name": "Gyansagaratil Shimple",
-          "Writer": "G.C. Gokhale"
+          "bookno": "M4-185",
+          "bookname": "Gyansagaratil Shimple",
+          "author": "G.C. Gokhale"
         },
         {
-          "Book No": "M4-186",
-          "Book Name": "Shivar",
-          "Writer": "Conrard Rickhter"
+          "bookno": "M4-186",
+          "bookname": "Shivar",
+          "author": "Conrard Rickhter"
         },
         {
-          "Book No": "M4-187",
-          "Book Name": "Raan",
-          "Writer": "Conrard Rickhter"
+          "bookno": "M4-187",
+          "bookname": "Raan",
+          "author": "Conrard Rickhter"
         },
         {
-          "Book No": "M4-188",
-          "Book Name": "Chaturbhuj",
-          "Writer": "V P Kale"
+          "bookno": "M4-188",
+          "bookname": "Chaturbhuj",
+          "author": "V P Kale"
         },
         {
-          "Book No": "M4-189",
-          "Book Name": "Rajarshee Shaahumahaarajanchi Bhashane",
-          "Writer": "Bhagavanrao Jadhav"
+          "bookno": "M4-189",
+          "bookname": "Rajarshee Shaahumahaarajanchi Bhashane",
+          "author": "Bhagavanrao Jadhav"
         },
         {
-          "Book No": "M4-190",
-          "Book Name": "Kaanosa",
-          "Writer": "Rani Bang"
+          "bookno": "M4-190",
+          "bookname": "Kaanosa",
+          "author": "Rani Bang"
         },
         {
-          "Book No": "M4-191",
-          "Book Name": "Raanvaata",
-          "Writer": "Maruti Chitampalli"
+          "bookno": "M4-191",
+          "bookname": "Raanvaata",
+          "author": "Maruti Chitampalli"
         },
         {
-          "Book No": "M4-192",
-          "Book Name": "Tendulkaranchya Nivadak Katha",
-          "Writer": "Vijay Tendulkar"
+          "bookno": "M4-192",
+          "bookname": "Tendulkaranchya Nivadak Katha",
+          "author": "Vijay Tendulkar"
         },
         {
-          "Book No": "M4-193",
-          "Book Name": "Raranga Dhaang",
-          "Writer": "Prabhaakar Pendhaarkar"
+          "bookno": "M4-193",
+          "bookname": "Raranga Dhaang",
+          "author": "Prabhaakar Pendhaarkar"
         },
         {
-          "Book No": "M4-194",
-          "Book Name": "Muktanganchi Goshta",
-          "Writer": "Anil Avachat"
+          "bookno": "M4-194",
+          "bookname": "Muktanganchi Goshta",
+          "author": "Anil Avachat"
         },
         {
-          "Book No": "M4-195",
-          "Book Name": "He Hi Divas Jaatil",
-          "Writer": "Dr. Anand Nadkarni"
+          "bookno": "M4-195",
+          "bookname": "He Hi Divas Jaatil",
+          "author": "Dr. Anand Nadkarni"
         },
         {
-          "Book No": "M4-196",
-          "Book Name": "Raanmitra",
-          "Writer": "Dr. Prakash Amte"
+          "bookno": "M4-196",
+          "bookname": "Raanmitra",
+          "author": "Dr. Prakash Amte"
         },
         {
-          "Book No": "M4-197",
-          "Book Name": "Salaam Malaalaa",
-          "Writer": "Sanjay Meshram"
+          "bookno": "M4-197",
+          "bookname": "Salaam Malaalaa",
+          "author": "Sanjay Meshram"
         },
         {
-          "Book No": "M4-198",
-          "Book Name": "Sad Cyprus",
-          "Writer": "Agatha Christie"
+          "bookno": "M4-198",
+          "bookname": "Sad Cyprus",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "M4-199",
-          "Book Name": "Lord Edgeware Dies",
-          "Writer": "Agatha Christie"
+          "bookno": "M4-199",
+          "bookname": "Lord Edgeware Dies",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "M4-200",
-          "Book Name": "Dead Mans Folly",
-          "Writer": "Agatha Christie"
+          "bookno": "M4-200",
+          "bookname": "Dead Mans Folly",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "M4-201",
-          "Book Name": "Hercule Poirot's Christmas",
-          "Writer": "Agatha Christie"
+          "bookno": "M4-201",
+          "bookname": "Hercule Poirot's Christmas",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "M4-202",
-          "Book Name": "Elephants can Remember",
-          "Writer": "Agatha Christie"
+          "bookno": "M4-202",
+          "bookname": "Elephants can Remember",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "M4-203",
-          "Book Name": "Evil Under the Sun",
-          "Writer": "Agatha Christie"
+          "bookno": "M4-203",
+          "bookname": "Evil Under the Sun",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "M4-204",
-          "Book Name": "Peril At End House",
-          "Writer": "Agatha Christie"
+          "bookno": "M4-204",
+          "bookname": "Peril At End House",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "M4-205",
-          "Book Name": "Mysterious Affair at Styles",
-          "Writer": "Agatha Christie"
+          "bookno": "M4-205",
+          "bookname": "Mysterious Affair at Styles",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "M4-206",
-          "Book Name": "Cards On the Table",
-          "Writer": "Agatha Christie"
+          "bookno": "M4-206",
+          "bookname": "Cards On the Table",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "M4-207",
-          "Book Name": "Appointment With Death",
-          "Writer": "Agatha Christie"
+          "bookno": "M4-207",
+          "bookname": "Appointment With Death",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "M4-208",
-          "Book Name": "Tumbadche Khot Part I",
-          "Writer": "S. N. Pendse"
+          "bookno": "M4-208",
+          "bookname": "Tumbadche Khot Part I",
+          "author": "S. N. Pendse"
         },
         {
-          "Book No": "M4-209",
-          "Book Name": "Tumbadche Khot Part II",
-          "Writer": "S. N. Pendse"
+          "bookno": "M4-209",
+          "bookname": "Tumbadche Khot Part II",
+          "author": "S. N. Pendse"
         },
         {
-          "Book No": "M4-210",
-          "Book Name": "Amrutwel",
-          "Writer": "V. S. Khandekar"
+          "bookno": "M4-210",
+          "bookname": "Amrutwel",
+          "author": "V. S. Khandekar"
         },
         {
-          "Book No": "M4-211",
-          "Book Name": "Gargi Ajun Jivant Aahe",
-          "Writer": "Mangala Athlekar"
+          "bookno": "M4-211",
+          "bookname": "Gargi Ajun Jivant Aahe",
+          "author": "Mangala Athlekar"
         },
         {
-          "Book No": "M4-212",
-          "Book Name": "Investment",
-          "Writer": "Ratnakar Matkari"
+          "bookno": "M4-212",
+          "bookname": "Investment",
+          "author": "Ratnakar Matkari"
         },
         {
-          "Book No": "M4-213",
-          "Book Name": "Pu. La. Ek Saathavan",
-          "Writer": "P. L. Deshpande"
+          "bookno": "M4-213",
+          "bookname": "Pu. La. Ek Saathavan",
+          "author": "P. L. Deshpande"
         },
         {
-          "Book No": "M4-214",
-          "Book Name": "Yugandhar",
-          "Writer": "Shivaji Sawant"
+          "bookno": "M4-214",
+          "bookname": "Yugandhar",
+          "author": "Shivaji Sawant"
         },
         {
-          "Book No": "M4-215",
-          "Book Name": "Paangira",
-          "Writer": "Vishwas Patil"
+          "bookno": "M4-215",
+          "bookname": "Paangira",
+          "author": "Vishwas Patil"
         },
         {
-          "Book No": "M4-216",
-          "Book Name": "Pareegh",
-          "Writer": "Sudha Moorthy"
+          "bookno": "M4-216",
+          "bookname": "Pareegh",
+          "author": "Sudha Moorthy"
         },
         {
-          "Book No": "M4-217",
-          "Book Name": "When Bad Things Happen",
-          "Writer": "Sunandaa Amrapurkar"
+          "bookno": "M4-217",
+          "bookname": "When Bad Things Happen",
+          "author": "Sunandaa Amrapurkar"
         },
         {
-          "Book No": "M4-218",
-          "Book Name": "Zaala Gela",
-          "Writer": "Suhas Shirwalkar"
+          "bookno": "M4-218",
+          "bookname": "Zaala Gela",
+          "author": "Suhas Shirwalkar"
         },
         {
-          "Book No": "M4-219",
-          "Book Name": "Kshanokshani",
-          "Writer": "Suhaas Shirvalkar"
+          "bookno": "M4-219",
+          "bookname": "Kshanokshani",
+          "author": "Suhaas Shirvalkar"
         },
         {
-          "Book No": "M4-220",
-          "Book Name": "Shouziyaa",
-          "Writer": "Deborah Ellis"
+          "bookno": "M4-220",
+          "bookname": "Shouziyaa",
+          "author": "Deborah Ellis"
         },
         {
-          "Book No": "M4-221",
-          "Book Name": "Pitrurun",
-          "Writer": "Sudhaa Murthy"
+          "bookno": "M4-221",
+          "bookname": "Pitrurun",
+          "author": "Sudhaa Murthy"
         },
         {
-          "Book No": "M4-222",
-          "Book Name": "The Breadwinner",
-          "Writer": "Deborah Ellis"
+          "bookno": "M4-222",
+          "bookname": "The Breadwinner",
+          "author": "Deborah Ellis"
         },
         {
-          "Book No": "M4-223",
-          "Book Name": "Choughijani",
-          "Writer": "Shaantaa Shelke"
+          "bookno": "M4-223",
+          "bookname": "Choughijani",
+          "author": "Shaantaa Shelke"
         },
         {
-          "Book No": "M4-224",
-          "Book Name": "Mrityunjay",
-          "Writer": "Shivaji Sawant"
+          "bookno": "M4-224",
+          "bookname": "Mrityunjay",
+          "author": "Shivaji Sawant"
         },
         {
-          "Book No": "M4-225",
-          "Book Name": "Pais",
-          "Writer": "Durga Bhagvat"
+          "bookno": "M4-225",
+          "bookname": "Pais",
+          "author": "Durga Bhagvat"
         },
         {
-          "Book No": "M4-226",
-          "Book Name": "Upekshitanche Antarang",
-          "Writer": "Shree Ma Mate"
+          "bookno": "M4-226",
+          "bookname": "Upekshitanche Antarang",
+          "author": "Shree Ma Mate"
         },
         {
-          "Book No": "M4-227",
-          "Book Name": "Naayagaraache Naadbramha",
-          "Writer": "Gangaadhar Gaadgil"
+          "bookno": "M4-227",
+          "bookname": "Naayagaraache Naadbramha",
+          "author": "Gangaadhar Gaadgil"
         },
         {
-          "Book No": "M4-228",
-          "Book Name": "Mee Appaa Hoshi",
-          "Writer": "Raamakrushna"
+          "bookno": "M4-228",
+          "bookname": "Mee Appaa Hoshi",
+          "author": "Raamakrushna"
         },
         {
-          "Book No": "M4-229",
-          "Book Name": "Vadildhaari Maanase",
-          "Writer": "Shanta Shelke"
+          "bookno": "M4-229",
+          "bookname": "Vadildhaari Maanase",
+          "author": "Shanta Shelke"
         },
         {
-          "Book No": "M4-230",
-          "Book Name": "Simhaasan",
-          "Writer": "Arun Saadhu"
+          "bookno": "M4-230",
+          "bookname": "Simhaasan",
+          "author": "Arun Saadhu"
         },
         {
-          "Book No": "M4-231",
-          "Book Name": "Shree Deeplakshmi",
-          "Writer": ""
+          "bookno": "M4-231",
+          "bookname": "Shree Deeplakshmi",
+          "author": ""
         },
         {
-          "Book No": "M4-232",
-          "Book Name": "Kesanche Arogya",
-          "Writer": ""
+          "bookno": "M4-232",
+          "bookname": "Kesanche Arogya",
+          "author": ""
         },
         {
-          "Book No": "M4-233",
-          "Book Name": "Kelyaane Bhaashaantar Oct-2010",
-          "Writer": ""
+          "bookno": "M4-233",
+          "bookname": "Kelyaane Bhaashaantar Oct-2010",
+          "author": ""
         },
         {
-          "Book No": "M4-234",
-          "Book Name": "Kelyaane Bhaashaantar Oct-2011",
-          "Writer": ""
+          "bookno": "M4-234",
+          "bookname": "Kelyaane Bhaashaantar Oct-2011",
+          "author": ""
         },
         {
-          "Book No": "M4-235",
-          "Book Name": "Kelyaane Bhaashaantar Oct-2008",
-          "Writer": ""
+          "bookno": "M4-235",
+          "bookname": "Kelyaane Bhaashaantar Oct-2008",
+          "author": ""
         },
         {
-          "Book No": "M4-236",
-          "Book Name": "Kelyaane Bhaashaantar Apr-2012",
-          "Writer": ""
+          "bookno": "M4-236",
+          "bookname": "Kelyaane Bhaashaantar Apr-2012",
+          "author": ""
         },
         {
-          "Book No": "M4-237",
-          "Book Name": "Bataatyaachi Chaal",
-          "Writer": "P. L. Deshpande"
+          "bookno": "M4-237",
+          "bookname": "Bataatyaachi Chaal",
+          "author": "P. L. Deshpande"
         },
         {
-          "Book No": "M4-238",
-          "Book Name": "Bichari Balake",
-          "Writer": "Tarabai Modak"
+          "bookno": "M4-238",
+          "bookname": "Bichari Balake",
+          "author": "Tarabai Modak"
         },
         {
-          "Book No": "M4-239",
-          "Book Name": "What Went Wrong",
-          "Writer": "Kiran Bedi"
+          "bookno": "M4-239",
+          "bookname": "What Went Wrong",
+          "author": "Kiran Bedi"
         },
         {
-          "Book No": "M4-240",
-          "Book Name": "Lajja",
-          "Writer": "Taslima Nasarin"
+          "bookno": "M4-240",
+          "bookname": "Lajja",
+          "author": "Taslima Nasarin"
         },
         {
-          "Book No": "M4-241",
-          "Book Name": "Ashok Charitra",
-          "Writer": "Vasudev Apte"
+          "bookno": "M4-241",
+          "bookname": "Ashok Charitra",
+          "author": "Vasudev Apte"
         },
         {
-          "Book No": "M4-242",
-          "Book Name": "Mrityunjay",
-          "Writer": "Shivaji Sawant"
+          "bookno": "M4-242",
+          "bookname": "Mrityunjay",
+          "author": "Shivaji Sawant"
         },
         {
-          "Book No": "M4-243",
-          "Book Name": "Satyapriya Gandhari",
-          "Writer": "Dr. Sumati Kshetramade"
+          "bookno": "M4-243",
+          "bookname": "Satyapriya Gandhari",
+          "author": "Dr. Sumati Kshetramade"
         },
         {
-          "Book No": "M4-244",
-          "Book Name": "Pitamah",
-          "Writer": "Anant Tibile"
+          "bookno": "M4-244",
+          "bookname": "Pitamah",
+          "author": "Anant Tibile"
         },
         {
-          "Book No": "M4-245",
-          "Book Name": "Saai",
-          "Writer": "Vinod Gayakwad"
+          "bookno": "M4-245",
+          "bookname": "Saai",
+          "author": "Vinod Gayakwad"
         },
         {
-          "Book No": "M4-246",
-          "Book Name": "Pangira",
-          "Writer": "Vishwas Patil"
+          "bookno": "M4-246",
+          "bookname": "Pangira",
+          "author": "Vishwas Patil"
         },
         {
-          "Book No": "M4-247",
-          "Book Name": "Zaadaazadati",
-          "Writer": "Vishwas Patil"
+          "bookno": "M4-247",
+          "bookname": "Zaadaazadati",
+          "author": "Vishwas Patil"
         },
         {
-          "Book No": "M4-248",
-          "Book Name": "Dast",
-          "Writer": "Naraayan Dharap"
+          "bookno": "M4-248",
+          "bookname": "Dast",
+          "author": "Naraayan Dharap"
         },
         {
-          "Book No": "M4-249",
-          "Book Name": "Paach Santcharitre",
-          "Writer": "Gopal Dhandekar"
+          "bookno": "M4-249",
+          "bookname": "Paach Santcharitre",
+          "author": "Gopal Dhandekar"
         },
         {
-          "Book No": "M4-250",
-          "Book Name": "Not Without My Daughter",
-          "Writer": "Betti Mehmoodi"
+          "bookno": "M4-250",
+          "bookname": "Not Without My Daughter",
+          "author": "Betti Mehmoodi"
         },
         {
-          "Book No": "M4-251",
-          "Book Name": "Parvani",
-          "Writer": "Shanna Navare"
+          "bookno": "M4-251",
+          "bookname": "Parvani",
+          "author": "Shanna Navare"
         },
         {
-          "Book No": "M4-252",
-          "Book Name": "Mark Englis",
-          "Writer": "Dr. Sandeep Shrotri"
+          "bookno": "M4-252",
+          "bookname": "Mark Englis",
+          "author": "Dr. Sandeep Shrotri"
         },
         {
-          "Book No": "M4-253",
-          "Book Name": "Paanipat",
-          "Writer": "Vishwas Patil"
+          "bookno": "M4-253",
+          "bookname": "Paanipat",
+          "author": "Vishwas Patil"
         },
         {
-          "Book No": "M4-254",
-          "Book Name": "Sangharsh Eka Aaicha Naudalashi",
-          "Writer": "Anuradha Paladhe"
+          "bookno": "M4-254",
+          "bookname": "Sangharsh Eka Aaicha Naudalashi",
+          "author": "Anuradha Paladhe"
         },
         {
-          "Book No": "M4-255",
-          "Book Name": "Kinara",
-          "Writer": "Baba Kadam"
+          "bookno": "M4-255",
+          "bookname": "Kinara",
+          "author": "Baba Kadam"
         },
         {
-          "Book No": "M4-256",
-          "Book Name": "Shreemaanyogi",
-          "Writer": "Ranajeet Desai"
+          "bookno": "M4-256",
+          "bookname": "Shreemaanyogi",
+          "author": "Ranajeet Desai"
         },
         {
-          "Book No": "M4-257",
-          "Book Name": "Not Gone With the Wind",
-          "Writer": "Vishwas Patil"
+          "bookno": "M4-257",
+          "bookname": "Not Gone With the Wind",
+          "author": "Vishwas Patil"
         },
         {
-          "Book No": "M4-258",
-          "Book Name": "The Best Led Plans",
-          "Writer": "Sidney Sheldon"
+          "bookno": "M4-258",
+          "bookname": "The Best Led Plans",
+          "author": "Sidney Sheldon"
         },
         {
-          "Book No": "M4-259",
-          "Book Name": "William Shakespear - Niwadak Katha",
-          "Writer": "Mangala Dighe"
+          "bookno": "M4-259",
+          "bookname": "William Shakespear - Niwadak Katha",
+          "author": "Mangala Dighe"
         },
         {
-          "Book No": "M4-260",
-          "Book Name": "Goshta Eka Dhyasachi - Everest",
-          "Writer": "Umesh Zirape"
+          "bookno": "M4-260",
+          "bookname": "Goshta Eka Dhyasachi - Everest",
+          "author": "Umesh Zirape"
         },
         {
-          "Book No": "M4-261",
-          "Book Name": "Vedhak Vijaya Vad",
-          "Writer": "Vijaya Vad"
+          "bookno": "M4-261",
+          "bookname": "Vedhak Vijaya Vad",
+          "author": "Vijaya Vad"
         },
         {
-          "Book No": "M4-262",
-          "Book Name": "Nazi Bhasmasuracha Udayast",
-          "Writer": "V. G. Kanitkar"
+          "bookno": "M4-262",
+          "bookname": "Nazi Bhasmasuracha Udayast",
+          "author": "V. G. Kanitkar"
         },
         {
-          "Book No": "M4-263",
-          "Book Name": "Baaraalaa Dahaa Kami",
-          "Writer": "Padmaja Phatak"
+          "bookno": "M4-263",
+          "bookname": "Baaraalaa Dahaa Kami",
+          "author": "Padmaja Phatak"
         },
         {
-          "Book No": "M4-264",
-          "Book Name": "Smaranvela",
-          "Writer": "Pratibha Ranade"
+          "bookno": "M4-264",
+          "bookname": "Smaranvela",
+          "author": "Pratibha Ranade"
         },
         {
-          "Book No": "M4-265",
-          "Book Name": "Thorali Paati",
-          "Writer": "Ga. Di. Madgulkar"
+          "bookno": "M4-265",
+          "bookname": "Thorali Paati",
+          "author": "Ga. Di. Madgulkar"
         },
         {
-          "Book No": "M4-266",
-          "Book Name": "Saat Aath Te Saataavar Aath",
-          "Writer": "Mangala Godbole"
+          "bookno": "M4-266",
+          "bookname": "Saat Aath Te Saataavar Aath",
+          "author": "Mangala Godbole"
         },
         {
-          "Book No": "M4-267",
-          "Book Name": "For Here or to Go",
-          "Writer": "Aparna Welankar"
+          "bookno": "M4-267",
+          "bookname": "For Here or to Go",
+          "author": "Aparna Welankar"
         },
         {
-          "Book No": "M4-268",
-          "Book Name": "A Tale of Two Cities",
-          "Writer": "Charles Dickens"
+          "bookno": "M4-268",
+          "bookname": "A Tale of Two Cities",
+          "author": "Charles Dickens"
         },
         {
-          "Book No": "M4-269",
-          "Book Name": "Bhadrakali",
-          "Writer": "Anant Tibile"
+          "bookno": "M4-269",
+          "bookname": "Bhadrakali",
+          "author": "Anant Tibile"
         },
         {
-          "Book No": "M4-270",
-          "Book Name": "Anuhar",
-          "Writer": "Sumati Kshetramade"
+          "bookno": "M4-270",
+          "bookname": "Anuhar",
+          "author": "Sumati Kshetramade"
         },
         {
-          "Book No": "M4-271",
-          "Book Name": "Anandmath",
-          "Writer": "Bankimchandra Chattopaadhyaay"
+          "bookno": "M4-271",
+          "bookname": "Anandmath",
+          "author": "Bankimchandra Chattopaadhyaay"
         },
         {
-          "Book No": "M4-272",
-          "Book Name": "Silver Screen",
-          "Writer": "Isaaque Muzavar"
+          "bookno": "M4-272",
+          "bookname": "Silver Screen",
+          "author": "Isaaque Muzavar"
         },
         {
-          "Book No": "M4-273",
-          "Book Name": "Hridayichya Goshti",
-          "Writer": "Dr. Vijaya Waad"
+          "bookno": "M4-273",
+          "bookname": "Hridayichya Goshti",
+          "author": "Dr. Vijaya Waad"
         },
         {
-          "Book No": "M4-274",
-          "Book Name": "Postmortem",
-          "Writer": "Dr. Ravi Baapat"
+          "bookno": "M4-274",
+          "bookname": "Postmortem",
+          "author": "Dr. Ravi Baapat"
         },
         {
-          "Book No": "M4-275",
-          "Book Name": "Jalasaa Ghar",
-          "Writer": "Aashaa Bage"
+          "bookno": "M4-275",
+          "bookname": "Jalasaa Ghar",
+          "author": "Aashaa Bage"
         },
         {
-          "Book No": "M4-276",
-          "Book Name": "One Night at The Call Centre",
-          "Writer": "Chetan Bhagat"
+          "bookno": "M4-276",
+          "bookname": "One Night at The Call Centre",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "M4-277",
-          "Book Name": "Two States",
-          "Writer": "Chetan Bhagat"
+          "bookno": "M4-277",
+          "bookname": "Two States",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "M4-278",
-          "Book Name": "Three Mistakes of my Life",
-          "Writer": "Chetan Bhagat"
+          "bookno": "M4-278",
+          "bookname": "Three Mistakes of my Life",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "M4-279",
-          "Book Name": "Revolution",
-          "Writer": "Chetan Bhagat"
+          "bookno": "M4-279",
+          "bookname": "Revolution",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "M4-280",
-          "Book Name": "Chaar Shabda",
-          "Writer": "P. L. Deshpande"
+          "bookno": "M4-280",
+          "bookname": "Chaar Shabda",
+          "author": "P. L. Deshpande"
         },
         {
-          "Book No": "M4-281",
-          "Book Name": "Gun Gaayin Aavadi",
-          "Writer": "P. L. Deshpande"
+          "bookno": "M4-281",
+          "bookname": "Gun Gaayin Aavadi",
+          "author": "P. L. Deshpande"
         },
         {
-          "Book No": "M4-282",
-          "Book Name": "Porake Diwas",
-          "Writer": "Arun Khore"
+          "bookno": "M4-282",
+          "bookname": "Porake Diwas",
+          "author": "Arun Khore"
         },
         {
-          "Book No": "M4-283",
-          "Book Name": "Kabulnama",
-          "Writer": "Phiroz Ranade"
+          "bookno": "M4-283",
+          "bookname": "Kabulnama",
+          "author": "Phiroz Ranade"
         },
         {
-          "Book No": "M4-284",
-          "Book Name": "Brahmavakya",
-          "Writer": "Mangala Godbole"
+          "bookno": "M4-284",
+          "bookname": "Brahmavakya",
+          "author": "Mangala Godbole"
         },
         {
-          "Book No": "M4-285",
-          "Book Name": "Yadnyakund",
-          "Writer": "Bal Rane"
+          "bookno": "M4-285",
+          "bookname": "Yadnyakund",
+          "author": "Bal Rane"
         },
         {
-          "Book No": "M4-286",
-          "Book Name": "Shatapavali",
-          "Writer": "Madhukar"
+          "bookno": "M4-286",
+          "bookname": "Shatapavali",
+          "author": "Madhukar"
         },
         {
-          "Book No": "M4-287",
-          "Book Name": "Prakashachee Akshare",
-          "Writer": "Pravin Davane"
+          "bookno": "M4-287",
+          "bookname": "Prakashachee Akshare",
+          "author": "Pravin Davane"
         },
         {
-          "Book No": "M4-288",
-          "Book Name": "Manobhave",
-          "Writer": "Ashwini Bhave"
+          "bookno": "M4-288",
+          "bookname": "Manobhave",
+          "author": "Ashwini Bhave"
         },
         {
-          "Book No": "M4-289",
-          "Book Name": "Aswad Ani Akshep",
-          "Writer": "Durga Bhagvat"
+          "bookno": "M4-289",
+          "bookname": "Aswad Ani Akshep",
+          "author": "Durga Bhagvat"
         },
         {
-          "Book No": "M4-290",
-          "Book Name": "Bara July Te Akara July",
-          "Writer": "Phiroz Ranade"
+          "bookno": "M4-290",
+          "bookname": "Bara July Te Akara July",
+          "author": "Phiroz Ranade"
         },
         {
-          "Book No": "M4-291",
-          "Book Name": "Tyanchyabaddal",
-          "Writer": "Arun Shevte"
+          "bookno": "M4-291",
+          "bookname": "Tyanchyabaddal",
+          "author": "Arun Shevte"
         },
         {
-          "Book No": "M4-292",
-          "Book Name": "Goshti Saaryaajaneenchyaa",
-          "Writer": ""
+          "bookno": "M4-292",
+          "bookname": "Goshti Saaryaajaneenchyaa",
+          "author": ""
         },
         {
-          "Book No": "M4-293",
-          "Book Name": "Dolar Bahoo",
-          "Writer": "Sudha Murthy"
+          "bookno": "M4-293",
+          "bookname": "Dolar Bahoo",
+          "author": "Sudha Murthy"
         },
         {
-          "Book No": "M4-294",
-          "Book Name": "Hasavanook",
-          "Writer": "P.L. Deshpande"
+          "bookno": "M4-294",
+          "bookname": "Hasavanook",
+          "author": "P.L. Deshpande"
         },
         {
-          "Book No": "M4-295",
-          "Book Name": "Poornia",
-          "Writer": "Anil Avachat"
+          "bookno": "M4-295",
+          "bookname": "Poornia",
+          "author": "Anil Avachat"
         },
         {
-          "Book No": "M4-296",
-          "Book Name": "Baajaar",
-          "Writer": "Mangala Godbole"
+          "bookno": "M4-296",
+          "bookname": "Baajaar",
+          "author": "Mangala Godbole"
         },
         {
-          "Book No": "M4-297",
-          "Book Name": "1984",
-          "Writer": "George Orwel"
+          "bookno": "M4-297",
+          "bookname": "1984",
+          "author": "George Orwel"
         },
         {
-          "Book No": "M4-298",
-          "Book Name": "Nasati Uthaathev",
-          "Writer": "P.L. Deshpande"
+          "bookno": "M4-298",
+          "bookname": "Nasati Uthaathev",
+          "author": "P.L. Deshpande"
         },
         {
-          "Book No": "M4-299",
-          "Book Name": "Mukkam Shanti Niketan",
-          "Writer": "P.L. Deshpande"
+          "bookno": "M4-299",
+          "bookname": "Mukkam Shanti Niketan",
+          "author": "P.L. Deshpande"
         },
         {
-          "Book No": "M4-300",
-          "Book Name": "Raau",
-          "Writer": "N. S. Inamdar"
+          "bookno": "M4-300",
+          "bookname": "Raau",
+          "author": "N. S. Inamdar"
         },
         {
-          "Book No": "M4-301",
-          "Book Name": "Paanchaaliche Mahaabhaarat",
-          "Writer": "Chitra Banarjee"
+          "bookno": "M4-301",
+          "bookname": "Paanchaaliche Mahaabhaarat",
+          "author": "Chitra Banarjee"
         },
         {
-          "Book No": "M4-302",
-          "Book Name": "Apurv Sanchit",
-          "Writer": "Pravin Davane"
+          "bookno": "M4-302",
+          "bookname": "Apurv Sanchit",
+          "author": "Pravin Davane"
         },
         {
-          "Book No": "M4-303",
-          "Book Name": "Metkoot",
-          "Writer": "Shirish Kanekar"
+          "bookno": "M4-303",
+          "bookname": "Metkoot",
+          "author": "Shirish Kanekar"
         },
         {
-          "Book No": "M4-304",
-          "Book Name": "Fule aani Patri",
-          "Writer": "Madhuri Shanbhag"
+          "bookno": "M4-304",
+          "bookname": "Fule aani Patri",
+          "author": "Madhuri Shanbhag"
         },
         {
-          "Book No": "M4-305",
-          "Book Name": "Achook Nidaan",
-          "Writer": "Dr. Ravi Baapat"
+          "bookno": "M4-305",
+          "bookname": "Achook Nidaan",
+          "author": "Dr. Ravi Baapat"
         },
         {
-          "Book No": "M4-306",
-          "Book Name": "Nakshatre Chitre",
-          "Writer": "Shanta Shelke"
+          "bookno": "M4-306",
+          "bookname": "Nakshatre Chitre",
+          "author": "Shanta Shelke"
         },
         {
-          "Book No": "M4-307",
-          "Book Name": "Aayushyaachyaa Ladhaaivarati Bolu Kaahi",
-          "Writer": "Madhuri Shanbhag"
+          "bookno": "M4-307",
+          "bookname": "Aayushyaachyaa Ladhaaivarati Bolu Kaahi",
+          "author": "Madhuri Shanbhag"
         },
         {
-          "Book No": "M4-308",
-          "Book Name": "Tupaachaa Nandaadeep",
-          "Writer": "G. D. Madgulkar"
+          "bookno": "M4-308",
+          "bookname": "Tupaachaa Nandaadeep",
+          "author": "G. D. Madgulkar"
         },
         {
-          "Book No": "M4-309",
-          "Book Name": "Ward No. 5 KEM",
-          "Writer": "Dr. Ravi Baapat"
+          "bookno": "M4-309",
+          "bookname": "Ward No. 5 KEM",
+          "author": "Dr. Ravi Baapat"
         },
         {
-          "Book No": "M4-310",
-          "Book Name": "Bhala Bura",
-          "Writer": "Mangala Godbole"
+          "bookno": "M4-310",
+          "bookname": "Bhala Bura",
+          "author": "Mangala Godbole"
         },
         {
-          "Book No": "M4-311",
-          "Book Name": "Uhshapit",
-          "Writer": "Dr. Anagha Keskar"
+          "bookno": "M4-311",
+          "bookname": "Uhshapit",
+          "author": "Dr. Anagha Keskar"
         },
         {
-          "Book No": "M4-312",
-          "Book Name": "Parv",
-          "Writer": "Uma Kulkarni"
+          "bookno": "M4-312",
+          "bookname": "Parv",
+          "author": "Uma Kulkarni"
         },
         {
-          "Book No": "M4-313",
-          "Book Name": "Baki",
-          "Writer": "Mangala Godbole"
+          "bookno": "M4-313",
+          "bookname": "Baki",
+          "author": "Mangala Godbole"
         },
         {
-          "Book No": "M4-314",
-          "Book Name": "Kumpan Aani Akaash",
-          "Writer": "Mangala Godbole"
+          "bookno": "M4-314",
+          "bookname": "Kumpan Aani Akaash",
+          "author": "Mangala Godbole"
         },
         {
-          "Book No": "M4-315",
-          "Book Name": "Juni Viti Nava Rajya",
-          "Writer": "Mangala Godbole"
+          "bookno": "M4-315",
+          "bookname": "Juni Viti Nava Rajya",
+          "author": "Mangala Godbole"
         },
         {
-          "Book No": "M4-316",
-          "Book Name": "Vatevarachi Phule",
-          "Writer": "Madhuri Shanbaug"
+          "bookno": "M4-316",
+          "bookname": "Vatevarachi Phule",
+          "author": "Madhuri Shanbaug"
         },
         {
-          "Book No": "M4-317",
-          "Book Name": "Chakana",
-          "Writer": "Madhuri Shanbaug"
+          "bookno": "M4-317",
+          "bookname": "Chakana",
+          "author": "Madhuri Shanbaug"
         },
         {
-          "Book No": "M4-318",
-          "Book Name": "Man Main Hain Vishwas",
-          "Writer": "Vishwas Patil"
+          "bookno": "M4-318",
+          "bookname": "Man Main Hain Vishwas",
+          "author": "Vishwas Patil"
         },
         {
-          "Book No": "M4-319",
-          "Book Name": "Sukhaane Jaganyaasaathi",
-          "Writer": "Dr. Vijaya Fadnis"
+          "bookno": "M4-319",
+          "bookname": "Sukhaane Jaganyaasaathi",
+          "author": "Dr. Vijaya Fadnis"
         },
         {
-          "Book No": "M4-320",
-          "Book Name": "Shivacharit Kathaamaalaa",
-          "Writer": "Babasaheb Purandare"
+          "bookno": "M4-320",
+          "bookname": "Shivacharit Kathaamaalaa",
+          "author": "Babasaheb Purandare"
         },
         {
-          "Book No": "M4-321",
-          "Book Name": "Pu. La. Ek Saathavan",
-          "Writer": "P. L. Deshpande"
+          "bookno": "M4-321",
+          "bookname": "Pu. La. Ek Saathavan",
+          "author": "P. L. Deshpande"
         },
         {
-          "Book No": "M4-322",
-          "Book Name": "Marathi Vangmayacha Galeev Itihas",
-          "Writer": "P. L. Deshpande"
+          "bookno": "M4-322",
+          "bookname": "Marathi Vangmayacha Galeev Itihas",
+          "author": "P. L. Deshpande"
         },
         {
-          "Book No": "M4-323",
-          "Book Name": "Gugali",
-          "Writer": "Dilip Prabhavalkar"
+          "bookno": "M4-323",
+          "bookname": "Gugali",
+          "author": "Dilip Prabhavalkar"
         },
         {
-          "Book No": "M4-324",
-          "Book Name": "Uparaa",
-          "Writer": "Laxman Maane"
+          "bookno": "M4-324",
+          "bookname": "Uparaa",
+          "author": "Laxman Maane"
         },
         {
-          "Book No": "M4-325",
-          "Book Name": "Hiroshima",
-          "Writer": "B. D. Kher"
+          "bookno": "M4-325",
+          "bookname": "Hiroshima",
+          "author": "B. D. Kher"
         },
         {
-          "Book No": "M4-326",
-          "Book Name": "Appointment",
-          "Writer": "V. V. Shirvadkar"
+          "bookno": "M4-326",
+          "bookname": "Appointment",
+          "author": "V. V. Shirvadkar"
         },
         {
-          "Book No": "M4-327",
-          "Book Name": "Tichi Kahanich Vegali",
-          "Writer": "Smita Kulakarni"
+          "bookno": "M4-327",
+          "bookname": "Tichi Kahanich Vegali",
+          "author": "Smita Kulakarni"
         },
         {
-          "Book No": "M4-328",
-          "Book Name": "Maati Pankh Aani Aakash",
-          "Writer": "Dnyaneshwar Mule"
+          "bookno": "M4-328",
+          "bookname": "Maati Pankh Aani Aakash",
+          "author": "Dnyaneshwar Mule"
         },
         {
-          "Book No": "M4-329",
-          "Book Name": "Shekhar chi Prabhaval",
-          "Writer": "Shekhar Baburao Prabhavkar"
+          "bookno": "M4-329",
+          "bookname": "Shekhar chi Prabhaval",
+          "author": "Shekhar Baburao Prabhavkar"
         },
         {
-          "Book No": "M4-330",
-          "Book Name": "Vrathastha",
-          "Writer": ""
+          "bookno": "M4-330",
+          "bookname": "Vrathastha",
+          "author": ""
         },
         {
-          "Book No": "M4-331",
-          "Book Name": "Kali Jogeen",
-          "Writer": "Naraayan Dharap"
+          "bookno": "M4-331",
+          "bookname": "Kali Jogeen",
+          "author": "Naraayan Dharap"
         },
         {
-          "Book No": "M4-332",
-          "Book Name": "Frankenstine",
-          "Writer": "Naraayan Dharap"
+          "bookno": "M4-332",
+          "bookname": "Frankenstine",
+          "author": "Naraayan Dharap"
         },
         {
-          "Book No": "M4-333",
-          "Book Name": "Hindu ",
-          "Writer": "Bhalchandra Nemade"
+          "bookno": "M4-333",
+          "bookname": "Hindu ",
+          "author": "Bhalchandra Nemade"
         },
         {
-          "Book No": "M4-334",
-          "Book Name": "Kosla",
-          "Writer": "Bhalchandra Nemade"
+          "bookno": "M4-334",
+          "bookname": "Kosla",
+          "author": "Bhalchandra Nemade"
         },
         {
-          "Book No": "M4-335",
-          "Book Name": "Bullet For Bullet ",
-          "Writer": "J.F.Rebero"
+          "bookno": "M4-335",
+          "bookname": "Bullet For Bullet ",
+          "author": "J.F.Rebero"
         },
         {
-          "Book No": "M4-336",
-          "Book Name": "Indrayanikathi",
-          "Writer": "Ravindra Bhatt"
+          "bookno": "M4-336",
+          "bookname": "Indrayanikathi",
+          "author": "Ravindra Bhatt"
         },
         {
-          "Book No": "M4-337",
-          "Book Name": "Chetkin",
-          "Writer": "Narayan Dharap"
+          "bookno": "M4-337",
+          "bookname": "Chetkin",
+          "author": "Narayan Dharap"
         },
         {
-          "Book No": "M4-338",
-          "Book Name": "Mankache Dole",
-          "Writer": "Narayan Dharap"
+          "bookno": "M4-338",
+          "bookname": "Mankache Dole",
+          "author": "Narayan Dharap"
         },
         {
-          "Book No": "M4-339",
-          "Book Name": "Amruta Umrozh Ek Prem Kahani",
-          "Writer": "Uma Trilok"
+          "bookno": "M4-339",
+          "bookname": "Amruta Umrozh Ek Prem Kahani",
+          "author": "Uma Trilok"
         },
         {
-          "Book No": "M4-340",
-          "Book Name": "AaBaCaDa",
-          "Writer": "Satish Karsekar"
+          "bookno": "M4-340",
+          "bookname": "AaBaCaDa",
+          "author": "Satish Karsekar"
         },
         {
-          "Book No": "M4-341",
-          "Book Name": "Sita: Maithilechi yedha",
-          "Writer": "Amish"
+          "bookno": "M4-341",
+          "bookname": "Sita: Maithilechi yedha",
+          "author": "Amish"
         },
         {
-          "Book No": "M4-342",
-          "Book Name": "The Memayears of Sherlok Holmes",
-          "Writer": "Arthor Cannon Dayal"
+          "bookno": "M4-342",
+          "bookname": "The Memayears of Sherlok Holmes",
+          "author": "Arthor Cannon Dayal"
         },
         {
-          "Book No": "M4-343",
-          "Book Name": "The Adventures of Sherlok Holmes",
-          "Writer": "Arthor Cannon Dayal"
+          "bookno": "M4-343",
+          "bookname": "The Adventures of Sherlok Holmes",
+          "author": "Arthor Cannon Dayal"
         },
         {
-          "Book No": "M4-344",
-          "Book Name": "Fera",
-          "Writer": ""
+          "bookno": "M4-344",
+          "bookname": "Fera",
+          "author": ""
         },
         {
-          "Book No": "M4-345",
-          "Book Name": "Toofan",
-          "Writer": "Baba Kadam"
+          "bookno": "M4-345",
+          "bookname": "Toofan",
+          "author": "Baba Kadam"
         },
         {
-          "Book No": "M4-346",
-          "Book Name": "Aadhun Madhun",
-          "Writer": "Atul Kulkarni"
+          "bookno": "M4-346",
+          "bookname": "Aadhun Madhun",
+          "author": "Atul Kulkarni"
         },
         {
-          "Book No": "M4-347",
-          "Book Name": "Aakashashi jadale nate",
-          "Writer": "Dr. Jayant Nararikar"
+          "bookno": "M4-347",
+          "bookname": "Aakashashi jadale nate",
+          "author": "Dr. Jayant Nararikar"
         },
         {
-          "Book No": "M4-348",
-          "Book Name": "Shrikant",
-          "Writer": "Dr. Jayant Nararikar"
+          "bookno": "M4-348",
+          "bookname": "Shrikant",
+          "author": "Dr. Jayant Nararikar"
         },
         {
-          "Book No": "M4-349",
-          "Book Name": "Kabutare",
-          "Writer": "Gangaadhar Gaadgil"
+          "bookno": "M4-349",
+          "bookname": "Kabutare",
+          "author": "Gangaadhar Gaadgil"
         },
         {
-          "Book No": "M4-350",
-          "Book Name": "Lubda Viyog",
-          "Writer": "Charumati Ramdas"
+          "bookno": "M4-350",
+          "bookname": "Lubda Viyog",
+          "author": "Charumati Ramdas"
         },
         {
-          "Book No": "M4-351",
-          "Book Name": "The Hidding Place",
-          "Writer": "Corrie Tenboom"
+          "bookno": "M4-351",
+          "bookname": "The Hidding Place",
+          "author": "Corrie Tenboom"
         },
         {
-          "Book No": "M4-352",
-          "Book Name": "Kutuhalapoti",
-          "Writer": "Anil Avchat"
+          "bookno": "M4-352",
+          "bookname": "Kutuhalapoti",
+          "author": "Anil Avchat"
         },
         {
-          "Book No": "M4-353",
-          "Book Name": "Sakharmaya",
-          "Writer": "Vijaya Wad"
+          "bookno": "M4-353",
+          "bookname": "Sakharmaya",
+          "author": "Vijaya Wad"
         },
         {
-          "Book No": "M4-354",
-          "Book Name": "Astitva",
-          "Writer": "Sudha Murty"
+          "bookno": "M4-354",
+          "bookname": "Astitva",
+          "author": "Sudha Murty"
         },
         {
-          "Book No": "M4-355",
-          "Book Name": "Calling Sehmat",
-          "Writer": "Harindar Sikh"
+          "bookno": "M4-355",
+          "bookname": "Calling Sehmat",
+          "author": "Harindar Sikh"
         },
         {
-          "Book No": "M4-356",
-          "Book Name": "Soldier",
-          "Writer": "Anuradha Prabhudesai"
+          "bookno": "M4-356",
+          "bookname": "Soldier",
+          "author": "Anuradha Prabhudesai"
         },
         {
-          "Book No": "M5-001",
-          "Book Name": "Yog Ek Kalpataru",
-          "Writer": "B. K. S. Aaiyangaar"
+          "bookno": "M5-001",
+          "bookname": "Yog Ek Kalpataru",
+          "author": "B. K. S. Aaiyangaar"
         },
         {
-          "Book No": "M5-002",
-          "Book Name": "Aahaar",
-          "Writer": "Deepti Dhanavade"
+          "bookno": "M5-002",
+          "bookname": "Aahaar",
+          "author": "Deepti Dhanavade"
         },
         {
-          "Book No": "M5-003",
-          "Book Name": "Nirogi Rahnyachi Gurukilli",
-          "Writer": "Dr. Gala"
+          "bookno": "M5-003",
+          "bookname": "Nirogi Rahnyachi Gurukilli",
+          "author": "Dr. Gala"
         },
         {
-          "Book No": "M5-004",
-          "Book Name": "Alyache Utpadan va Vyapar",
-          "Writer": "Dr. V. B. Rahudkar"
+          "bookno": "M5-004",
+          "bookname": "Alyache Utpadan va Vyapar",
+          "author": "Dr. V. B. Rahudkar"
         },
         {
-          "Book No": "M5-005",
-          "Book Name": "Doctor, Mala Aai Vhayachay",
-          "Writer": "Dr. Vikas Gaydhani"
+          "bookno": "M5-005",
+          "bookname": "Doctor, Mala Aai Vhayachay",
+          "author": "Dr. Vikas Gaydhani"
         },
         {
-          "Book No": "M5-006",
-          "Book Name": "Suruchi",
-          "Writer": "Indira Parchure"
+          "bookno": "M5-006",
+          "bookname": "Suruchi",
+          "author": "Indira Parchure"
         },
         {
-          "Book No": "M5-007",
-          "Book Name": "Ahar Hech Aushadh",
-          "Writer": "Madhav Chaudhari"
+          "bookno": "M5-007",
+          "bookname": "Ahar Hech Aushadh",
+          "author": "Madhav Chaudhari"
         },
         {
-          "Book No": "M5-008",
-          "Book Name": "Vaishvik Praanshakti",
-          "Writer": "Madhukar Dighe "
+          "bookno": "M5-008",
+          "bookname": "Vaishvik Praanshakti",
+          "author": "Madhukar Dighe "
         },
         {
-          "Book No": "M5-009",
-          "Book Name": "Veg Snacks",
-          "Writer": "Manjiri Kapdekar"
+          "bookno": "M5-009",
+          "bookname": "Veg Snacks",
+          "author": "Manjiri Kapdekar"
         },
         {
-          "Book No": "M5-010",
-          "Book Name": "Yogasan",
-          "Writer": "P.D.Sharma"
+          "bookno": "M5-010",
+          "bookname": "Yogasan",
+          "author": "P.D.Sharma"
         },
         {
-          "Book No": "M5-011",
-          "Book Name": "Saundaryacha Aina Tuzyach Hati",
-          "Writer": "Parul R. Sheth"
+          "bookno": "M5-011",
+          "bookname": "Saundaryacha Aina Tuzyach Hati",
+          "author": "Parul R. Sheth"
         },
         {
-          "Book No": "M5-012",
-          "Book Name": "Yog",
-          "Writer": ""
+          "bookno": "M5-012",
+          "bookname": "Yog",
+          "author": ""
         },
         {
-          "Book No": "M5-013",
-          "Book Name": "Jadi Bootiyon dwara Swasthy Sanrakshan",
-          "Writer": "Brahmavarchas"
+          "bookno": "M5-013",
+          "bookname": "Jadi Bootiyon dwara Swasthy Sanrakshan",
+          "author": "Brahmavarchas"
         },
         {
-          "Book No": "M5-014",
-          "Book Name": "100 Varsh Nirogi Raha",
-          "Writer": "Maneklal Patel"
+          "bookno": "M5-014",
+          "bookname": "100 Varsh Nirogi Raha",
+          "author": "Maneklal Patel"
         },
         {
-          "Book No": "M5-015",
-          "Book Name": "Kesanche Arogya",
-          "Writer": "Vaishalee Raje"
+          "bookno": "M5-015",
+          "bookname": "Kesanche Arogya",
+          "author": "Vaishalee Raje"
         },
         {
-          "Book No": "M5-016",
-          "Book Name": "Don’t Lose Your Mind, Lose Your Weight",
-          "Writer": "Rutuja Divekar"
+          "bookno": "M5-016",
+          "bookname": "Don’t Lose Your Mind, Lose Your Weight",
+          "author": "Rutuja Divekar"
         },
         {
-          "Book No": "M5-017",
-          "Book Name": "Cancer Ani Nisargopchar",
-          "Writer": "Hari Krishna Bakhru"
+          "bookno": "M5-017",
+          "bookname": "Cancer Ani Nisargopchar",
+          "author": "Hari Krishna Bakhru"
         },
         {
-          "Book No": "M5-018",
-          "Book Name": "Sagarbhaavastha ani tumche balak",
-          "Writer": "Baba Parikh"
+          "bookno": "M5-018",
+          "bookname": "Sagarbhaavastha ani tumche balak",
+          "author": "Baba Parikh"
         },
         {
-          "Book No": "M5-019",
-          "Book Name": "Maazaa Sakshatkaari Hrudrog",
-          "Writer": "Dr. Abhay Bang"
+          "bookno": "M5-019",
+          "bookname": "Maazaa Sakshatkaari Hrudrog",
+          "author": "Dr. Abhay Bang"
         },
         {
-          "Book No": "M5-020",
-          "Book Name": "Vaidyakaachaa Bazaar",
-          "Writer": "Dr. Shreeram Geete"
+          "bookno": "M5-020",
+          "bookname": "Vaidyakaachaa Bazaar",
+          "author": "Dr. Shreeram Geete"
         },
         {
-          "Book No": "M5-021",
-          "Book Name": "Aaplya aarogya ani aarogyashashtra",
-          "Writer": "Santa Devi"
+          "bookno": "M5-021",
+          "bookname": "Aaplya aarogya ani aarogyashashtra",
+          "author": "Santa Devi"
         },
         {
-          "Book No": "M6-001",
-          "Book Name": "Dainandin Paryavaran",
-          "Writer": "Dilip Kulkarni"
+          "bookno": "M6-001",
+          "bookname": "Dainandin Paryavaran",
+          "author": "Dilip Kulkarni"
         },
         {
-          "Book No": "M6-002",
-          "Book Name": "Nisarg Boltoy 2",
-          "Writer": "Dr. Hemant Date"
+          "bookno": "M6-002",
+          "bookname": "Nisarg Boltoy 2",
+          "author": "Dr. Hemant Date"
         },
         {
-          "Book No": "M6-003",
-          "Book Name": "Nisarg Boltoy 1",
-          "Writer": "Dr. Hemant Date"
+          "bookno": "M6-003",
+          "bookname": "Nisarg Boltoy 1",
+          "author": "Dr. Hemant Date"
         },
         {
-          "Book No": "M6-004",
-          "Book Name": "Dnyansagaratil Shimple",
-          "Writer": "G.C. Gokhale"
+          "bookno": "M6-004",
+          "bookname": "Dnyansagaratil Shimple",
+          "author": "G.C. Gokhale"
         },
         {
-          "Book No": "M6-005",
-          "Book Name": "Vidnyan Kutuhal",
-          "Writer": "Jagdeesh Kabre"
+          "bookno": "M6-005",
+          "bookname": "Vidnyan Kutuhal",
+          "author": "Jagdeesh Kabre"
         },
         {
-          "Book No": "M6-006",
-          "Book Name": "Bailgadya Ani Upagrah",
-          "Writer": "Monisha Bob"
+          "bookno": "M6-006",
+          "bookname": "Bailgadya Ani Upagrah",
+          "author": "Monisha Bob"
         },
         {
-          "Book No": "M6-007",
-          "Book Name": "Antaralichya Goodhagarbhi",
-          "Writer": ""
+          "bookno": "M6-007",
+          "bookname": "Antaralichya Goodhagarbhi",
+          "author": ""
         },
         {
-          "Book No": "M6-008",
-          "Book Name": "Khagolshastrachi Tondolakh",
-          "Writer": ""
+          "bookno": "M6-008",
+          "bookname": "Khagolshastrachi Tondolakh",
+          "author": ""
         },
         {
-          "Book No": "M6-009",
-          "Book Name": "Khagol Parichay",
-          "Writer": "Pradeep Nayak"
+          "bookno": "M6-009",
+          "bookname": "Khagol Parichay",
+          "author": "Pradeep Nayak"
         },
         {
-          "Book No": "M6-010",
-          "Book Name": "Parmaanu Se Nano Proudyogiki tak",
-          "Writer": ""
+          "bookno": "M6-010",
+          "bookname": "Parmaanu Se Nano Proudyogiki tak",
+          "author": ""
         },
         {
-          "Book No": "M6-011",
-          "Book Name": "Jaadui Rasaayanshaastra",
-          "Writer": "Sujata Babar"
+          "bookno": "M6-011",
+          "bookname": "Jaadui Rasaayanshaastra",
+          "author": "Sujata Babar"
         },
         {
-          "Book No": "M6-012",
-          "Book Name": "Vigyaan Katha",
-          "Writer": "Waman Joshi"
+          "bookno": "M6-012",
+          "bookname": "Vigyaan Katha",
+          "author": "Waman Joshi"
         },
         {
-          "Book No": "M6-013",
-          "Book Name": "Vigyaan Yaatra",
-          "Writer": "Lakshman Londhe"
+          "bookno": "M6-013",
+          "bookname": "Vigyaan Yaatra",
+          "author": "Lakshman Londhe"
         },
         {
-          "Book No": "M6-014",
-          "Book Name": "Nisargbandh",
-          "Writer": ""
+          "bookno": "M6-014",
+          "bookname": "Nisargbandh",
+          "author": ""
         },
         {
-          "Book No": "M6-015",
-          "Book Name": "Paryavaran Santulit Samruddha Gram Yojana",
-          "Writer": ""
+          "bookno": "M6-015",
+          "bookname": "Paryavaran Santulit Samruddha Gram Yojana",
+          "author": ""
         },
         {
-          "Book No": "M6-016",
-          "Book Name": "Anu Vivek",
-          "Writer": "Dilip Kulkarni"
+          "bookno": "M6-016",
+          "bookname": "Anu Vivek",
+          "author": "Dilip Kulkarni"
         },
         {
-          "Book No": "M6-017",
-          "Book Name": "Khagras",
-          "Writer": "Pradeep Nayak"
+          "bookno": "M6-017",
+          "bookname": "Khagras",
+          "author": "Pradeep Nayak"
         },
         {
-          "Book No": "M6-018",
-          "Book Name": "Dhoomketu",
-          "Writer": "Mahesh Naik"
+          "bookno": "M6-018",
+          "bookname": "Dhoomketu",
+          "author": "Mahesh Naik"
         },
         {
-          "Book No": "M6-019",
-          "Book Name": "Suryamaala ani Grahane",
-          "Writer": "Sudhakar Bhalerao"
+          "bookno": "M6-019",
+          "bookname": "Suryamaala ani Grahane",
+          "author": "Sudhakar Bhalerao"
         },
         {
-          "Book No": "M6-020",
-          "Book Name": "Mendutla Maanus",
-          "Writer": "Subodh Javdekar"
+          "bookno": "M6-020",
+          "bookname": "Mendutla Maanus",
+          "author": "Subodh Javdekar"
         },
         {
-          "Book No": "M6-021",
-          "Book Name": "Chhanda Aakadarshanaachaa",
-          "Writer": "Prakaash Tupe"
+          "bookno": "M6-021",
+          "bookname": "Chhanda Aakadarshanaachaa",
+          "author": "Prakaash Tupe"
         },
         {
-          "Book No": "M6-022",
-          "Book Name": "Olakh Aakaashaachi",
-          "Writer": "P.V. Sowani"
+          "bookno": "M6-022",
+          "bookname": "Olakh Aakaashaachi",
+          "author": "P.V. Sowani"
         },
         {
-          "Book No": "M6-023",
-          "Book Name": "Ka?",
-          "Writer": "Dr Bal Phondke"
+          "bookno": "M6-023",
+          "bookname": "Ka?",
+          "author": "Dr Bal Phondke"
         },
         {
-          "Book No": "M6-024",
-          "Book Name": "Kiti?",
-          "Writer": "Dr Bal Phondke"
+          "bookno": "M6-024",
+          "bookname": "Kiti?",
+          "author": "Dr Bal Phondke"
         },
         {
-          "Book No": "M6-025",
-          "Book Name": "Kon?",
-          "Writer": "Dr Bal Phondke"
+          "bookno": "M6-025",
+          "bookname": "Kon?",
+          "author": "Dr Bal Phondke"
         },
         {
-          "Book No": "M7-001",
-          "Book Name": "Giriyarohangatha",
-          "Writer": "Anand Palande"
+          "bookno": "M7-001",
+          "bookname": "Giriyarohangatha",
+          "author": "Anand Palande"
         },
         {
-          "Book No": "M7-002",
-          "Book Name": "Giryarohan Gathaa",
-          "Writer": "Anand Palande"
+          "bookno": "M7-002",
+          "bookname": "Giryarohan Gathaa",
+          "author": "Anand Palande"
         },
         {
-          "Book No": "M7-003",
-          "Book Name": "Kuna Ekachi Bhramangaathaa",
-          "Writer": "G. N. Dandekar"
+          "bookno": "M7-003",
+          "bookname": "Kuna Ekachi Bhramangaathaa",
+          "author": "G. N. Dandekar"
         },
         {
-          "Book No": "M7-004",
-          "Book Name": "Vandurga Pratapgad",
-          "Writer": "Praveen Bhosle"
+          "bookno": "M7-004",
+          "bookname": "Vandurga Pratapgad",
+          "author": "Praveen Bhosle"
         },
         {
-          "Book No": "M7-005",
-          "Book Name": "Narmade Har Har",
-          "Writer": "Jagannath Kunte"
+          "bookno": "M7-005",
+          "bookname": "Narmade Har Har",
+          "author": "Jagannath Kunte"
         },
         {
-          "Book No": "M7-006",
-          "Book Name": "Chanderi Bhatakanti",
-          "Writer": "Milind Gunaji"
+          "bookno": "M7-006",
+          "bookname": "Chanderi Bhatakanti",
+          "author": "Milind Gunaji"
         },
         {
-          "Book No": "M7-007",
-          "Book Name": "Maazi Mulukhagiri",
-          "Writer": "Milind Gunaji"
+          "bookno": "M7-007",
+          "bookname": "Maazi Mulukhagiri",
+          "author": "Milind Gunaji"
         },
         {
-          "Book No": "M7-008",
-          "Book Name": "Dakshinaranga",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-008",
+          "bookname": "Dakshinaranga",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-009",
-          "Book Name": "Vanga Chitre",
-          "Writer": "P.L. Deshpande"
+          "bookno": "M7-009",
+          "bookname": "Vanga Chitre",
+          "author": "P.L. Deshpande"
         },
         {
-          "Book No": "M7-010",
-          "Book Name": "Ekaa Raanvedyaachi Shodhyaatraa",
-          "Writer": "Krushnamegh Kunte"
+          "bookno": "M7-010",
+          "bookname": "Ekaa Raanvedyaachi Shodhyaatraa",
+          "author": "Krushnamegh Kunte"
         },
         {
-          "Book No": "M7-011",
-          "Book Name": "Maaza London",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-011",
+          "bookname": "Maaza London",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-012",
-          "Book Name": "Mukkaam Shantiniketan",
-          "Writer": "P.L. Deshpande"
+          "bookno": "M7-012",
+          "bookname": "Mukkaam Shantiniketan",
+          "author": "P.L. Deshpande"
         },
         {
-          "Book No": "M7-013",
-          "Book Name": "Narmadechya Teeravar",
-          "Writer": "Madhavi Desai"
+          "bookno": "M7-013",
+          "bookname": "Narmadechya Teeravar",
+          "author": "Madhavi Desai"
         },
         {
-          "Book No": "M7-014",
-          "Book Name": "Egyptaayan",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-014",
+          "bookname": "Egyptaayan",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-015",
-          "Book Name": "Turknama",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-015",
+          "bookname": "Turknama",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-016",
-          "Book Name": "America",
-          "Writer": "Anil Avachat"
+          "bookno": "M7-016",
+          "bookname": "America",
+          "author": "Anil Avachat"
         },
         {
-          "Book No": "M7-017",
-          "Book Name": "Mahgarashtra Desha",
-          "Writer": "Uddhav Thakare"
+          "bookno": "M7-017",
+          "bookname": "Mahgarashtra Desha",
+          "author": "Uddhav Thakare"
         },
         {
-          "Book No": "M7-018",
-          "Book Name": "Antaarctic",
-          "Writer": "Prakaash Joshi"
+          "bookno": "M7-018",
+          "bookname": "Antaarctic",
+          "author": "Prakaash Joshi"
         },
         {
-          "Book No": "M7-019",
-          "Book Name": "Gadkot",
-          "Writer": "Bhagavan Chile"
+          "bookno": "M7-019",
+          "bookname": "Gadkot",
+          "author": "Bhagavan Chile"
         },
         {
-          "Book No": "M7-020",
-          "Book Name": "Greekanjali",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-020",
+          "bookname": "Greekanjali",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-021",
-          "Book Name": "Turknama",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-021",
+          "bookname": "Turknama",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-022",
-          "Book Name": "Gaatha Irani",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-022",
+          "bookname": "Gaatha Irani",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-023",
-          "Book Name": "Vaat Tibetchi",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-023",
+          "bookname": "Vaat Tibetchi",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-024",
-          "Book Name": "Rom Raajya - 1",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-024",
+          "bookname": "Rom Raajya - 1",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-025",
-          "Book Name": "Rom Raajya - 2",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-025",
+          "bookname": "Rom Raajya - 2",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-026",
-          "Book Name": "NewYork NewYork",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-026",
+          "bookname": "NewYork NewYork",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-027",
-          "Book Name": "Paahilele Desh Bhetaleli Manasa",
-          "Writer": "Mangala Naralikar"
+          "bookno": "M7-027",
+          "bookname": "Paahilele Desh Bhetaleli Manasa",
+          "author": "Mangala Naralikar"
         },
         {
-          "Book No": "M7-028",
-          "Book Name": "Dakshinaranga",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-028",
+          "bookname": "Dakshinaranga",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-029",
-          "Book Name": "Chini Maati",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-029",
+          "bookname": "Chini Maati",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-030",
-          "Book Name": "Maaza London",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-030",
+          "bookname": "Maaza London",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-031",
-          "Book Name": "Mexico Parva",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-031",
+          "bookname": "Mexico Parva",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M7-032",
-          "Book Name": "Ijiptayan",
-          "Writer": "Meena Prabhu"
+          "bookno": "M7-032",
+          "bookname": "Ijiptayan",
+          "author": "Meena Prabhu"
         },
         {
-          "Book No": "M8-001",
-          "Book Name": "Manavjatichi Katha",
-          "Writer": "Dr. Henri Thomas/ Sane Guruji"
+          "bookno": "M8-001",
+          "bookname": "Manavjatichi Katha",
+          "author": "Dr. Henri Thomas/ Sane Guruji"
         },
         {
-          "Book No": "M8-002",
-          "Book Name": "Madhyaugin Bhartacha Itihas",
-          "Writer": "Pro. M. M. Deshmukh"
+          "bookno": "M8-002",
+          "bookname": "Madhyaugin Bhartacha Itihas",
+          "author": "Pro. M. M. Deshmukh"
         },
         {
-          "Book No": "M8-003",
-          "Book Name": "Azad Hind Faujechi Katha",
-          "Writer": "S. A. Aiyyar"
+          "bookno": "M8-003",
+          "bookname": "Azad Hind Faujechi Katha",
+          "author": "S. A. Aiyyar"
         },
         {
-          "Book No": "M8-004",
-          "Book Name": "1857 che Swatantrysamar",
-          "Writer": "V. D. Savarkar"
+          "bookno": "M8-004",
+          "bookname": "1857 che Swatantrysamar",
+          "author": "V. D. Savarkar"
         },
         {
-          "Book No": "M8-005",
-          "Book Name": "Aajacha Maharashtra",
-          "Writer": "Pannalaal Surana"
+          "bookno": "M8-005",
+          "bookname": "Aajacha Maharashtra",
+          "author": "Pannalaal Surana"
         },
         {
-          "Book No": "M8-006",
-          "Book Name": "Dragon Jaagaa Zalyavar",
-          "Writer": "Arun Sadhu"
+          "bookno": "M8-006",
+          "bookname": "Dragon Jaagaa Zalyavar",
+          "author": "Arun Sadhu"
         },
         {
-          "Book No": "M8-007",
-          "Book Name": "Mandalecha Raajbandi",
-          "Writer": "Aravind Gokhale"
+          "bookno": "M8-007",
+          "bookname": "Mandalecha Raajbandi",
+          "author": "Aravind Gokhale"
         },
         {
-          "Book No": "M8-008",
-          "Book Name": "Bharatache Itihaas",
-          "Writer": "Dr. S. G. Kolarkar"
+          "bookno": "M8-008",
+          "bookname": "Bharatache Itihaas",
+          "author": "Dr. S. G. Kolarkar"
         },
         {
-          "Book No": "M8-009",
-          "Book Name": "Changeez Khan",
-          "Writer": "Usha Parande"
+          "bookno": "M8-009",
+          "bookname": "Changeez Khan",
+          "author": "Usha Parande"
         },
         {
-          "Book No": "M8-010",
-          "Book Name": "Paaradh",
-          "Writer": "Ashok Jain"
+          "bookno": "M8-010",
+          "bookname": "Paaradh",
+          "author": "Ashok Jain"
         },
         {
-          "Book No": "M8-011",
-          "Book Name": "Bharatiya Itihasatil Saha Soneri Pane",
-          "Writer": "V. D. Savarkar"
+          "bookno": "M8-011",
+          "bookname": "Bharatiya Itihasatil Saha Soneri Pane",
+          "author": "V. D. Savarkar"
         },
         {
-          "Book No": "M8-012",
-          "Book Name": "Bharatiya Itihasatil Saha Soneri Pane",
-          "Writer": "V. D. Savarkar"
+          "bookno": "M8-012",
+          "bookname": "Bharatiya Itihasatil Saha Soneri Pane",
+          "author": "V. D. Savarkar"
         },
         {
-          "Book No": "M8-013",
-          "Book Name": "Bhagatsingh, Chandrashekha Azaad Ani Itar Krantikarak",
-          "Writer": "Ajay Ghosh"
+          "bookno": "M8-013",
+          "bookname": "Bhagatsingh, Chandrashekha Azaad Ani Itar Krantikarak",
+          "author": "Ajay Ghosh"
         },
         {
-          "Book No": "M8-014",
-          "Book Name": "Santaaji-Dhanaajichaa Zanjaavaat",
-          "Writer": "Anant Tibile"
+          "bookno": "M8-014",
+          "bookname": "Santaaji-Dhanaajichaa Zanjaavaat",
+          "author": "Anant Tibile"
         },
         {
-          "Book No": "M8-015",
-          "Book Name": "Shapit Rajahansa",
-          "Writer": "Anant Tibile"
+          "bookno": "M8-015",
+          "bookname": "Shapit Rajahansa",
+          "author": "Anant Tibile"
         },
         {
-          "Book No": "M8-016",
-          "Book Name": "1857 che Swatantryasamar",
-          "Writer": "V. D. Savarkar"
+          "bookno": "M8-016",
+          "bookname": "1857 che Swatantryasamar",
+          "author": "V. D. Savarkar"
         },
         {
-          "Book No": "M8-017",
-          "Book Name": "Jaung-E-Kashmir",
-          "Writer": "Col. Shyam Chavan"
+          "bookno": "M8-017",
+          "bookname": "Jaung-E-Kashmir",
+          "author": "Col. Shyam Chavan"
         },
         {
-          "Book No": "M8-018",
-          "Book Name": "Dara Shukoh",
-          "Writer": "Sadasjiv Athavle"
+          "bookno": "M8-018",
+          "bookname": "Dara Shukoh",
+          "author": "Sadasjiv Athavle"
         },
         {
-          "Book No": "M9-001",
-          "Book Name": "Gaatha Paryavaranachi",
-          "Writer": "Abhijeet Ghorpade"
+          "bookno": "M9-001",
+          "bookname": "Gaatha Paryavaranachi",
+          "author": "Abhijeet Ghorpade"
         },
         {
-          "Book No": "M9-002",
-          "Book Name": "Boardroom",
-          "Writer": "Atchyut Godbole"
+          "bookno": "M9-002",
+          "bookname": "Boardroom",
+          "author": "Atchyut Godbole"
         },
         {
-          "Book No": "M9-003",
-          "Book Name": "Deo? Chhe! Paragrahavaril Antaralveer",
-          "Writer": "Baal Bhagavat"
+          "bookno": "M9-003",
+          "bookname": "Deo? Chhe! Paragrahavaril Antaralveer",
+          "author": "Baal Bhagavat"
         },
         {
-          "Book No": "M9-004",
-          "Book Name": "suvichar mhani va vakprachar",
-          "Writer": "D.G. Patil"
+          "bookno": "M9-004",
+          "bookname": "suvichar mhani va vakprachar",
+          "author": "D.G. Patil"
         },
         {
-          "Book No": "M9-005",
-          "Book Name": "Harit Sandesh",
-          "Writer": "Dilip Kulkarni"
+          "bookno": "M9-005",
+          "bookname": "Harit Sandesh",
+          "author": "Dilip Kulkarni"
         },
         {
-          "Book No": "M9-006",
-          "Book Name": "Charvak",
-          "Writer": "Dr. A. H. Salunkhe"
+          "bookno": "M9-006",
+          "bookname": "Charvak",
+          "author": "Dr. A. H. Salunkhe"
         },
         {
-          "Book No": "M9-007",
-          "Book Name": "Manusmritichya Samarthakanchi Sanskruti",
-          "Writer": "Dr. A. H. Salunkhe"
+          "bookno": "M9-007",
+          "bookname": "Manusmritichya Samarthakanchi Sanskruti",
+          "author": "Dr. A. H. Salunkhe"
         },
         {
-          "Book No": "M9-008",
-          "Book Name": "Andhashraddha Prashnachinha ani Poornaviram",
-          "Writer": "Dr. Narendra Dabholkar"
+          "bookno": "M9-008",
+          "bookname": "Andhashraddha Prashnachinha ani Poornaviram",
+          "author": "Dr. Narendra Dabholkar"
         },
         {
-          "Book No": "M9-009",
-          "Book Name": "Ashi Fulvavi Parasbaug",
-          "Writer": "Dr. Rajendra Deshmukh"
+          "bookno": "M9-009",
+          "bookname": "Ashi Fulvavi Parasbaug",
+          "author": "Dr. Rajendra Deshmukh"
         },
         {
-          "Book No": "M9-010",
-          "Book Name": "Goin",
-          "Writer": "Dr. Rani Bang"
+          "bookno": "M9-010",
+          "bookname": "Goin",
+          "author": "Dr. Rani Bang"
         },
         {
-          "Book No": "M9-011",
-          "Book Name": "Bali Andhashradheche",
-          "Writer": "Jagadish Kabre"
+          "bookno": "M9-011",
+          "bookname": "Bali Andhashradheche",
+          "author": "Jagadish Kabre"
         },
         {
-          "Book No": "M9-012",
-          "Book Name": "Aathavanitalya Kavita (To BE DELETED)",
-          "Writer": "Mauj Prakashan"
+          "bookno": "M9-012",
+          "bookname": "Aathavanitalya Kavita (To BE DELETED)",
+          "author": "Mauj Prakashan"
         },
         {
-          "Book No": "M9-013",
-          "Book Name": "Mudra Vidnyan",
-          "Writer": "Neelam Sanghavi"
+          "bookno": "M9-013",
+          "bookname": "Mudra Vidnyan",
+          "author": "Neelam Sanghavi"
         },
         {
-          "Book No": "M9-014",
-          "Book Name": "Streekarmachi Dharmkahani",
-          "Writer": "Prashant Olalekar"
+          "bookno": "M9-014",
+          "bookname": "Streekarmachi Dharmkahani",
+          "author": "Prashant Olalekar"
         },
         {
-          "Book No": "M9-015",
-          "Book Name": "Volga te Ganga",
-          "Writer": "Rahul Sankrutyayan"
+          "bookno": "M9-015",
+          "bookname": "Volga te Ganga",
+          "author": "Rahul Sankrutyayan"
         },
         {
-          "Book No": "M9-016",
-          "Book Name": "Bharatache Sankatgrasta Prani Ani Tyanche Sanrakshan",
-          "Writer": "S. M. Nair"
+          "bookno": "M9-016",
+          "bookname": "Bharatache Sankatgrasta Prani Ani Tyanche Sanrakshan",
+          "author": "S. M. Nair"
         },
         {
-          "Book No": "M9-017",
-          "Book Name": "Andhashraddha Nirmulan Vartapatra",
-          "Writer": "Sammohan"
+          "bookno": "M9-017",
+          "bookname": "Andhashraddha Nirmulan Vartapatra",
+          "author": "Sammohan"
         },
         {
-          "Book No": "M9-018",
-          "Book Name": "Raktalanchhan",
-          "Writer": "Satchidanand Shevde"
+          "bookno": "M9-018",
+          "bookname": "Raktalanchhan",
+          "author": "Satchidanand Shevde"
         },
         {
-          "Book No": "M9-019",
-          "Book Name": "Muslim Manacha Shodh",
-          "Writer": "Sheshrao More"
+          "bookno": "M9-019",
+          "bookname": "Muslim Manacha Shodh",
+          "author": "Sheshrao More"
         },
         {
-          "Book No": "M9-020",
-          "Book Name": "Arthasrushti",
-          "Writer": "Sulakshana Maghajan"
+          "bookno": "M9-020",
+          "bookname": "Arthasrushti",
+          "author": "Sulakshana Maghajan"
         },
         {
-          "Book No": "M9-021",
-          "Book Name": "Yogeshwar Shreekrushna",
-          "Writer": "Sumati Kshetramade"
+          "bookno": "M9-021",
+          "bookname": "Yogeshwar Shreekrushna",
+          "author": "Sumati Kshetramade"
         },
         {
-          "Book No": "M9-022",
-          "Book Name": "Bhartiya Naari",
-          "Writer": "Swami Vivekanand"
+          "bookno": "M9-022",
+          "bookname": "Bhartiya Naari",
+          "author": "Swami Vivekanand"
         },
         {
-          "Book No": "M9-023",
-          "Book Name": "Baai Manus",
-          "Writer": "Kruna Gokhale"
+          "bookno": "M9-023",
+          "bookname": "Baai Manus",
+          "author": "Kruna Gokhale"
         },
         {
-          "Book No": "M9-024",
-          "Book Name": "Andhaar Andhashraddhecha",
-          "Writer": "Vamanrao Pai"
+          "bookno": "M9-024",
+          "bookname": "Andhaar Andhashraddhecha",
+          "author": "Vamanrao Pai"
         },
         {
-          "Book No": "M9-025",
-          "Book Name": "Ek Ekar",
-          "Writer": "Vyankatesh Madgulkar"
+          "bookno": "M9-025",
+          "bookname": "Ek Ekar",
+          "author": "Vyankatesh Madgulkar"
         },
         {
-          "Book No": "M9-026",
-          "Book Name": "Paschimatya Tatwadnyanachi Kahani",
-          "Writer": "Will Durant/ Sane Guruji"
+          "bookno": "M9-026",
+          "bookname": "Paschimatya Tatwadnyanachi Kahani",
+          "author": "Will Durant/ Sane Guruji"
         },
         {
-          "Book No": "M9-027",
-          "Book Name": "Mahatma Phule Samagra Vangmay",
-          "Writer": "Y. D. Phadke"
+          "bookno": "M9-027",
+          "bookname": "Mahatma Phule Samagra Vangmay",
+          "author": "Y. D. Phadke"
         },
         {
-          "Book No": "M9-028",
-          "Book Name": "Kargil - Kay Ghadale, Kase Ghadle",
-          "Writer": ""
+          "bookno": "M9-028",
+          "bookname": "Kargil - Kay Ghadale, Kase Ghadle",
+          "author": ""
         },
         {
-          "Book No": "M9-029",
-          "Book Name": "Mahashree Te Gauri",
-          "Writer": "Mangala Athlekar"
+          "bookno": "M9-029",
+          "bookname": "Mahashree Te Gauri",
+          "author": "Mangala Athlekar"
         },
         {
-          "Book No": "M9-030",
-          "Book Name": "Russelche Nivadak Lekh",
-          "Writer": "B. G. Kavimandan"
+          "bookno": "M9-030",
+          "bookname": "Russelche Nivadak Lekh",
+          "author": "B. G. Kavimandan"
         },
         {
-          "Book No": "M9-031",
-          "Book Name": "Janeev",
-          "Writer": "Dr. Raveen Thatte"
+          "bookno": "M9-031",
+          "bookname": "Janeev",
+          "author": "Dr. Raveen Thatte"
         },
         {
-          "Book No": "M9-032",
-          "Book Name": "Muktanganchi Goshta",
-          "Writer": "Anil Avachat"
+          "bookno": "M9-032",
+          "bookname": "Muktanganchi Goshta",
+          "author": "Anil Avachat"
         },
         {
-          "Book No": "M9-033",
-          "Book Name": "Vividh",
-          "Writer": "Aashaa Kardale"
+          "bookno": "M9-033",
+          "bookname": "Vividh",
+          "author": "Aashaa Kardale"
         },
         {
-          "Book No": "M9-034",
-          "Book Name": "Adharma Yuddha",
-          "Writer": "Girish Kuber"
+          "bookno": "M9-034",
+          "bookname": "Adharma Yuddha",
+          "author": "Girish Kuber"
         },
         {
-          "Book No": "M9-035",
-          "Book Name": "Navya Junyachya Kathavarati",
-          "Writer": "Aruna Dhere"
+          "bookno": "M9-035",
+          "bookname": "Navya Junyachya Kathavarati",
+          "author": "Aruna Dhere"
         },
         {
-          "Book No": "M9-036",
-          "Book Name": "Tiger Heaven",
-          "Writer": "Billy Arjansingh"
+          "bookno": "M9-036",
+          "bookname": "Tiger Heaven",
+          "author": "Billy Arjansingh"
         },
         {
-          "Book No": "M9-037",
-          "Book Name": "Maneaters of Kumau",
-          "Writer": "Jim Corbet"
+          "bookno": "M9-037",
+          "bookname": "Maneaters of Kumau",
+          "author": "Jim Corbet"
         },
         {
-          "Book No": "M9-038",
-          "Book Name": "Sattaaturaanaam",
-          "Writer": "Kumar Saptarshi"
+          "bookno": "M9-038",
+          "bookname": "Sattaaturaanaam",
+          "author": "Kumar Saptarshi"
         },
         {
-          "Book No": "M9-039",
-          "Book Name": "Kattaa",
-          "Writer": "Shirish Kanekar"
+          "bookno": "M9-039",
+          "bookname": "Kattaa",
+          "author": "Shirish Kanekar"
         },
         {
-          "Book No": "M9-040",
-          "Book Name": "Khogirbharti",
-          "Writer": "P.L. Deshpande"
+          "bookno": "M9-040",
+          "bookname": "Khogirbharti",
+          "author": "P.L. Deshpande"
         },
         {
-          "Book No": "M9-041",
-          "Book Name": "Akshansha Rekhansh",
-          "Writer": "Arun Sadhu"
+          "bookno": "M9-041",
+          "bookname": "Akshansha Rekhansh",
+          "author": "Arun Sadhu"
         },
         {
-          "Book No": "M9-042",
-          "Book Name": "Nisargavachan",
-          "Writer": "Maruti Chitampalli"
+          "bookno": "M9-042",
+          "bookname": "Nisargavachan",
+          "author": "Maruti Chitampalli"
         },
         {
-          "Book No": "M9-043",
-          "Book Name": "Sahavaas",
-          "Writer": "Arun Shevte"
+          "bookno": "M9-043",
+          "bookname": "Sahavaas",
+          "author": "Arun Shevte"
         },
         {
-          "Book No": "M9-044",
-          "Book Name": "Anandibai Joshi - Eka Laghupatachi Rojanishi",
-          "Writer": "Anjali Keertane"
+          "bookno": "M9-044",
+          "bookname": "Anandibai Joshi - Eka Laghupatachi Rojanishi",
+          "author": "Anjali Keertane"
         },
         {
-          "Book No": "M9-045",
-          "Book Name": "Grafitti Wall",
-          "Writer": "Kavita Mahajan"
+          "bookno": "M9-045",
+          "bookname": "Grafitti Wall",
+          "author": "Kavita Mahajan"
         },
         {
-          "Book No": "M9-046",
-          "Book Name": "Anthastha",
-          "Writer": "P. V. Narasimha Rao"
+          "bookno": "M9-046",
+          "bookname": "Anthastha",
+          "author": "P. V. Narasimha Rao"
         },
         {
-          "Book No": "M9-047",
-          "Book Name": "Eka dishecha Shodh",
-          "Writer": "Sandeep Vaslekar"
+          "bookno": "M9-047",
+          "bookname": "Eka dishecha Shodh",
+          "author": "Sandeep Vaslekar"
         },
         {
-          "Book No": "M9-048",
-          "Book Name": "Pakistan Diary",
-          "Writer": "Pratibha Ranade"
+          "bookno": "M9-048",
+          "bookname": "Pakistan Diary",
+          "author": "Pratibha Ranade"
         },
         {
-          "Book No": "M9-049",
-          "Book Name": "Editor's Choice",
-          "Writer": "Kumar Ketkar"
+          "bookno": "M9-049",
+          "bookname": "Editor's Choice",
+          "author": "Kumar Ketkar"
         },
         {
-          "Book No": "M9-050",
-          "Book Name": "Man eating Leopard of Rudrprayag",
-          "Writer": "Jim Korbet"
+          "bookno": "M9-050",
+          "bookname": "Man eating Leopard of Rudrprayag",
+          "author": "Jim Korbet"
         },
         {
-          "Book No": "M9-051",
-          "Book Name": "Mahabharat Ek Sudacha Pravaas",
-          "Writer": "Daaji Panshikar"
+          "bookno": "M9-051",
+          "bookname": "Mahabharat Ek Sudacha Pravaas",
+          "author": "Daaji Panshikar"
         },
         {
-          "Book No": "M9-052",
-          "Book Name": "Aise Kaise Zaale Bhondu",
-          "Writer": "Narendra Dabholkar"
+          "bookno": "M9-052",
+          "bookname": "Aise Kaise Zaale Bhondu",
+          "author": "Narendra Dabholkar"
         },
         {
-          "Book No": "M9-053",
-          "Book Name": "Mayaajaal Andhashraddheche",
-          "Writer": "Shyam Maanav"
+          "bookno": "M9-053",
+          "bookname": "Mayaajaal Andhashraddheche",
+          "author": "Shyam Maanav"
         },
         {
-          "Book No": "M9-054",
-          "Book Name": "Dalitanche Astitva Sampushtat Ananaaraa Pune Karar",
-          "Writer": "Dr. Babasahe Ambedkar"
+          "bookno": "M9-054",
+          "bookname": "Dalitanche Astitva Sampushtat Ananaaraa Pune Karar",
+          "author": "Dr. Babasahe Ambedkar"
         },
         {
-          "Book No": "M9-055",
-          "Book Name": "Deepastambha Vivekanand",
-          "Writer": "Dilip Kulkarni"
+          "bookno": "M9-055",
+          "bookname": "Deepastambha Vivekanand",
+          "author": "Dilip Kulkarni"
         },
         {
-          "Book No": "M9-056",
-          "Book Name": "Bhivandi Dangal 1984",
-          "Writer": "Suresh Khopade"
+          "bookno": "M9-056",
+          "bookname": "Bhivandi Dangal 1984",
+          "author": "Suresh Khopade"
         },
         {
-          "Book No": "M9-057",
-          "Book Name": "Amerikeche Pararaashtra Dhoran",
-          "Writer": "Aravind Vaidya"
+          "bookno": "M9-057",
+          "bookname": "Amerikeche Pararaashtra Dhoran",
+          "author": "Aravind Vaidya"
         },
         {
-          "Book No": "M9-058",
-          "Book Name": "Manusmriti",
-          "Writer": "Narahar Kurundkar"
+          "bookno": "M9-058",
+          "bookname": "Manusmriti",
+          "author": "Narahar Kurundkar"
         },
         {
-          "Book No": "M9-059",
-          "Book Name": "Shivraatra",
-          "Writer": "Narahar Kurundkar"
+          "bookno": "M9-059",
+          "bookname": "Shivraatra",
+          "author": "Narahar Kurundkar"
         },
         {
-          "Book No": "M9-060",
-          "Book Name": "Dhammachakra Pravartan Falashruti ani Aavhane",
-          "Writer": "Aravind Survaade"
+          "bookno": "M9-060",
+          "bookname": "Dhammachakra Pravartan Falashruti ani Aavhane",
+          "author": "Aravind Survaade"
         },
         {
-          "Book No": "M9-061",
-          "Book Name": "Swatantrya Chalavaliteel Sheekh",
-          "Writer": "Y. D. Phadke"
+          "bookno": "M9-061",
+          "bookname": "Swatantrya Chalavaliteel Sheekh",
+          "author": "Y. D. Phadke"
         },
         {
-          "Book No": "M9-062",
-          "Book Name": "Kshitijavareel Shalaka",
-          "Writer": "Shaarada Saathe"
+          "bookno": "M9-062",
+          "bookname": "Kshitijavareel Shalaka",
+          "author": "Shaarada Saathe"
         },
         {
-          "Book No": "M9-063",
-          "Book Name": "Abhayaaranya",
-          "Writer": "Narahar Kurundkar"
+          "bookno": "M9-063",
+          "bookname": "Abhayaaranya",
+          "author": "Narahar Kurundkar"
         },
         {
-          "Book No": "M9-064",
-          "Book Name": "Yuddha Jivaanche",
-          "Writer": "Girish Kuber"
+          "bookno": "M9-064",
+          "bookname": "Yuddha Jivaanche",
+          "author": "Girish Kuber"
         },
         {
-          "Book No": "M9-065",
-          "Book Name": "Badalte Vishva",
-          "Writer": "Kumar Ketkar"
+          "bookno": "M9-065",
+          "bookname": "Badalte Vishva",
+          "author": "Kumar Ketkar"
         },
         {
-          "Book No": "M9-066",
-          "Book Name": "Goph Janmaantariche",
-          "Writer": "Sulbha Brahmanalkar"
+          "bookno": "M9-066",
+          "bookname": "Goph Janmaantariche",
+          "author": "Sulbha Brahmanalkar"
         },
         {
-          "Book No": "M9-067",
-          "Book Name": "Kaashmeer Dhumasate Barf",
-          "Writer": "Jagmohan"
+          "bookno": "M9-067",
+          "bookname": "Kaashmeer Dhumasate Barf",
+          "author": "Jagmohan"
         },
         {
-          "Book No": "M9-068",
-          "Book Name": "Nivadak Saadhanaa - Sampaadakiye",
-          "Writer": ""
+          "bookno": "M9-068",
+          "bookname": "Nivadak Saadhanaa - Sampaadakiye",
+          "author": ""
         },
         {
-          "Book No": "M9-069",
-          "Book Name": "Nivadak Saadhanaa - Lokshaahi Samajwaad",
-          "Writer": ""
+          "bookno": "M9-069",
+          "bookname": "Nivadak Saadhanaa - Lokshaahi Samajwaad",
+          "author": ""
         },
         {
-          "Book No": "M9-070",
-          "Book Name": "Nivadak Saadhanaa - Chalavali Va Andolane",
-          "Writer": ""
+          "bookno": "M9-070",
+          "bookname": "Nivadak Saadhanaa - Chalavali Va Andolane",
+          "author": ""
         },
         {
-          "Book No": "M9-071",
-          "Book Name": "Nivadak Saadhanaa - Raajakiya Va Aarthik",
-          "Writer": ""
+          "bookno": "M9-071",
+          "bookname": "Nivadak Saadhanaa - Raajakiya Va Aarthik",
+          "author": ""
         },
         {
-          "Book No": "M9-072",
-          "Book Name": "Nivadak Saadhanaa - Saamajik Va Samskrutik",
-          "Writer": ""
+          "bookno": "M9-072",
+          "bookname": "Nivadak Saadhanaa - Saamajik Va Samskrutik",
+          "author": ""
         },
         {
-          "Book No": "M9-073",
-          "Book Name": "Nivadak Saadhanaa - Vedh  Saadhanaa Patrakaaritecha",
-          "Writer": ""
+          "bookno": "M9-073",
+          "bookname": "Nivadak Saadhanaa - Vedh  Saadhanaa Patrakaaritecha",
+          "author": ""
         },
         {
-          "Book No": "M9-074",
-          "Book Name": "Rajeev Te Narasimha",
-          "Writer": "Madhav Gadkari"
+          "bookno": "M9-074",
+          "bookname": "Rajeev Te Narasimha",
+          "author": "Madhav Gadkari"
         },
         {
-          "Book No": "M9-075",
-          "Book Name": "Tulshi Manjirya",
-          "Writer": "G. M. Raanade"
+          "bookno": "M9-075",
+          "bookname": "Tulshi Manjirya",
+          "author": "G. M. Raanade"
         },
         {
-          "Book No": "M9-076",
-          "Book Name": "Andhashraddha",
-          "Writer": "Chandrakant Sarvagaud"
+          "bookno": "M9-076",
+          "bookname": "Andhashraddha",
+          "author": "Chandrakant Sarvagaud"
         },
         {
-          "Book No": "M9-077",
-          "Book Name": "Dnyaneshwariche Antarang - Dainandin Dnyaneshwari",
-          "Writer": "Dilip Ambike"
+          "bookno": "M9-077",
+          "bookname": "Dnyaneshwariche Antarang - Dainandin Dnyaneshwari",
+          "author": "Dilip Ambike"
         },
         {
-          "Book No": "M9-078",
-          "Book Name": "Jadutonavirodhi Sachitra Kayada (to be removed)",
-          "Writer": "Prabhakar Vairkar, Yuvraj Mohite"
+          "bookno": "M9-078",
+          "bookname": "Jadutonavirodhi Sachitra Kayada (to be removed)",
+          "author": "Prabhakar Vairkar, Yuvraj Mohite"
         },
         {
-          "Book No": "M9-079",
-          "Book Name": "Pashchimatya Tatwadnyanachi Kahani",
-          "Writer": "Will Durant/ Sane Guruji"
+          "bookno": "M9-079",
+          "bookname": "Pashchimatya Tatwadnyanachi Kahani",
+          "author": "Will Durant/ Sane Guruji"
         },
         {
-          "Book No": "M9-080",
-          "Book Name": "Hindu Kadambari ani Dharm",
-          "Writer": "Shreekant Shetye"
+          "bookno": "M9-080",
+          "bookname": "Hindu Kadambari ani Dharm",
+          "author": "Shreekant Shetye"
         },
         {
-          "Book No": "M9-081",
-          "Book Name": "Ram Ani Krushnache Goudbangal",
-          "Writer": "Dr. Babasahe Ambedkar"
+          "bookno": "M9-081",
+          "bookname": "Ram Ani Krushnache Goudbangal",
+          "author": "Dr. Babasahe Ambedkar"
         },
         {
-          "Book No": "E1-001",
-          "Book Name": "The Leader Who Had No Title",
-          "Writer": "Robin Sharma"
+          "bookno": "E1-001",
+          "bookname": "The Leader Who Had No Title",
+          "author": "Robin Sharma"
         },
         {
-          "Book No": "E1-002",
-          "Book Name": "How to Win Friends and Influence People",
-          "Writer": "Dale Carnegie"
+          "bookno": "E1-002",
+          "bookname": "How to Win Friends and Influence People",
+          "author": "Dale Carnegie"
         },
         {
-          "Book No": "E1-003",
-          "Book Name": "Memory Magic",
-          "Writer": "Minnoo Singh"
+          "bookno": "E1-003",
+          "bookname": "Memory Magic",
+          "author": "Minnoo Singh"
         },
         {
-          "Book No": "E1-004",
-          "Book Name": "I Bought The Monk's Ferrari",
-          "Writer": "Ravi Subramanian"
+          "bookno": "E1-004",
+          "bookname": "I Bought The Monk's Ferrari",
+          "author": "Ravi Subramanian"
         },
         {
-          "Book No": "E1-005",
-          "Book Name": "Pact for the Family",
-          "Writer": "Swami Mitrananda"
+          "bookno": "E1-005",
+          "bookname": "Pact for the Family",
+          "author": "Swami Mitrananda"
         },
         {
-          "Book No": "E1-006",
-          "Book Name": "Parenting",
-          "Writer": "Swami Tejomayanda"
+          "bookno": "E1-006",
+          "bookname": "Parenting",
+          "author": "Swami Tejomayanda"
         },
         {
-          "Book No": "E1-007",
-          "Book Name": "A Voyage with Breast Cancer",
-          "Writer": ""
+          "bookno": "E1-007",
+          "bookname": "A Voyage with Breast Cancer",
+          "author": ""
         },
         {
-          "Book No": "E1-008",
-          "Book Name": "I Beat Cancer",
-          "Writer": ""
+          "bookno": "E1-008",
+          "bookname": "I Beat Cancer",
+          "author": ""
         },
         {
-          "Book No": "E1-009",
-          "Book Name": "Secret",
-          "Writer": "Rhonda Byrne"
+          "bookno": "E1-009",
+          "bookname": "Secret",
+          "author": "Rhonda Byrne"
         },
         {
-          "Book No": "E1-010",
-          "Book Name": "You Can  Win",
-          "Writer": "Shiv Khera"
+          "bookno": "E1-010",
+          "bookname": "You Can  Win",
+          "author": "Shiv Khera"
         },
         {
-          "Book No": "E1-011",
-          "Book Name": "Education & Career Avenues",
-          "Writer": "Bharat Desai"
+          "bookno": "E1-011",
+          "bookname": "Education & Career Avenues",
+          "author": "Bharat Desai"
         },
         {
-          "Book No": "E1-012",
-          "Book Name": "Love, Medicine and Miracles",
-          "Writer": "Bernie S. Siegel"
+          "bookno": "E1-012",
+          "bookname": "Love, Medicine and Miracles",
+          "author": "Bernie S. Siegel"
         },
         {
-          "Book No": "E1-013",
-          "Book Name": "Building Self-Esteem",
-          "Writer": "Sue Atkinson"
+          "bookno": "E1-013",
+          "bookname": "Building Self-Esteem",
+          "author": "Sue Atkinson"
         },
         {
-          "Book No": "E1-014",
-          "Book Name": "The Quick and Easy Way to Effective Speaking",
-          "Writer": "Dale Carnegie"
+          "bookno": "E1-014",
+          "bookname": "The Quick and Easy Way to Effective Speaking",
+          "author": "Dale Carnegie"
         },
         {
-          "Book No": "E1-015",
-          "Book Name": "The Seven Spiritual Laws of Success",
-          "Writer": "Deepak Chopra"
+          "bookno": "E1-015",
+          "bookname": "The Seven Spiritual Laws of Success",
+          "author": "Deepak Chopra"
         },
         {
-          "Book No": "E1-016",
-          "Book Name": "Attitude is Everything",
-          "Writer": "Jeff Keler"
+          "bookno": "E1-016",
+          "bookname": "Attitude is Everything",
+          "author": "Jeff Keler"
         },
         {
-          "Book No": "E1-017",
-          "Book Name": "Pact for the Family",
-          "Writer": "Swami Mitrananda"
+          "bookno": "E1-017",
+          "bookname": "Pact for the Family",
+          "author": "Swami Mitrananda"
         },
         {
-          "Book No": "E1-018",
-          "Book Name": "Marketing with Speeches and Seminars",
-          "Writer": "Miriam Otte"
+          "bookno": "E1-018",
+          "bookname": "Marketing with Speeches and Seminars",
+          "author": "Miriam Otte"
         },
         {
-          "Book No": "E1-019",
-          "Book Name": "How to Win Friends and Influence People",
-          "Writer": "Dale Carnegie"
+          "bookno": "E1-019",
+          "bookname": "How to Win Friends and Influence People",
+          "author": "Dale Carnegie"
         },
         {
-          "Book No": "E1-020",
-          "Book Name": "Science of Female Body + Adolescence - Boys",
-          "Writer": ""
+          "bookno": "E1-020",
+          "bookname": "Science of Female Body + Adolescence - Boys",
+          "author": ""
         },
         {
-          "Book No": "E1-021",
-          "Book Name": "You Can Negotiate Anything",
-          "Writer": "Herb Cohen"
+          "bookno": "E1-021",
+          "bookname": "You Can Negotiate Anything",
+          "author": "Herb Cohen"
         },
         {
-          "Book No": "E1-022",
-          "Book Name": "Check Your Own IQ",
-          "Writer": "H. J. Eysenck"
+          "bookno": "E1-022",
+          "bookname": "Check Your Own IQ",
+          "author": "H. J. Eysenck"
         },
         {
-          "Book No": "E1-023",
-          "Book Name": "52 Ways to Live Success",
-          "Writer": "Jeanne Sharbuno"
+          "bookno": "E1-023",
+          "bookname": "52 Ways to Live Success",
+          "author": "Jeanne Sharbuno"
         },
         {
-          "Book No": "E1-024",
-          "Book Name": "Chicken Soup for the Indian Soul",
-          "Writer": "Jack Canfield"
+          "bookno": "E1-024",
+          "bookname": "Chicken Soup for the Indian Soul",
+          "author": "Jack Canfield"
         },
         {
-          "Book No": "E1-025",
-          "Book Name": "Let Us Think",
-          "Writer": "J. P. Baalsubramanyam"
+          "bookno": "E1-025",
+          "bookname": "Let Us Think",
+          "author": "J. P. Baalsubramanyam"
         },
         {
-          "Book No": "E1-026",
-          "Book Name": "Conversation With God",
-          "Writer": "Neale Donald Walch"
+          "bookno": "E1-026",
+          "bookname": "Conversation With God",
+          "author": "Neale Donald Walch"
         },
         {
-          "Book No": "E1-027",
-          "Book Name": "I Have a Dream",
-          "Writer": "Rashmi Bhansal"
+          "bookno": "E1-027",
+          "bookname": "I Have a Dream",
+          "author": "Rashmi Bhansal"
         },
         {
-          "Book No": "E1-028",
-          "Book Name": "Love, Life and all that Jazz...",
-          "Writer": "Ahmed Faiyaz"
+          "bookno": "E1-028",
+          "bookname": "Love, Life and all that Jazz...",
+          "author": "Ahmed Faiyaz"
         },
         {
-          "Book No": "E1-029",
-          "Book Name": "The Ultimate Gift",
-          "Writer": "Jim Stovall"
+          "bookno": "E1-029",
+          "bookname": "The Ultimate Gift",
+          "author": "Jim Stovall"
         },
         {
-          "Book No": "E1-030",
-          "Book Name": "The Seven-Day Weekend",
-          "Writer": "Ricardo Semler"
+          "bookno": "E1-030",
+          "bookname": "The Seven-Day Weekend",
+          "author": "Ricardo Semler"
         },
         {
-          "Book No": "E1-031",
-          "Book Name": "On Becoming a Leader",
-          "Writer": "Warren Bennis"
+          "bookno": "E1-031",
+          "bookname": "On Becoming a Leader",
+          "author": "Warren Bennis"
         },
         {
-          "Book No": "E1-032",
-          "Book Name": "Working with Emotional Intelligence",
-          "Writer": "Daniel Goleman"
+          "bookno": "E1-032",
+          "bookname": "Working with Emotional Intelligence",
+          "author": "Daniel Goleman"
         },
         {
-          "Book No": "E1-033",
-          "Book Name": "Self Hypnosis",
-          "Writer": "R. N. Shout"
+          "bookno": "E1-033",
+          "bookname": "Self Hypnosis",
+          "author": "R. N. Shout"
         },
         {
-          "Book No": "E1-034",
-          "Book Name": "How to Talk so Kids Can Learn",
-          "Writer": "Adel Faber & Elaine Mazlish"
+          "bookno": "E1-034",
+          "bookname": "How to Talk so Kids Can Learn",
+          "author": "Adel Faber & Elaine Mazlish"
         },
         {
-          "Book No": "E1-035",
-          "Book Name": "Games People Play",
-          "Writer": "Eric Berne"
+          "bookno": "E1-035",
+          "bookname": "Games People Play",
+          "author": "Eric Berne"
         },
         {
-          "Book No": "E1-036",
-          "Book Name": "Now Discover Your Strengths",
-          "Writer": "Marcus Buckingham"
+          "bookno": "E1-036",
+          "bookname": "Now Discover Your Strengths",
+          "author": "Marcus Buckingham"
         },
         {
-          "Book No": "E1-037",
-          "Book Name": "Winning",
-          "Writer": "Jack Welch"
+          "bookno": "E1-037",
+          "bookname": "Winning",
+          "author": "Jack Welch"
         },
         {
-          "Book No": "E1-038",
-          "Book Name": "And so he lived on",
-          "Writer": "Ujjwala Haware"
+          "bookno": "E1-038",
+          "bookname": "And so he lived on",
+          "author": "Ujjwala Haware"
         },
         {
-          "Book No": "E1-039",
-          "Book Name": "I'm OK - You're OK",
-          "Writer": "Thomas Harris"
+          "bookno": "E1-039",
+          "bookname": "I'm OK - You're OK",
+          "author": "Thomas Harris"
         },
         {
-          "Book No": "E1-040",
-          "Book Name": "Child Psychiatry and YOU",
-          "Writer": "Mikhail Buyanov"
+          "bookno": "E1-040",
+          "bookname": "Child Psychiatry and YOU",
+          "author": "Mikhail Buyanov"
         },
         {
-          "Book No": "E1-041",
-          "Book Name": "Who Moved My Cheese",
-          "Writer": "Dr. Spencer Johnson"
+          "bookno": "E1-041",
+          "bookname": "Who Moved My Cheese",
+          "author": "Dr. Spencer Johnson"
         },
         {
-          "Book No": "E1-042",
-          "Book Name": "Unposted Letter",
-          "Writer": "?"
+          "bookno": "E1-042",
+          "bookname": "Unposted Letter",
+          "author": "?"
         },
         {
-          "Book No": "E1-043",
-          "Book Name": "The Ultimate Life",
-          "Writer": "Jim Stovall"
+          "bookno": "E1-043",
+          "bookname": "The Ultimate Life",
+          "author": "Jim Stovall"
         },
         {
-          "Book No": "E1-044",
-          "Book Name": "Life Lessons for Loving the Way You Live",
-          "Writer": "Jennifer Thorne"
+          "bookno": "E1-044",
+          "bookname": "Life Lessons for Loving the Way You Live",
+          "author": "Jennifer Thorne"
         },
         {
-          "Book No": "E1-045",
-          "Book Name": "Who Will Cry When You Will Die",
-          "Writer": "Robin Sharma"
+          "bookno": "E1-045",
+          "bookname": "Who Will Cry When You Will Die",
+          "author": "Robin Sharma"
         },
         {
-          "Book No": "E1-046",
-          "Book Name": "The Seven Habits of Highly Effective People",
-          "Writer": "Stephen Covey"
+          "bookno": "E1-046",
+          "bookname": "The Seven Habits of Highly Effective People",
+          "author": "Stephen Covey"
         },
         {
-          "Book No": "E1-047",
-          "Book Name": "The Case of the Bonsai Manager",
-          "Writer": "R. Gopalkrishnan"
+          "bookno": "E1-047",
+          "bookname": "The Case of the Bonsai Manager",
+          "author": "R. Gopalkrishnan"
         },
         {
-          "Book No": "E1-048",
-          "Book Name": "Self Leadership and the One Minute Manager",
-          "Writer": "Ken Blanchard"
+          "bookno": "E1-048",
+          "bookname": "Self Leadership and the One Minute Manager",
+          "author": "Ken Blanchard"
         },
         {
-          "Book No": "E1-049",
-          "Book Name": "Chicken Soup for the Soul",
-          "Writer": "Jack Canfield"
+          "bookno": "E1-049",
+          "bookname": "Chicken Soup for the Soul",
+          "author": "Jack Canfield"
         },
         {
-          "Book No": "E1-050",
-          "Book Name": "Giving Effective  Feedback",
-          "Writer": ""
+          "bookno": "E1-050",
+          "bookname": "Giving Effective  Feedback",
+          "author": ""
         },
         {
-          "Book No": "E1-051",
-          "Book Name": "How To Make An Effective Speech",
-          "Writer": "Donaldh H. Weiss"
+          "bookno": "E1-051",
+          "bookname": "How To Make An Effective Speech",
+          "author": "Donaldh H. Weiss"
         },
         {
-          "Book No": "E1-052",
-          "Book Name": "The One Minute Manager ",
-          "Writer": "Ken Blanchard"
+          "bookno": "E1-052",
+          "bookname": "The One Minute Manager ",
+          "author": "Ken Blanchard"
         },
         {
-          "Book No": "E1-053",
-          "Book Name": "Learn To Mind Your Mind",
-          "Writer": "Vijay R. Joshi"
+          "bookno": "E1-053",
+          "bookname": "Learn To Mind Your Mind",
+          "author": "Vijay R. Joshi"
         },
         {
-          "Book No": "E1-054",
-          "Book Name": "How To Stop Worring And Start Living",
-          "Writer": "Dale Carnegie"
+          "bookno": "E1-054",
+          "bookname": "How To Stop Worring And Start Living",
+          "author": "Dale Carnegie"
         },
         {
-          "Book No": "E1-055",
-          "Book Name": "Mind The Gaffe",
-          "Writer": "R.L Trasa"
+          "bookno": "E1-055",
+          "bookname": "Mind The Gaffe",
+          "author": "R.L Trasa"
         },
         {
-          "Book No": "E1-056",
-          "Book Name": "8 Steps To Innovation",
-          "Writer": "Vinay Dabholkar & Rishikesha  T. Krishnan"
+          "bookno": "E1-056",
+          "bookname": "8 Steps To Innovation",
+          "author": "Vinay Dabholkar & Rishikesha  T. Krishnan"
         },
         {
-          "Book No": "E1-057",
-          "Book Name": "Lady you re not a man!",
-          "Writer": "Apoorva Purohit "
+          "bookno": "E1-057",
+          "bookname": "Lady you re not a man!",
+          "author": "Apoorva Purohit "
         },
         {
-          "Book No": "E1-058",
-          "Book Name": "Marketing 3.0",
-          "Writer": "Philip Kotler"
+          "bookno": "E1-058",
+          "bookname": "Marketing 3.0",
+          "author": "Philip Kotler"
         },
         {
-          "Book No": "E1-059",
-          "Book Name": "The Power of Your Subconscious Mind",
-          "Writer": "Dr Joseph Murphy"
+          "bookno": "E1-059",
+          "bookname": "The Power of Your Subconscious Mind",
+          "author": "Dr Joseph Murphy"
         },
         {
-          "Book No": "E1-060",
-          "Book Name": "How Gujaratis Do Business",
-          "Writer": "Shobha Bondre"
+          "bookno": "E1-060",
+          "bookname": "How Gujaratis Do Business",
+          "author": "Shobha Bondre"
         },
         {
-          "Book No": "E1-061",
-          "Book Name": "What got you here wont get you there",
-          "Writer": "Marshal Goldsmith"
+          "bookno": "E1-061",
+          "bookname": "What got you here wont get you there",
+          "author": "Marshal Goldsmith"
         },
         {
-          "Book No": "E1-062",
-          "Book Name": "It Happened in India",
-          "Writer": "Kishor Biyani"
+          "bookno": "E1-062",
+          "bookname": "It Happened in India",
+          "author": "Kishor Biyani"
         },
         {
-          "Book No": "E1-063",
-          "Book Name": "The rules of Management",
-          "Writer": "Richard  Templar"
+          "bookno": "E1-063",
+          "bookname": "The rules of Management",
+          "author": "Richard  Templar"
         },
         {
-          "Book No": "E1-064",
-          "Book Name": "The Choice",
-          "Writer": "Eliyahu M Goldratt"
+          "bookno": "E1-064",
+          "bookname": "The Choice",
+          "author": "Eliyahu M Goldratt"
         },
         {
-          "Book No": "E1-065",
-          "Book Name": "Rich Dad Poor Dad",
-          "Writer": "Robert T. Kiyosaki"
+          "bookno": "E1-065",
+          "bookname": "Rich Dad Poor Dad",
+          "author": "Robert T. Kiyosaki"
         },
         {
-          "Book No": "E1-066",
-          "Book Name": "To run a business",
-          "Writer": "Bill Marvin"
+          "bookno": "E1-066",
+          "bookname": "To run a business",
+          "author": "Bill Marvin"
         },
         {
-          "Book No": "E1-067",
-          "Book Name": "Breaking Out and Making Big",
-          "Writer": "Rudrajeet Desai"
+          "bookno": "E1-067",
+          "bookname": "Breaking Out and Making Big",
+          "author": "Rudrajeet Desai"
         },
         {
-          "Book No": "E1-068",
-          "Book Name": "The Underage CEOs",
-          "Writer": "Ganesh V"
+          "bookno": "E1-068",
+          "bookname": "The Underage CEOs",
+          "author": "Ganesh V"
         },
         {
-          "Book No": "E1-069",
-          "Book Name": "The New Age Entrepreneurs",
-          "Writer": ""
+          "bookno": "E1-069",
+          "bookname": "The New Age Entrepreneurs",
+          "author": ""
         },
         {
-          "Book No": "E1-070",
-          "Book Name": "BusinessWise",
-          "Writer": ""
+          "bookno": "E1-070",
+          "bookname": "BusinessWise",
+          "author": ""
         },
         {
-          "Book No": "E1-071",
-          "Book Name": "The ABC's of Real Eastate Investing",
-          "Writer": "Ken McElroy"
+          "bookno": "E1-071",
+          "bookname": "The ABC's of Real Eastate Investing",
+          "author": "Ken McElroy"
         },
         {
-          "Book No": "E1-072",
-          "Book Name": "Successful Business Plans",
-          "Writer": "Jane Khedair & Michael Anderson"
+          "bookno": "E1-072",
+          "bookname": "Successful Business Plans",
+          "author": "Jane Khedair & Michael Anderson"
         },
         {
-          "Book No": "E1-073",
-          "Book Name": "Connect the Dots",
-          "Writer": "Rashmi Bansal"
+          "bookno": "E1-073",
+          "bookname": "Connect the Dots",
+          "author": "Rashmi Bansal"
         },
         {
-          "Book No": "E1-074",
-          "Book Name": "Every Mistake in the Book A Business How-Not-To",
-          "Writer": "F J Lennon"
+          "bookno": "E1-074",
+          "bookname": "Every Mistake in the Book A Business How-Not-To",
+          "author": "F J Lennon"
         },
         {
-          "Book No": "E2-001",
-          "Book Name": "Wings of Fire- An Autobiography",
-          "Writer": "Dr. A.P.J. Abdul Kalam"
+          "bookno": "E2-001",
+          "bookname": "Wings of Fire- An Autobiography",
+          "author": "Dr. A.P.J. Abdul Kalam"
         },
         {
-          "Book No": "E2-002",
-          "Book Name": "Einstein - The Life and Times",
-          "Writer": "Ronald Clark"
+          "bookno": "E2-002",
+          "bookname": "Einstein - The Life and Times",
+          "author": "Ronald Clark"
         },
         {
-          "Book No": "E2-003",
-          "Book Name": "M.K. Gandhi An Autobiography",
-          "Writer": "M.K. Gandhi"
+          "bookno": "E2-003",
+          "bookname": "M.K. Gandhi An Autobiography",
+          "author": "M.K. Gandhi"
         },
         {
-          "Book No": "E2-004",
-          "Book Name": "I Dare",
-          "Writer": "Parmesh Dangwal"
+          "bookno": "E2-004",
+          "bookname": "I Dare",
+          "author": "Parmesh Dangwal"
         },
         {
-          "Book No": "E2-005",
-          "Book Name": "Anne Frank's Diary",
-          "Writer": "Anne Frank"
+          "bookno": "E2-005",
+          "bookname": "Anne Frank's Diary",
+          "author": "Anne Frank"
         },
         {
-          "Book No": "E2-006",
-          "Book Name": "Indira Gandhi - What I Am",
-          "Writer": ""
+          "bookno": "E2-006",
+          "bookname": "Indira Gandhi - What I Am",
+          "author": ""
         },
         {
-          "Book No": "E2-007",
-          "Book Name": "Anne Frank's Diary",
-          "Writer": "Anne Frank"
+          "bookno": "E2-007",
+          "bookname": "Anne Frank's Diary",
+          "author": "Anne Frank"
         },
         {
-          "Book No": "E2-008",
-          "Book Name": "The Art of the Deal",
-          "Writer": "Donald Trump"
+          "bookno": "E2-008",
+          "bookname": "The Art of the Deal",
+          "author": "Donald Trump"
         },
         {
-          "Book No": "E2-009",
-          "Book Name": "Remembering Our Leaders",
-          "Writer": "Edited"
+          "bookno": "E2-009",
+          "bookname": "Remembering Our Leaders",
+          "author": "Edited"
         },
         {
-          "Book No": "E2-010",
-          "Book Name": "On Writing",
-          "Writer": "Stephen King"
+          "bookno": "E2-010",
+          "bookname": "On Writing",
+          "author": "Stephen King"
         },
         {
-          "Book No": "E2-011",
-          "Book Name": "Gandhiji's Autobiography",
-          "Writer": "M K Gandhi"
+          "bookno": "E2-011",
+          "bookname": "Gandhiji's Autobiography",
+          "author": "M K Gandhi"
         },
         {
-          "Book No": "E2-012",
-          "Book Name": "Gandhi - A Life",
-          "Writer": "Krishna Kripalani"
+          "bookno": "E2-012",
+          "bookname": "Gandhi - A Life",
+          "author": "Krishna Kripalani"
         },
         {
-          "Book No": "E2-013",
-          "Book Name": "The Name is Rajanikath",
-          "Writer": "Gayathri Sreekanth"
+          "bookno": "E2-013",
+          "bookname": "The Name is Rajanikath",
+          "author": "Gayathri Sreekanth"
         },
         {
-          "Book No": "E2-014",
-          "Book Name": "Pathways To Light",
-          "Writer": "Dr.Prakash Amte"
+          "bookno": "E2-014",
+          "bookname": "Pathways To Light",
+          "author": "Dr.Prakash Amte"
         },
         {
-          "Book No": "E2-015",
-          "Book Name": "Gandhi - A Life",
-          "Writer": "Krishna Kripalani"
+          "bookno": "E2-015",
+          "bookname": "Gandhi - A Life",
+          "author": "Krishna Kripalani"
         },
         {
-          "Book No": "E2-016",
-          "Book Name": "Gandhiji's Autobiography",
-          "Writer": "M.K. Gandhi"
+          "bookno": "E2-016",
+          "bookname": "Gandhiji's Autobiography",
+          "author": "M.K. Gandhi"
         },
         {
-          "Book No": "E3-001",
-          "Book Name": "Creative Geniuses",
-          "Writer": "Anitha Vasant"
+          "bookno": "E3-001",
+          "bookname": "Creative Geniuses",
+          "author": "Anitha Vasant"
         },
         {
-          "Book No": "E3-002",
-          "Book Name": "Mitha and Her Magic Shoes",
-          "Writer": "B. G. Gujjarappa"
+          "bookno": "E3-002",
+          "bookname": "Mitha and Her Magic Shoes",
+          "author": "B. G. Gujjarappa"
         },
         {
-          "Book No": "E3-003",
-          "Book Name": "Birbal, the Wise",
-          "Writer": "Bhaskerbhai Bhatt"
+          "bookno": "E3-003",
+          "bookname": "Birbal, the Wise",
+          "author": "Bhaskerbhai Bhatt"
         },
         {
-          "Book No": "E3-004",
-          "Book Name": "Mother Goose",
-          "Writer": "Charles Robinson"
+          "bookno": "E3-004",
+          "bookname": "Mother Goose",
+          "author": "Charles Robinson"
         },
         {
-          "Book No": "E3-005",
-          "Book Name": "Jumbo the Elephant",
-          "Writer": "Chitra Narendran"
+          "bookno": "E3-005",
+          "bookname": "Jumbo the Elephant",
+          "author": "Chitra Narendran"
         },
         {
-          "Book No": "E3-006",
-          "Book Name": "Mittu and the Yellow Mango",
-          "Writer": "Chitra Narendran"
+          "bookno": "E3-006",
+          "bookname": "Mittu and the Yellow Mango",
+          "author": "Chitra Narendran"
         },
         {
-          "Book No": "E3-007",
-          "Book Name": "The great Ice Age",
-          "Writer": "Christopher Maynard"
+          "bookno": "E3-007",
+          "bookname": "The great Ice Age",
+          "author": "Christopher Maynard"
         },
         {
-          "Book No": "E3-008",
-          "Book Name": "Bugs Bunny's Carrot Machine",
-          "Writer": "Clark Carlisle"
+          "bookno": "E3-008",
+          "bookname": "Bugs Bunny's Carrot Machine",
+          "author": "Clark Carlisle"
         },
         {
-          "Book No": "E3-009",
-          "Book Name": "The Emperor's Clothes and Me",
-          "Writer": "Darlene Fernandes"
+          "bookno": "E3-009",
+          "bookname": "The Emperor's Clothes and Me",
+          "author": "Darlene Fernandes"
         },
         {
-          "Book No": "E3-010",
-          "Book Name": "The Ogre Downstaires",
-          "Writer": "Diana Wynne Jones"
+          "bookno": "E3-010",
+          "bookname": "The Ogre Downstaires",
+          "author": "Diana Wynne Jones"
         },
         {
-          "Book No": "E3-011",
-          "Book Name": "Peter Pan",
-          "Writer": "J. M. Barrie"
+          "bookno": "E3-011",
+          "bookname": "Peter Pan",
+          "author": "J. M. Barrie"
         },
         {
-          "Book No": "E3-012",
-          "Book Name": "The Fancydress Party",
-          "Writer": "Janey Louise Jones"
+          "bookno": "E3-012",
+          "bookname": "The Fancydress Party",
+          "author": "Janey Louise Jones"
         },
         {
-          "Book No": "E3-013",
-          "Book Name": "Heidi",
-          "Writer": "Johanna Spyri"
+          "bookno": "E3-013",
+          "bookname": "Heidi",
+          "author": "Johanna Spyri"
         },
         {
-          "Book No": "E3-014",
-          "Book Name": "The Booktime Book of Fantastic First Poems",
-          "Writer": "June Crebbin"
+          "bookno": "E3-014",
+          "bookname": "The Booktime Book of Fantastic First Poems",
+          "author": "June Crebbin"
         },
         {
-          "Book No": "E3-015",
-          "Book Name": "My Fish and I",
-          "Writer": "Kalyani Rajan"
+          "bookno": "E3-015",
+          "bookname": "My Fish and I",
+          "author": "Kalyani Rajan"
         },
         {
-          "Book No": "E3-016",
-          "Book Name": "Angelina and the Princess",
-          "Writer": "Katherine Holabird"
+          "bookno": "E3-016",
+          "bookname": "Angelina and the Princess",
+          "author": "Katherine Holabird"
         },
         {
-          "Book No": "E3-017",
-          "Book Name": "Alibaaba and 40 Thieves",
-          "Writer": "Katty Daynes"
+          "bookno": "E3-017",
+          "bookname": "Alibaaba and 40 Thieves",
+          "author": "Katty Daynes"
         },
         {
-          "Book No": "E3-018",
-          "Book Name": "Allice in Wonderland",
-          "Writer": "Louis Carrol"
+          "bookno": "E3-018",
+          "bookname": "Allice in Wonderland",
+          "author": "Louis Carrol"
         },
         {
-          "Book No": "E3-019",
-          "Book Name": "Little Women",
-          "Writer": "Louisa May Alcott"
+          "bookno": "E3-019",
+          "bookname": "Little Women",
+          "author": "Louisa May Alcott"
         },
         {
-          "Book No": "E3-020",
-          "Book Name": "Little Women",
-          "Writer": "Louisa May Alcott"
+          "bookno": "E3-020",
+          "bookname": "Little Women",
+          "author": "Louisa May Alcott"
         },
         {
-          "Book No": "E3-021",
-          "Book Name": "The Prince and the Pauper",
-          "Writer": "Mark Twain"
+          "bookno": "E3-021",
+          "bookname": "The Prince and the Pauper",
+          "author": "Mark Twain"
         },
         {
-          "Book No": "E3-022",
-          "Book Name": "Tom Sawyer",
-          "Writer": "Mark Twain"
+          "bookno": "E3-022",
+          "bookname": "Tom Sawyer",
+          "author": "Mark Twain"
         },
         {
-          "Book No": "E3-023",
-          "Book Name": "Charlie and Tess",
-          "Writer": "Martin Hall"
+          "bookno": "E3-023",
+          "bookname": "Charlie and Tess",
+          "author": "Martin Hall"
         },
         {
-          "Book No": "E3-024",
-          "Book Name": "Search for the Sunken City",
-          "Writer": "Martin Oliver"
+          "bookno": "E3-024",
+          "bookname": "Search for the Sunken City",
+          "author": "Martin Oliver"
         },
         {
-          "Book No": "E3-025",
-          "Book Name": "Picture Dictionary",
-          "Writer": "Moira Maclean"
+          "bookno": "E3-025",
+          "bookname": "Picture Dictionary",
+          "author": "Moira Maclean"
         },
         {
-          "Book No": "E3-026",
-          "Book Name": "The Motor Car-How It Works",
-          "Writer": "Navkala Roy"
+          "bookno": "E3-026",
+          "bookname": "The Motor Car-How It Works",
+          "author": "Navkala Roy"
         },
         {
-          "Book No": "E3-027",
-          "Book Name": "Can You Hear Me Granddad?",
-          "Writer": "Pat Thomson"
+          "bookno": "E3-027",
+          "bookname": "Can You Hear Me Granddad?",
+          "author": "Pat Thomson"
         },
         {
-          "Book No": "E3-028",
-          "Book Name": "The Treasure Sock",
-          "Writer": "Pat Thomson, Tony Ross"
+          "bookno": "E3-028",
+          "bookname": "The Treasure Sock",
+          "author": "Pat Thomson, Tony Ross"
         },
         {
-          "Book No": "E3-029",
-          "Book Name": "Chhota Bheem",
-          "Writer": "Rajiv Chilaka"
+          "bookno": "E3-029",
+          "bookname": "Chhota Bheem",
+          "author": "Rajiv Chilaka"
         },
         {
-          "Book No": "E3-030",
-          "Book Name": "All My Chickens",
-          "Writer": "Robert Kraus"
+          "bookno": "E3-030",
+          "bookname": "All My Chickens",
+          "author": "Robert Kraus"
         },
         {
-          "Book No": "E3-031",
-          "Book Name": "Treasure Island",
-          "Writer": "Robert Louis Stevenson"
+          "bookno": "E3-031",
+          "bookname": "Treasure Island",
+          "author": "Robert Louis Stevenson"
         },
         {
-          "Book No": "E3-032",
-          "Book Name": "Meera Gets Lost",
-          "Writer": "Rohini Chaudhari"
+          "bookno": "E3-032",
+          "bookname": "Meera Gets Lost",
+          "author": "Rohini Chaudhari"
         },
         {
-          "Book No": "E3-033",
-          "Book Name": "Greedy Stanely",
-          "Writer": "Sandra Andrews"
+          "bookno": "E3-033",
+          "bookname": "Greedy Stanely",
+          "author": "Sandra Andrews"
         },
         {
-          "Book No": "E3-034",
-          "Book Name": "A Big Alfie Out of the Doors",
-          "Writer": "Shinley Hughes"
+          "bookno": "E3-034",
+          "bookname": "A Big Alfie Out of the Doors",
+          "author": "Shinley Hughes"
         },
         {
-          "Book No": "E3-035",
-          "Book Name": "The Incredible Shrinking Hippo",
-          "Writer": "Stepanie Baudet"
+          "bookno": "E3-035",
+          "bookname": "The Incredible Shrinking Hippo",
+          "author": "Stepanie Baudet"
         },
         {
-          "Book No": "E3-036",
-          "Book Name": "Mother Goose Rhymes",
-          "Writer": "Stephen White"
+          "bookno": "E3-036",
+          "bookname": "Mother Goose Rhymes",
+          "author": "Stephen White"
         },
         {
-          "Book No": "E3-037",
-          "Book Name": "Martha Calling",
-          "Writer": "Susan Meddaugh"
+          "bookno": "E3-037",
+          "bookname": "Martha Calling",
+          "author": "Susan Meddaugh"
         },
         {
-          "Book No": "E3-038",
-          "Book Name": "A Vision of India the Country",
-          "Writer": "Swarn Khanpur"
+          "bookno": "E3-038",
+          "bookname": "A Vision of India the Country",
+          "author": "Swarn Khanpur"
         },
         {
-          "Book No": "E3-039",
-          "Book Name": "Totto-Chan",
-          "Writer": "Tetsuko Kuroyanagi"
+          "bookno": "E3-039",
+          "bookname": "Totto-Chan",
+          "author": "Tetsuko Kuroyanagi"
         },
         {
-          "Book No": "E3-040",
-          "Book Name": "Julius Caesar",
-          "Writer": "Wiiliam Shakespeare"
+          "bookno": "E3-040",
+          "bookname": "Julius Caesar",
+          "author": "Wiiliam Shakespeare"
         },
         {
-          "Book No": "E3-041",
-          "Book Name": "Tinkle",
-          "Writer": ""
+          "bookno": "E3-041",
+          "bookname": "Tinkle",
+          "author": ""
         },
         {
-          "Book No": "E3-042",
-          "Book Name": "Tinkle",
-          "Writer": ""
+          "bookno": "E3-042",
+          "bookname": "Tinkle",
+          "author": ""
         },
         {
-          "Book No": "E3-043",
-          "Book Name": "Hansel and Gretel",
-          "Writer": ""
+          "bookno": "E3-043",
+          "bookname": "Hansel and Gretel",
+          "author": ""
         },
         {
-          "Book No": "E3-044",
-          "Book Name": "Little Red Riding Hood",
-          "Writer": ""
+          "bookno": "E3-044",
+          "bookname": "Little Red Riding Hood",
+          "author": ""
         },
         {
-          "Book No": "E3-045",
-          "Book Name": "The Lion King",
-          "Writer": ""
+          "bookno": "E3-045",
+          "bookname": "The Lion King",
+          "author": ""
         },
         {
-          "Book No": "E3-046",
-          "Book Name": "The Sesame Street Library 4",
-          "Writer": ""
+          "bookno": "E3-046",
+          "bookname": "The Sesame Street Library 4",
+          "author": ""
         },
         {
-          "Book No": "E3-047",
-          "Book Name": "The Three Little Piglets",
-          "Writer": ""
+          "bookno": "E3-047",
+          "bookname": "The Three Little Piglets",
+          "author": ""
         },
         {
-          "Book No": "E3-048",
-          "Book Name": "101 Dalmations",
-          "Writer": ""
+          "bookno": "E3-048",
+          "bookname": "101 Dalmations",
+          "author": ""
         },
         {
-          "Book No": "E3-049",
-          "Book Name": "Classic Tales for Children",
-          "Writer": ""
+          "bookno": "E3-049",
+          "bookname": "Classic Tales for Children",
+          "author": ""
         },
         {
-          "Book No": "E3-050",
-          "Book Name": "Bird Stories",
-          "Writer": ""
+          "bookno": "E3-050",
+          "bookname": "Bird Stories",
+          "author": ""
         },
         {
-          "Book No": "E3-051",
-          "Book Name": "Chand Bibi",
-          "Writer": ""
+          "bookno": "E3-051",
+          "bookname": "Chand Bibi",
+          "author": ""
         },
         {
-          "Book No": "E3-052",
-          "Book Name": "The Tiger Eater",
-          "Writer": ""
+          "bookno": "E3-052",
+          "bookname": "The Tiger Eater",
+          "author": ""
         },
         {
-          "Book No": "E3-053",
-          "Book Name": "The Fool's Disciples",
-          "Writer": ""
+          "bookno": "E3-053",
+          "bookname": "The Fool's Disciples",
+          "author": ""
         },
         {
-          "Book No": "E3-054",
-          "Book Name": "Puss in Boots",
-          "Writer": ""
+          "bookno": "E3-054",
+          "bookname": "Puss in Boots",
+          "author": ""
         },
         {
-          "Book No": "E3-055",
-          "Book Name": "Agastya",
-          "Writer": ""
+          "bookno": "E3-055",
+          "bookname": "Agastya",
+          "author": ""
         },
         {
-          "Book No": "E3-056",
-          "Book Name": "Oxford Children's Encyclopedia Vol 1",
-          "Writer": ""
+          "bookno": "E3-056",
+          "bookname": "Oxford Children's Encyclopedia Vol 1",
+          "author": ""
         },
         {
-          "Book No": "E3-057",
-          "Book Name": "Noah's Ark",
-          "Writer": ""
+          "bookno": "E3-057",
+          "bookname": "Noah's Ark",
+          "author": ""
         },
         {
-          "Book No": "E3-058",
-          "Book Name": "Monstor Inc.",
-          "Writer": ""
+          "bookno": "E3-058",
+          "bookname": "Monstor Inc.",
+          "author": ""
         },
         {
-          "Book No": "E3-059",
-          "Book Name": "Bedtime Stories and Rhymes",
-          "Writer": ""
+          "bookno": "E3-059",
+          "bookname": "Bedtime Stories and Rhymes",
+          "author": ""
         },
         {
-          "Book No": "E3-060",
-          "Book Name": "The Story of India",
-          "Writer": ""
+          "bookno": "E3-060",
+          "bookname": "The Story of India",
+          "author": ""
         },
         {
-          "Book No": "E3-061",
-          "Book Name": "Sleeping Beauty",
-          "Writer": "Ronne Randall"
+          "bookno": "E3-061",
+          "bookname": "Sleeping Beauty",
+          "author": "Ronne Randall"
         },
         {
-          "Book No": "E3-062",
-          "Book Name": "Aladdin (I Can Read)",
-          "Writer": ""
+          "bookno": "E3-062",
+          "bookname": "Aladdin (I Can Read)",
+          "author": ""
         },
         {
-          "Book No": "E3-063",
-          "Book Name": "Pocahontas",
-          "Writer": ""
+          "bookno": "E3-063",
+          "bookname": "Pocahontas",
+          "author": ""
         },
         {
-          "Book No": "E3-064",
-          "Book Name": "Why Do We…",
-          "Writer": "Swami Vivekanand"
+          "bookno": "E3-064",
+          "bookname": "Why Do We…",
+          "author": "Swami Vivekanand"
         },
         {
-          "Book No": "E3-065",
-          "Book Name": "Mano's World",
-          "Writer": "DJK Cornelius"
+          "bookno": "E3-065",
+          "bookname": "Mano's World",
+          "author": "DJK Cornelius"
         },
         {
-          "Book No": "E3-066",
-          "Book Name": "Chinmay Vidyalay Tarangini 6",
-          "Writer": "Swami Chinmayanand"
+          "bookno": "E3-066",
+          "bookname": "Chinmay Vidyalay Tarangini 6",
+          "author": "Swami Chinmayanand"
         },
         {
-          "Book No": "E3-067",
-          "Book Name": "Gulliver's Travels",
-          "Writer": "Jonathan Swift"
+          "bookno": "E3-067",
+          "bookname": "Gulliver's Travels",
+          "author": "Jonathan Swift"
         },
         {
-          "Book No": "E3-068",
-          "Book Name": "Heidi",
-          "Writer": "Johanna Spyri"
+          "bookno": "E3-068",
+          "bookname": "Heidi",
+          "author": "Johanna Spyri"
         },
         {
-          "Book No": "E3-069",
-          "Book Name": "Great Funny One Liners",
-          "Writer": "Frank Allen"
+          "bookno": "E3-069",
+          "bookname": "Great Funny One Liners",
+          "author": "Frank Allen"
         },
         {
-          "Book No": "E3-070",
-          "Book Name": "The Little Prince",
-          "Writer": "Antoine De Saint-Exupery"
+          "bookno": "E3-070",
+          "bookname": "The Little Prince",
+          "author": "Antoine De Saint-Exupery"
         },
         {
-          "Book No": "E3-071",
-          "Book Name": "The Adventures of Tom Sawyer",
-          "Writer": "Mark Twain"
+          "bookno": "E3-071",
+          "bookname": "The Adventures of Tom Sawyer",
+          "author": "Mark Twain"
         },
         {
-          "Book No": "E3-072",
-          "Book Name": "Children's Knowledge Bank 2",
-          "Writer": ""
+          "bookno": "E3-072",
+          "bookname": "Children's Knowledge Bank 2",
+          "author": ""
         },
         {
-          "Book No": "E3-073",
-          "Book Name": "Children's Knowledge Bank 3",
-          "Writer": ""
+          "bookno": "E3-073",
+          "bookname": "Children's Knowledge Bank 3",
+          "author": ""
         },
         {
-          "Book No": "E3-074",
-          "Book Name": "Children's Knowledge Bank 4",
-          "Writer": ""
+          "bookno": "E3-074",
+          "bookname": "Children's Knowledge Bank 4",
+          "author": ""
         },
         {
-          "Book No": "E3-075",
-          "Book Name": "Children's Knowledge Bank 5",
-          "Writer": ""
+          "bookno": "E3-075",
+          "bookname": "Children's Knowledge Bank 5",
+          "author": ""
         },
         {
-          "Book No": "E3-076",
-          "Book Name": "Children's Knowledge Bank 6",
-          "Writer": ""
+          "bookno": "E3-076",
+          "bookname": "Children's Knowledge Bank 6",
+          "author": ""
         },
         {
-          "Book No": "E3-077",
-          "Book Name": "Magic Tricks",
-          "Writer": "Vidvaan Chandrashekhar"
+          "bookno": "E3-077",
+          "bookname": "Magic Tricks",
+          "author": "Vidvaan Chandrashekhar"
         },
         {
-          "Book No": "E3-078",
-          "Book Name": "Awesome Facts about Nations of World",
-          "Writer": ""
+          "bookno": "E3-078",
+          "bookname": "Awesome Facts about Nations of World",
+          "author": ""
         },
         {
-          "Book No": "E3-079",
-          "Book Name": "Tell Me the Answer",
-          "Writer": "Indira Mukherji"
+          "bookno": "E3-079",
+          "bookname": "Tell Me the Answer",
+          "author": "Indira Mukherji"
         },
         {
-          "Book No": "E3-080",
-          "Book Name": "Still More Tell Me Why",
-          "Writer": "Arkady Leokum"
+          "bookno": "E3-080",
+          "bookname": "Still More Tell Me Why",
+          "author": "Arkady Leokum"
         },
         {
-          "Book No": "E3-081",
-          "Book Name": "Chinmay Vidyalay Tarangini 3",
-          "Writer": "Swami Chinmayanand"
+          "bookno": "E3-081",
+          "bookname": "Chinmay Vidyalay Tarangini 3",
+          "author": "Swami Chinmayanand"
         },
         {
-          "Book No": "E3-082",
-          "Book Name": "Gandhiji - Life and Thought in a Nutshell",
-          "Writer": "Parag Cholkar"
+          "bookno": "E3-082",
+          "bookname": "Gandhiji - Life and Thought in a Nutshell",
+          "author": "Parag Cholkar"
         },
         {
-          "Book No": "E3-083",
-          "Book Name": "Reflections",
-          "Writer": "D. Kaplash"
+          "bookno": "E3-083",
+          "bookname": "Reflections",
+          "author": "D. Kaplash"
         },
         {
-          "Book No": "E3-084",
-          "Book Name": "Robin Hood",
-          "Writer": "Bani Roy Choudhari"
+          "bookno": "E3-084",
+          "bookname": "Robin Hood",
+          "author": "Bani Roy Choudhari"
         },
         {
-          "Book No": "E3-085",
-          "Book Name": "David Copperfield",
-          "Writer": "Charles Dickens"
+          "bookno": "E3-085",
+          "bookname": "David Copperfield",
+          "author": "Charles Dickens"
         },
         {
-          "Book No": "E3-086",
-          "Book Name": "Selected Stories of Sherlock Holmes",
-          "Writer": "Sir Arthur Conan Doyle"
+          "bookno": "E3-086",
+          "bookname": "Selected Stories of Sherlock Holmes",
+          "author": "Sir Arthur Conan Doyle"
         },
         {
-          "Book No": "E3-087",
-          "Book Name": "Robinson Crusoe",
-          "Writer": "Daniel Defoe"
+          "bookno": "E3-087",
+          "bookname": "Robinson Crusoe",
+          "author": "Daniel Defoe"
         },
         {
-          "Book No": "E3-088",
-          "Book Name": "Brain Gain",
-          "Writer": "Bharat Ramaswami"
+          "bookno": "E3-088",
+          "bookname": "Brain Gain",
+          "author": "Bharat Ramaswami"
         },
         {
-          "Book No": "E3-089",
-          "Book Name": "Tinkle Vol. 9 No 1",
-          "Writer": ""
+          "bookno": "E3-089",
+          "bookname": "Tinkle Vol. 9 No 1",
+          "author": ""
         },
         {
-          "Book No": "E3-090",
-          "Book Name": "The Jungle Adventure",
-          "Writer": "Shobha Sharma"
+          "bookno": "E3-090",
+          "bookname": "The Jungle Adventure",
+          "author": "Shobha Sharma"
         },
         {
-          "Book No": "E3-091",
-          "Book Name": "Tinkle Digest No. 120",
-          "Writer": ""
+          "bookno": "E3-091",
+          "bookname": "Tinkle Digest No. 120",
+          "author": ""
         },
         {
-          "Book No": "E3-092",
-          "Book Name": "Stories for Children - II",
-          "Writer": "Sathya Sai Baba"
+          "bookno": "E3-092",
+          "bookname": "Stories for Children - II",
+          "author": "Sathya Sai Baba"
         },
         {
-          "Book No": "E3-093",
-          "Book Name": "Children's Knowledge Bank 1",
-          "Writer": ""
+          "bookno": "E3-093",
+          "bookname": "Children's Knowledge Bank 1",
+          "author": ""
         },
         {
-          "Book No": "E3-094",
-          "Book Name": "The Wisdom of Mulla Nasruddin",
-          "Writer": "Shaharukh Husain"
+          "bookno": "E3-094",
+          "bookname": "The Wisdom of Mulla Nasruddin",
+          "author": "Shaharukh Husain"
         },
         {
-          "Book No": "E3-095",
-          "Book Name": "The Three Musketeers",
-          "Writer": "Alexandre Dumas"
+          "bookno": "E3-095",
+          "bookname": "The Three Musketeers",
+          "author": "Alexandre Dumas"
         },
         {
-          "Book No": "E3-096",
-          "Book Name": "Hansel and Gretel",
-          "Writer": ""
+          "bookno": "E3-096",
+          "bookname": "Hansel and Gretel",
+          "author": ""
         },
         {
-          "Book No": "E3-097",
-          "Book Name": "Ben 10 - Comic Book",
-          "Writer": "Duncan Rouleau"
+          "bookno": "E3-097",
+          "bookname": "Ben 10 - Comic Book",
+          "author": "Duncan Rouleau"
         },
         {
-          "Book No": "E3-098",
-          "Book Name": "A Day with Gandhi",
-          "Writer": ""
+          "bookno": "E3-098",
+          "bookname": "A Day with Gandhi",
+          "author": ""
         },
         {
-          "Book No": "E3-099",
-          "Book Name": "Marvel Adventures Spider-Man",
-          "Writer": ""
+          "bookno": "E3-099",
+          "bookname": "Marvel Adventures Spider-Man",
+          "author": ""
         },
         {
-          "Book No": "E3-100",
-          "Book Name": "Sati and Shiva",
-          "Writer": ""
+          "bookno": "E3-100",
+          "bookname": "Sati and Shiva",
+          "author": ""
         },
         {
-          "Book No": "E3-101",
-          "Book Name": "Andher Nagari",
-          "Writer": "Bharatendu"
+          "bookno": "E3-101",
+          "bookname": "Andher Nagari",
+          "author": "Bharatendu"
         },
         {
-          "Book No": "E3-102",
-          "Book Name": "Rani Durgavati",
-          "Writer": ""
+          "bookno": "E3-102",
+          "bookname": "Rani Durgavati",
+          "author": ""
         },
         {
-          "Book No": "E3-103",
-          "Book Name": "Sai Baba - The Devine Fakir (Removed)",
-          "Writer": ""
+          "bookno": "E3-103",
+          "bookname": "Sai Baba - The Devine Fakir (Removed)",
+          "author": ""
         },
         {
-          "Book No": "E3-104",
-          "Book Name": "Peter Pan",
-          "Writer": ""
+          "bookno": "E3-104",
+          "bookname": "Peter Pan",
+          "author": ""
         },
         {
-          "Book No": "E3-105",
-          "Book Name": "Hickory Dickory Dock",
-          "Writer": "Saviour Pirotta"
+          "bookno": "E3-105",
+          "bookname": "Hickory Dickory Dock",
+          "author": "Saviour Pirotta"
         },
         {
-          "Book No": "E3-106",
-          "Book Name": "Rumpelstiltskin",
-          "Writer": "Jakob and Wilhelm Grimm"
+          "bookno": "E3-106",
+          "bookname": "Rumpelstiltskin",
+          "author": "Jakob and Wilhelm Grimm"
         },
         {
-          "Book No": "E3-107",
-          "Book Name": "The Three Musketeers",
-          "Writer": "Alexandre Dumas"
+          "bookno": "E3-107",
+          "bookname": "The Three Musketeers",
+          "author": "Alexandre Dumas"
         },
         {
-          "Book No": "E3-108",
-          "Book Name": "Great Expectations",
-          "Writer": "Charles Dickens"
+          "bookno": "E3-108",
+          "bookname": "Great Expectations",
+          "author": "Charles Dickens"
         },
         {
-          "Book No": "E3-109",
-          "Book Name": "Kidnapped",
-          "Writer": "Robert Louis Stevenson"
+          "bookno": "E3-109",
+          "bookname": "Kidnapped",
+          "author": "Robert Louis Stevenson"
         },
         {
-          "Book No": "E3-110",
-          "Book Name": "Black Beauty",
-          "Writer": "Anna Sewell"
+          "bookno": "E3-110",
+          "bookname": "Black Beauty",
+          "author": "Anna Sewell"
         },
         {
-          "Book No": "E3-111",
-          "Book Name": "David Copperfield",
-          "Writer": "Charles Dickens"
+          "bookno": "E3-111",
+          "bookname": "David Copperfield",
+          "author": "Charles Dickens"
         },
         {
-          "Book No": "E3-112",
-          "Book Name": "Gulliver's Travels",
-          "Writer": "Jonathan Swift"
+          "bookno": "E3-112",
+          "bookname": "Gulliver's Travels",
+          "author": "Jonathan Swift"
         },
         {
-          "Book No": "E3-113",
-          "Book Name": "Robin Hood",
-          "Writer": "Howard Pyle"
+          "bookno": "E3-113",
+          "bookname": "Robin Hood",
+          "author": "Howard Pyle"
         },
         {
-          "Book No": "E3-114",
-          "Book Name": "A Tale of Two Cities",
-          "Writer": "Charles Dickens"
+          "bookno": "E3-114",
+          "bookname": "A Tale of Two Cities",
+          "author": "Charles Dickens"
         },
         {
-          "Book No": "E3-115",
-          "Book Name": "Dragon Stew",
-          "Writer": "Nocholas Horsburgh"
+          "bookno": "E3-115",
+          "bookname": "Dragon Stew",
+          "author": "Nocholas Horsburgh"
         },
         {
-          "Book No": "E3-116",
-          "Book Name": "Tales of the Arabian Night",
-          "Writer": "S. Chand"
+          "bookno": "E3-116",
+          "bookname": "Tales of the Arabian Night",
+          "author": "S. Chand"
         },
         {
-          "Book No": "E3-117",
-          "Book Name": "Read and Learn",
-          "Writer": ""
+          "bookno": "E3-117",
+          "bookname": "Read and Learn",
+          "author": ""
         },
         {
-          "Book No": "E3-118",
-          "Book Name": "My Book of Art and Craft",
-          "Writer": ""
+          "bookno": "E3-118",
+          "bookname": "My Book of Art and Craft",
+          "author": ""
         },
         {
-          "Book No": "E3-119",
-          "Book Name": "Children's Knowledge Bank 1",
-          "Writer": ""
+          "bookno": "E3-119",
+          "bookname": "Children's Knowledge Bank 1",
+          "author": ""
         },
         {
-          "Book No": "E3-120",
-          "Book Name": "Children's Knowledge Bank 2",
-          "Writer": ""
+          "bookno": "E3-120",
+          "bookname": "Children's Knowledge Bank 2",
+          "author": ""
         },
         {
-          "Book No": "E3-121",
-          "Book Name": "Children's Knowledge Bank 3",
-          "Writer": ""
+          "bookno": "E3-121",
+          "bookname": "Children's Knowledge Bank 3",
+          "author": ""
         },
         {
-          "Book No": "E3-122",
-          "Book Name": "Children's Knowledge Bank 4",
-          "Writer": ""
+          "bookno": "E3-122",
+          "bookname": "Children's Knowledge Bank 4",
+          "author": ""
         },
         {
-          "Book No": "E3-123",
-          "Book Name": "Children's Knowledge Bank 5",
-          "Writer": ""
+          "bookno": "E3-123",
+          "bookname": "Children's Knowledge Bank 5",
+          "author": ""
         },
         {
-          "Book No": "E3-124",
-          "Book Name": "Children's Knowledge Bank 6",
-          "Writer": ""
+          "bookno": "E3-124",
+          "bookname": "Children's Knowledge Bank 6",
+          "author": ""
         },
         {
-          "Book No": "E3-125",
-          "Book Name": "The Adventures of Don Quixote",
-          "Writer": "Miguel De Cervantes"
+          "bookno": "E3-125",
+          "bookname": "The Adventures of Don Quixote",
+          "author": "Miguel De Cervantes"
         },
         {
-          "Book No": "E3-126",
-          "Book Name": "Children's Knowledge Bank Vol 1",
-          "Writer": ""
+          "bookno": "E3-126",
+          "bookname": "Children's Knowledge Bank Vol 1",
+          "author": ""
         },
         {
-          "Book No": "E3-127",
-          "Book Name": "Knowledge Encyclopaedia",
-          "Writer": ""
+          "bookno": "E3-127",
+          "bookname": "Knowledge Encyclopaedia",
+          "author": ""
         },
         {
-          "Book No": "E3-128",
-          "Book Name": "Harry Potter and the Philosopher's Stone",
-          "Writer": "J. K. Rowling"
+          "bookno": "E3-128",
+          "bookname": "Harry Potter and the Philosopher's Stone",
+          "author": "J. K. Rowling"
         },
         {
-          "Book No": "E3-129",
-          "Book Name": "Harry Potter and the Prisoner of Azkaban",
-          "Writer": "J. K. Rowling"
+          "bookno": "E3-129",
+          "bookname": "Harry Potter and the Prisoner of Azkaban",
+          "author": "J. K. Rowling"
         },
         {
-          "Book No": "E3-130",
-          "Book Name": "175 Stories of Akbar and Birbal",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "E3-130",
+          "bookname": "175 Stories of Akbar and Birbal",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "E3-131",
-          "Book Name": "My Book of Indian Festivals",
-          "Writer": "Jamila Varawala"
+          "bookno": "E3-131",
+          "bookname": "My Book of Indian Festivals",
+          "author": "Jamila Varawala"
         },
         {
-          "Book No": "E3-132",
-          "Book Name": "Alice in Wonderland",
-          "Writer": ""
+          "bookno": "E3-132",
+          "bookname": "Alice in Wonderland",
+          "author": ""
         },
         {
-          "Book No": "E3-133",
-          "Book Name": "Raja Vidya- The King of Knowledge",
-          "Writer": ""
+          "bookno": "E3-133",
+          "bookname": "Raja Vidya- The King of Knowledge",
+          "author": ""
         },
         {
-          "Book No": "E3-134",
-          "Book Name": "Robinson Crusoe",
-          "Writer": "Deanna McFadden"
+          "bookno": "E3-134",
+          "bookname": "Robinson Crusoe",
+          "author": "Deanna McFadden"
         },
         {
-          "Book No": "E3-135",
-          "Book Name": "The World's Best-Loved Landmarks",
-          "Writer": ""
+          "bookno": "E3-135",
+          "bookname": "The World's Best-Loved Landmarks",
+          "author": ""
         },
         {
-          "Book No": "E3-136",
-          "Book Name": "Harry Potter and the Half Blood Prince",
-          "Writer": "J. K. Rowling"
+          "bookno": "E3-136",
+          "bookname": "Harry Potter and the Half Blood Prince",
+          "author": "J. K. Rowling"
         },
         {
-          "Book No": "E3-137",
-          "Book Name": "Thumbelina",
-          "Writer": "Hans Christian Andersen"
+          "bookno": "E3-137",
+          "bookname": "Thumbelina",
+          "author": "Hans Christian Andersen"
         },
         {
-          "Book No": "E3-138",
-          "Book Name": "The Mystery of the Pantomime Cat",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-138",
+          "bookname": "The Mystery of the Pantomime Cat",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-139",
-          "Book Name": "Secret Seven On The Trail",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-139",
+          "bookname": "Secret Seven On The Trail",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-140",
-          "Book Name": "Secret Seven On The Trail",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-140",
+          "bookname": "Secret Seven On The Trail",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-141",
-          "Book Name": "Secret Seven : Three Exciting Adventures",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-141",
+          "bookname": "Secret Seven : Three Exciting Adventures",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-142",
-          "Book Name": "Tales of Toyland and Other Stories",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-142",
+          "bookname": "Tales of Toyland and Other Stories",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-143",
-          "Book Name": "Hanuman",
-          "Writer": ""
+          "bookno": "E3-143",
+          "bookname": "Hanuman",
+          "author": ""
         },
         {
-          "Book No": "E3-144",
-          "Book Name": "The Adventures of the Wishing Chair",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-144",
+          "bookname": "The Adventures of the Wishing Chair",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-145",
-          "Book Name": "Shahjahan",
-          "Writer": ""
+          "bookno": "E3-145",
+          "bookname": "Shahjahan",
+          "author": ""
         },
         {
-          "Book No": "E3-146",
-          "Book Name": "Tell Me How - 1",
-          "Writer": ""
+          "bookno": "E3-146",
+          "bookname": "Tell Me How - 1",
+          "author": ""
         },
         {
-          "Book No": "E3-147",
-          "Book Name": "Clean Jokes for Children",
-          "Writer": ""
+          "bookno": "E3-147",
+          "bookname": "Clean Jokes for Children",
+          "author": ""
         },
         {
-          "Book No": "E3-148",
-          "Book Name": "My Mummy Says…",
-          "Writer": "Jyoti Singh Visvanath"
+          "bookno": "E3-148",
+          "bookname": "My Mummy Says…",
+          "author": "Jyoti Singh Visvanath"
         },
         {
-          "Book No": "E3-149",
-          "Book Name": "Arabian Nights Stories",
-          "Writer": ""
+          "bookno": "E3-149",
+          "bookname": "Arabian Nights Stories",
+          "author": ""
         },
         {
-          "Book No": "E3-150",
-          "Book Name": "Pocket Book of Facts",
-          "Writer": ""
+          "bookno": "E3-150",
+          "bookname": "Pocket Book of Facts",
+          "author": ""
         },
         {
-          "Book No": "E3-151",
-          "Book Name": "Twenty Thousand Leagues Under the Sea",
-          "Writer": "Jules Verne"
+          "bookno": "E3-151",
+          "bookname": "Twenty Thousand Leagues Under the Sea",
+          "author": "Jules Verne"
         },
         {
-          "Book No": "E3-152",
-          "Book Name": "A Vision of India the Country",
-          "Writer": "Swarn Khanpur"
+          "bookno": "E3-152",
+          "bookname": "A Vision of India the Country",
+          "author": "Swarn Khanpur"
         },
         {
-          "Book No": "E3-153",
-          "Book Name": "A Vision of India 100 Eventful Years",
-          "Writer": "Swarn Khanpur"
+          "bookno": "E3-153",
+          "bookname": "A Vision of India 100 Eventful Years",
+          "author": "Swarn Khanpur"
         },
         {
-          "Book No": "E3-154",
-          "Book Name": "Fevicryl Hobby Ideas Volume 1",
-          "Writer": ""
+          "bookno": "E3-154",
+          "bookname": "Fevicryl Hobby Ideas Volume 1",
+          "author": ""
         },
         {
-          "Book No": "E3-155",
-          "Book Name": "A Vision of India: Profiles in Excellence",
-          "Writer": "Swarn Khanpur"
+          "bookno": "E3-155",
+          "bookname": "A Vision of India: Profiles in Excellence",
+          "author": "Swarn Khanpur"
         },
         {
-          "Book No": "E3-156",
-          "Book Name": "Children's Encyclopedia",
-          "Writer": ""
+          "bookno": "E3-156",
+          "bookname": "Children's Encyclopedia",
+          "author": ""
         },
         {
-          "Book No": "E3-157",
-          "Book Name": "\\\\",
-          "Writer": ""
+          "bookno": "E3-157",
+          "bookname": "\\\\",
+          "author": ""
         },
         {
-          "Book No": "E3-158",
-          "Book Name": "Festivals in Regions and Seasons of India",
-          "Writer": "Dr. Vijaya Gupchup"
+          "bookno": "E3-158",
+          "bookname": "Festivals in Regions and Seasons of India",
+          "author": "Dr. Vijaya Gupchup"
         },
         {
-          "Book No": "E3-159",
-          "Book Name": "Stand Tall",
-          "Writer": "Dr. H. L. Kanuga"
+          "bookno": "E3-159",
+          "bookname": "Stand Tall",
+          "author": "Dr. H. L. Kanuga"
         },
         {
-          "Book No": "E3-160",
-          "Book Name": "Children's Encyclopedia",
-          "Writer": ""
+          "bookno": "E3-160",
+          "bookname": "Children's Encyclopedia",
+          "author": ""
         },
         {
-          "Book No": "E3-161",
-          "Book Name": "Incidents from the Life of Swami Vivekanand",
-          "Writer": "K. P. Shivkumar"
+          "bookno": "E3-161",
+          "bookname": "Incidents from the Life of Swami Vivekanand",
+          "author": "K. P. Shivkumar"
         },
         {
-          "Book No": "E3-162",
-          "Book Name": "First Fun Encyclopedia",
-          "Writer": "Jane Walker"
+          "bookno": "E3-162",
+          "bookname": "First Fun Encyclopedia",
+          "author": "Jane Walker"
         },
         {
-          "Book No": "E3-163",
-          "Book Name": "Family Encyclopedia",
-          "Writer": ""
+          "bookno": "E3-163",
+          "bookname": "Family Encyclopedia",
+          "author": ""
         },
         {
-          "Book No": "E3-164",
-          "Book Name": "Adventure of Pinocchio",
-          "Writer": ""
+          "bookno": "E3-164",
+          "bookname": "Adventure of Pinocchio",
+          "author": ""
         },
         {
-          "Book No": "E3-165",
-          "Book Name": "Bean Stalk and Me",
-          "Writer": ""
+          "bookno": "E3-165",
+          "bookname": "Bean Stalk and Me",
+          "author": ""
         },
         {
-          "Book No": "E3-166",
-          "Book Name": "101 Science Experiments",
-          "Writer": "Ivar Utial"
+          "bookno": "E3-166",
+          "bookname": "101 Science Experiments",
+          "author": "Ivar Utial"
         },
         {
-          "Book No": "E3-167",
-          "Book Name": "Vikas General Knowledge",
-          "Writer": ""
+          "bookno": "E3-167",
+          "bookname": "Vikas General Knowledge",
+          "author": ""
         },
         {
-          "Book No": "E3-168",
-          "Book Name": "Storms and Hurricanes",
-          "Writer": "Kathy Gemmell"
+          "bookno": "E3-168",
+          "bookname": "Storms and Hurricanes",
+          "author": "Kathy Gemmell"
         },
         {
-          "Book No": "E3-169",
-          "Book Name": "Tell Me Why- The Story of Science/Great Indian Scientists",
-          "Writer": "Manorama"
+          "bookno": "E3-169",
+          "bookname": "Tell Me Why- The Story of Science/Great Indian Scientists",
+          "author": "Manorama"
         },
         {
-          "Book No": "E3-170",
-          "Book Name": "Tell Me Why- The Universe/Planets",
-          "Writer": "Manorama"
+          "bookno": "E3-170",
+          "bookname": "Tell Me Why- The Universe/Planets",
+          "author": "Manorama"
         },
         {
-          "Book No": "E3-171",
-          "Book Name": "Tell Me Why- Mysteries/Mythology ",
-          "Writer": "Manorama"
+          "bookno": "E3-171",
+          "bookname": "Tell Me Why- Mysteries/Mythology ",
+          "author": "Manorama"
         },
         {
-          "Book No": "E3-172",
-          "Book Name": "Tell Me Why- Diseases/The Mughals",
-          "Writer": "Manorama"
+          "bookno": "E3-172",
+          "bookname": "Tell Me Why- Diseases/The Mughals",
+          "author": "Manorama"
         },
         {
-          "Book No": "E3-173",
-          "Book Name": "Tell Me Why- Water/The Story Of Petroleum",
-          "Writer": "Manorama"
+          "bookno": "E3-173",
+          "bookname": "Tell Me Why- Water/The Story Of Petroleum",
+          "author": "Manorama"
         },
         {
-          "Book No": "E3-174",
-          "Book Name": "Tell Me Why- Money/Great Disasters",
-          "Writer": "Manorama"
+          "bookno": "E3-174",
+          "bookname": "Tell Me Why- Money/Great Disasters",
+          "author": "Manorama"
         },
         {
-          "Book No": "E3-175",
-          "Book Name": "Tell Me Why- Continents/Egyptian Civilisation",
-          "Writer": "Manorama"
+          "bookno": "E3-175",
+          "bookname": "Tell Me Why- Continents/Egyptian Civilisation",
+          "author": "Manorama"
         },
         {
-          "Book No": "E3-176",
-          "Book Name": "Tell Me Why- Birds Of Prey/Animal Behaviour",
-          "Writer": "Manorama"
+          "bookno": "E3-176",
+          "bookname": "Tell Me Why- Birds Of Prey/Animal Behaviour",
+          "author": "Manorama"
         },
         {
-          "Book No": "E3-177",
-          "Book Name": "Tell Me Why- Sports (56 books)",
-          "Writer": "Manorama"
+          "bookno": "E3-177",
+          "bookname": "Tell Me Why- Sports (56 books)",
+          "author": "Manorama"
         },
         {
-          "Book No": "E3-178",
-          "Book Name": "Great Scientists",
-          "Writer": "Suresh Shah"
+          "bookno": "E3-178",
+          "bookname": "Great Scientists",
+          "author": "Suresh Shah"
         },
         {
-          "Book No": "E3-179",
-          "Book Name": "Indian Leaders",
-          "Writer": "Dr.Gagan Jain"
+          "bookno": "E3-179",
+          "bookname": "Indian Leaders",
+          "author": "Dr.Gagan Jain"
         },
         {
-          "Book No": "E3-180",
-          "Book Name": "Six O'Clock Tales",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-180",
+          "bookname": "Six O'Clock Tales",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-181",
-          "Book Name": "Scooby-Doo! Mummy Madness",
-          "Writer": "Jessy Leon"
+          "bookno": "E3-181",
+          "bookname": "Scooby-Doo! Mummy Madness",
+          "author": "Jessy Leon"
         },
         {
-          "Book No": "E3-182",
-          "Book Name": "India In Space",
-          "Writer": "Mohan Rajan"
+          "bookno": "E3-182",
+          "bookname": "India In Space",
+          "author": "Mohan Rajan"
         },
         {
-          "Book No": "E3-183",
-          "Book Name": "Bhim and Bakasura",
-          "Writer": "The Culture Company"
+          "bookno": "E3-183",
+          "bookname": "Bhim and Bakasura",
+          "author": "The Culture Company"
         },
         {
-          "Book No": "E3-184",
-          "Book Name": "Krishna and Sudama",
-          "Writer": "The Culture Company"
+          "bookno": "E3-184",
+          "bookname": "Krishna and Sudama",
+          "author": "The Culture Company"
         },
         {
-          "Book No": "E3-185",
-          "Book Name": "Tell Me Why - The Mughals",
-          "Writer": ""
+          "bookno": "E3-185",
+          "bookname": "Tell Me Why - The Mughals",
+          "author": ""
         },
         {
-          "Book No": "E3-186",
-          "Book Name": "Charlie and the Chocolate Factory",
-          "Writer": "Roald Dahl"
+          "bookno": "E3-186",
+          "bookname": "Charlie and the Chocolate Factory",
+          "author": "Roald Dahl"
         },
         {
-          "Book No": "E3-187",
-          "Book Name": "Tell Me Why - Metals",
-          "Writer": ""
+          "bookno": "E3-187",
+          "bookname": "Tell Me Why - Metals",
+          "author": ""
         },
         {
-          "Book No": "E3-188",
-          "Book Name": "Science Quest - Biology",
-          "Writer": ""
+          "bookno": "E3-188",
+          "bookname": "Science Quest - Biology",
+          "author": ""
         },
         {
-          "Book No": "E3-189",
-          "Book Name": "Chandrayaan",
-          "Writer": ""
+          "bookno": "E3-189",
+          "bookname": "Chandrayaan",
+          "author": ""
         },
         {
-          "Book No": "E3-190",
-          "Book Name": "Our Society and Noise Pollution",
-          "Writer": ""
+          "bookno": "E3-190",
+          "bookname": "Our Society and Noise Pollution",
+          "author": ""
         },
         {
-          "Book No": "E3-191",
-          "Book Name": "The Secret Seven",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-191",
+          "bookname": "The Secret Seven",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-192",
-          "Book Name": "Secret Seven Adventure",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-192",
+          "bookname": "Secret Seven Adventure",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-193",
-          "Book Name": "Well Done, Secret Seven",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-193",
+          "bookname": "Well Done, Secret Seven",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-194",
-          "Book Name": "Secret Seven On The Trail",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-194",
+          "bookname": "Secret Seven On The Trail",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-195",
-          "Book Name": "Go Ahead, Secret Seven",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-195",
+          "bookname": "Go Ahead, Secret Seven",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-196",
-          "Book Name": "Good Work, Secret Seven",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-196",
+          "bookname": "Good Work, Secret Seven",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-197",
-          "Book Name": "Secret Seven Win Through",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-197",
+          "bookname": "Secret Seven Win Through",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-198",
-          "Book Name": "Three Cheers, Secret Seven",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-198",
+          "bookname": "Three Cheers, Secret Seven",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-199",
-          "Book Name": "Secret Seven Mystery",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-199",
+          "bookname": "Secret Seven Mystery",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-200",
-          "Book Name": "Puzzle for the Secret Seven",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-200",
+          "bookname": "Puzzle for the Secret Seven",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-201",
-          "Book Name": "Secret Seven Fireworks",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-201",
+          "bookname": "Secret Seven Fireworks",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-202",
-          "Book Name": "Good Old Secret Seven",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-202",
+          "bookname": "Good Old Secret Seven",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-203",
-          "Book Name": "Shock for the Secret Seven",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-203",
+          "bookname": "Shock for the Secret Seven",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-204",
-          "Book Name": "Look out, Secret Seven",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-204",
+          "bookname": "Look out, Secret Seven",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-205",
-          "Book Name": "Fun for the Secret Seven",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-205",
+          "bookname": "Fun for the Secret Seven",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-206",
-          "Book Name": "Around the World in 80 Days",
-          "Writer": "Jules Verne"
+          "bookno": "E3-206",
+          "bookname": "Around the World in 80 Days",
+          "author": "Jules Verne"
         },
         {
-          "Book No": "E3-207",
-          "Book Name": "Kim",
-          "Writer": "Rudyard Kipling"
+          "bookno": "E3-207",
+          "bookname": "Kim",
+          "author": "Rudyard Kipling"
         },
         {
-          "Book No": "E3-208",
-          "Book Name": "175 Stories of Akbar and Birbal",
-          "Writer": "Ramesh Mudholkar"
+          "bookno": "E3-208",
+          "bookname": "175 Stories of Akbar and Birbal",
+          "author": "Ramesh Mudholkar"
         },
         {
-          "Book No": "E3-209",
-          "Book Name": "Indian Classic Tales",
-          "Writer": ""
+          "bookno": "E3-209",
+          "bookname": "Indian Classic Tales",
+          "author": ""
         },
         {
-          "Book No": "E3-210",
-          "Book Name": "Pocket Quiz General Knowledge - II",
-          "Writer": ""
+          "bookno": "E3-210",
+          "bookname": "Pocket Quiz General Knowledge - II",
+          "author": ""
         },
         {
-          "Book No": "E3-211",
-          "Book Name": "Pocket Quiz General Knowledge - III",
-          "Writer": ""
+          "bookno": "E3-211",
+          "bookname": "Pocket Quiz General Knowledge - III",
+          "author": ""
         },
         {
-          "Book No": "E3-212",
-          "Book Name": "Pocket Quiz General Knowledge - IV",
-          "Writer": ""
+          "bookno": "E3-212",
+          "bookname": "Pocket Quiz General Knowledge - IV",
+          "author": ""
         },
         {
-          "Book No": "E3-213",
-          "Book Name": "Pocket Quiz General Knowledge - V",
-          "Writer": ""
+          "bookno": "E3-213",
+          "bookname": "Pocket Quiz General Knowledge - V",
+          "author": ""
         },
         {
-          "Book No": "E3-214",
-          "Book Name": "Pocket Quiz General Knowledge - VI",
-          "Writer": ""
+          "bookno": "E3-214",
+          "bookname": "Pocket Quiz General Knowledge - VI",
+          "author": ""
         },
         {
-          "Book No": "E3-215",
-          "Book Name": "General Knowlledge Quiz",
-          "Writer": "Kumar"
+          "bookno": "E3-215",
+          "bookname": "General Knowlledge Quiz",
+          "author": "Kumar"
         },
         {
-          "Book No": "E3-216",
-          "Book Name": "General Knowlledge- Current Affairs",
-          "Writer": "Khanna and Verma"
+          "bookno": "E3-216",
+          "bookname": "General Knowlledge- Current Affairs",
+          "author": "Khanna and Verma"
         },
         {
-          "Book No": "E3-217",
-          "Book Name": "Stories from Mahabharatha",
-          "Writer": "T. V. Balsubramanian"
+          "bookno": "E3-217",
+          "bookname": "Stories from Mahabharatha",
+          "author": "T. V. Balsubramanian"
         },
         {
-          "Book No": "E3-218",
-          "Book Name": "The Happy Prince",
-          "Writer": "Oscar Wilde"
+          "bookno": "E3-218",
+          "bookname": "The Happy Prince",
+          "author": "Oscar Wilde"
         },
         {
-          "Book No": "E3-219",
-          "Book Name": "The Adventures of Tom Sawyer",
-          "Writer": "Mark Twain"
+          "bookno": "E3-219",
+          "bookname": "The Adventures of Tom Sawyer",
+          "author": "Mark Twain"
         },
         {
-          "Book No": "E3-220",
-          "Book Name": "The Famous Five: Five Go to Billycock Hill",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-220",
+          "bookname": "The Famous Five: Five Go to Billycock Hill",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-221",
-          "Book Name": "The Hardy Boys: The Mystery of Cabin Island",
-          "Writer": "Franklin W. Dixon"
+          "bookno": "E3-221",
+          "bookname": "The Hardy Boys: The Mystery of Cabin Island",
+          "author": "Franklin W. Dixon"
         },
         {
-          "Book No": "E3-222",
-          "Book Name": "Arabian Nights Stories",
-          "Writer": ""
+          "bookno": "E3-222",
+          "bookname": "Arabian Nights Stories",
+          "author": ""
         },
         {
-          "Book No": "E3-223",
-          "Book Name": "Ramayana",
-          "Writer": "C. Rajagopalachari"
+          "bookno": "E3-223",
+          "bookname": "Ramayana",
+          "author": "C. Rajagopalachari"
         },
         {
-          "Book No": "E3-224",
-          "Book Name": "Tales of Wisdom",
-          "Writer": "A. P. Talwar"
+          "bookno": "E3-224",
+          "bookname": "Tales of Wisdom",
+          "author": "A. P. Talwar"
         },
         {
-          "Book No": "E3-225",
-          "Book Name": "The Little Women",
-          "Writer": "Louisa May Alcott"
+          "bookno": "E3-225",
+          "bookname": "The Little Women",
+          "author": "Louisa May Alcott"
         },
         {
-          "Book No": "E3-226",
-          "Book Name": "Knowledge That Leads to Everlasting Life",
-          "Writer": ""
+          "bookno": "E3-226",
+          "bookname": "Knowledge That Leads to Everlasting Life",
+          "author": ""
         },
         {
-          "Book No": "E3-227",
-          "Book Name": "The Hilltop Mystery",
-          "Writer": "Deepa Agarwal"
+          "bookno": "E3-227",
+          "bookname": "The Hilltop Mystery",
+          "author": "Deepa Agarwal"
         },
         {
-          "Book No": "E3-228",
-          "Book Name": "Anne of Green Gables",
-          "Writer": "Lucy Maud Montgomery"
+          "bookno": "E3-228",
+          "bookname": "Anne of Green Gables",
+          "author": "Lucy Maud Montgomery"
         },
         {
-          "Book No": "E3-229",
-          "Book Name": "Beauty and the Beast",
-          "Writer": "Reita Sharma"
+          "bookno": "E3-229",
+          "bookname": "Beauty and the Beast",
+          "author": "Reita Sharma"
         },
         {
-          "Book No": "E3-230",
-          "Book Name": "Oliver Twist",
-          "Writer": "Charles Dickens"
+          "bookno": "E3-230",
+          "bookname": "Oliver Twist",
+          "author": "Charles Dickens"
         },
         {
-          "Book No": "E3-231",
-          "Book Name": "Five On a Treasure Island",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-231",
+          "bookname": "Five On a Treasure Island",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-232",
-          "Book Name": "Five Go Adventuring Again",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-232",
+          "bookname": "Five Go Adventuring Again",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-233",
-          "Book Name": "Five Run Away Together",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-233",
+          "bookname": "Five Run Away Together",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-234",
-          "Book Name": "Five Go to Smuglar's Top",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-234",
+          "bookname": "Five Go to Smuglar's Top",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-235",
-          "Book Name": "Five Go off in a Caravan",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-235",
+          "bookname": "Five Go off in a Caravan",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-236",
-          "Book Name": "Five On Karryn Island Again",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-236",
+          "bookname": "Five On Karryn Island Again",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-237",
-          "Book Name": "Five Go off to Camp",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-237",
+          "bookname": "Five Go off to Camp",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-238",
-          "Book Name": "Five Get into Trouble",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-238",
+          "bookname": "Five Get into Trouble",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-239",
-          "Book Name": "Five Fall into Adventure",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-239",
+          "bookname": "Five Fall into Adventure",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-240",
-          "Book Name": "Five on a Hike Together",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-240",
+          "bookname": "Five on a Hike Together",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-241",
-          "Book Name": "Five Have a Wonderful Time",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-241",
+          "bookname": "Five Have a Wonderful Time",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-242",
-          "Book Name": "Five Go Down to the Sea",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-242",
+          "bookname": "Five Go Down to the Sea",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-243",
-          "Book Name": "Five Go to Mystery Moor",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-243",
+          "bookname": "Five Go to Mystery Moor",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-244",
-          "Book Name": "Five Have Plenty of Fun",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-244",
+          "bookname": "Five Have Plenty of Fun",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-245",
-          "Book Name": "Five on a Secret Trail",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-245",
+          "bookname": "Five on a Secret Trail",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-246",
-          "Book Name": "Five Go to Billycock Hill",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-246",
+          "bookname": "Five Go to Billycock Hill",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-247",
-          "Book Name": "Five Get into a Fix",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-247",
+          "bookname": "Five Get into a Fix",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-248",
-          "Book Name": "Five on Finniston Farm",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-248",
+          "bookname": "Five on Finniston Farm",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-249",
-          "Book Name": "Five Go Demon's Rock",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-249",
+          "bookname": "Five Go Demon's Rock",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-250",
-          "Book Name": "Five Have a Mystery to Solve",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-250",
+          "bookname": "Five Have a Mystery to Solve",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-251",
-          "Book Name": "Five Are Together Again",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-251",
+          "bookname": "Five Are Together Again",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-252",
-          "Book Name": "Jataka Tales",
-          "Writer": ""
+          "bookno": "E3-252",
+          "bookname": "Jataka Tales",
+          "author": ""
         },
         {
-          "Book No": "E3-253",
-          "Book Name": "Heidi",
-          "Writer": ""
+          "bookno": "E3-253",
+          "bookname": "Heidi",
+          "author": ""
         },
         {
-          "Book No": "E3-254",
-          "Book Name": "A Tale of Two Cities",
-          "Writer": "Charles Dickens"
+          "bookno": "E3-254",
+          "bookname": "A Tale of Two Cities",
+          "author": "Charles Dickens"
         },
         {
-          "Book No": "E3-255",
-          "Book Name": "Gulliver's Travels",
-          "Writer": "Jonathan Swift"
+          "bookno": "E3-255",
+          "bookname": "Gulliver's Travels",
+          "author": "Jonathan Swift"
         },
         {
-          "Book No": "E3-256",
-          "Book Name": "Charlie and the Great Glass Elevator",
-          "Writer": "Roald Dahl"
+          "bookno": "E3-256",
+          "bookname": "Charlie and the Great Glass Elevator",
+          "author": "Roald Dahl"
         },
         {
-          "Book No": "E3-257",
-          "Book Name": "Great Stories For Children",
-          "Writer": "Ruskin Bond"
+          "bookno": "E3-257",
+          "bookname": "Great Stories For Children",
+          "author": "Ruskin Bond"
         },
         {
-          "Book No": "E3-258",
-          "Book Name": "The Jungle Book",
-          "Writer": "Rudyard Kipling"
+          "bookno": "E3-258",
+          "bookname": "The Jungle Book",
+          "author": "Rudyard Kipling"
         },
         {
-          "Book No": "E3-259",
-          "Book Name": "The BFG",
-          "Writer": "Roald Dahl"
+          "bookno": "E3-259",
+          "bookname": "The BFG",
+          "author": "Roald Dahl"
         },
         {
-          "Book No": "E3-260",
-          "Book Name": "Children's Omnibus",
-          "Writer": "Ruskin Bond"
+          "bookno": "E3-260",
+          "bookname": "Children's Omnibus",
+          "author": "Ruskin Bond"
         },
         {
-          "Book No": "E3-261",
-          "Book Name": "Amazing Spiderman",
-          "Writer": ""
+          "bookno": "E3-261",
+          "bookname": "Amazing Spiderman",
+          "author": ""
         },
         {
-          "Book No": "E3-262",
-          "Book Name": "Peter Pan",
-          "Writer": "J M Barrie"
+          "bookno": "E3-262",
+          "bookname": "Peter Pan",
+          "author": "J M Barrie"
         },
         {
-          "Book No": "E3-263",
-          "Book Name": "Strange Umbrella",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-263",
+          "bookname": "Strange Umbrella",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-264",
-          "Book Name": "Jataka Tales",
-          "Writer": "Lalitha Shetty"
+          "bookno": "E3-264",
+          "bookname": "Jataka Tales",
+          "author": "Lalitha Shetty"
         },
         {
-          "Book No": "E3-265",
-          "Book Name": "The Last Advanture of Sherlock Holmes",
-          "Writer": "Sir Arthur Conan Doyle"
+          "bookno": "E3-265",
+          "bookname": "The Last Advanture of Sherlock Holmes",
+          "author": "Sir Arthur Conan Doyle"
         },
         {
-          "Book No": "E3-266",
-          "Book Name": "Planet Earth",
-          "Writer": ""
+          "bookno": "E3-266",
+          "bookname": "Planet Earth",
+          "author": ""
         },
         {
-          "Book No": "E3-267",
-          "Book Name": "Kim",
-          "Writer": "Rudyard Kipling"
+          "bookno": "E3-267",
+          "bookname": "Kim",
+          "author": "Rudyard Kipling"
         },
         {
-          "Book No": "E3-268",
-          "Book Name": "Vedic Mathematics for School",
-          "Writer": "J. T. Glover"
+          "bookno": "E3-268",
+          "bookname": "Vedic Mathematics for School",
+          "author": "J. T. Glover"
         },
         {
-          "Book No": "E3-269",
-          "Book Name": "Five Have a Wonderful Time",
-          "Writer": ""
+          "bookno": "E3-269",
+          "bookname": "Five Have a Wonderful Time",
+          "author": ""
         },
         {
-          "Book No": "E3-270",
-          "Book Name": "The Milkmaid and Flippi the Doggie Angel",
-          "Writer": ""
+          "bookno": "E3-270",
+          "bookname": "The Milkmaid and Flippi the Doggie Angel",
+          "author": ""
         },
         {
-          "Book No": "E3-271",
-          "Book Name": "Japanese Fairy Tales",
-          "Writer": "Lafcadio Hearn"
+          "bookno": "E3-271",
+          "bookname": "Japanese Fairy Tales",
+          "author": "Lafcadio Hearn"
         },
         {
-          "Book No": "E3-272",
-          "Book Name": "Wright Bothers, Marie Curie, Albert EinStein",
-          "Writer": ""
+          "bookno": "E3-272",
+          "bookname": "Wright Bothers, Marie Curie, Albert EinStein",
+          "author": ""
         },
         {
-          "Book No": "E3-273",
-          "Book Name": "Thomas Alva Edison, Isaac Newton, Archimedes",
-          "Writer": ""
+          "bookno": "E3-273",
+          "bookname": "Thomas Alva Edison, Isaac Newton, Archimedes",
+          "author": ""
         },
         {
-          "Book No": "E3-274",
-          "Book Name": "Leonardo Da Vinci, Alfred Nobel, Charles Darwin",
-          "Writer": ""
+          "bookno": "E3-274",
+          "bookname": "Leonardo Da Vinci, Alfred Nobel, Charles Darwin",
+          "author": ""
         },
         {
-          "Book No": "E3-275",
-          "Book Name": "Galileo Galilei, Louis Pasteur, Edward Jenner",
-          "Writer": ""
+          "bookno": "E3-275",
+          "bookname": "Galileo Galilei, Louis Pasteur, Edward Jenner",
+          "author": ""
         },
         {
-          "Book No": "E3-276",
-          "Book Name": "Chota Bheem: The Sword, Chocolate World",
-          "Writer": ""
+          "bookno": "E3-276",
+          "bookname": "Chota Bheem: The Sword, Chocolate World",
+          "author": ""
         },
         {
-          "Book No": "E3-277",
-          "Book Name": "Birbal, the Wise",
-          "Writer": ""
+          "bookno": "E3-277",
+          "bookname": "Birbal, the Wise",
+          "author": ""
         },
         {
-          "Book No": "E3-278",
-          "Book Name": "Magical World of Reading",
-          "Writer": ""
+          "bookno": "E3-278",
+          "bookname": "Magical World of Reading",
+          "author": ""
         },
         {
-          "Book No": "E3-279",
-          "Book Name": "Kama vs Yama",
-          "Writer": "Devdutta Pattnaik"
+          "bookno": "E3-279",
+          "bookname": "Kama vs Yama",
+          "author": "Devdutta Pattnaik"
         },
         {
-          "Book No": "E3-280",
-          "Book Name": "The Cat and the Bird in the Hat",
-          "Writer": "Norman Bridwell"
+          "bookno": "E3-280",
+          "bookname": "The Cat and the Bird in the Hat",
+          "author": "Norman Bridwell"
         },
         {
-          "Book No": "E3-281",
-          "Book Name": "I Shop with My Daddy",
-          "Writer": ""
+          "bookno": "E3-281",
+          "bookname": "I Shop with My Daddy",
+          "author": ""
         },
         {
-          "Book No": "E3-282",
-          "Book Name": "Earth",
-          "Writer": ""
+          "bookno": "E3-282",
+          "bookname": "Earth",
+          "author": ""
         },
         {
-          "Book No": "E3-283",
-          "Book Name": "Math Tricks, Puzzles",
-          "Writer": ""
+          "bookno": "E3-283",
+          "bookname": "Math Tricks, Puzzles",
+          "author": ""
         },
         {
-          "Book No": "E3-284",
-          "Book Name": "Little Ballu and Pussy Cat",
-          "Writer": ""
+          "bookno": "E3-284",
+          "bookname": "Little Ballu and Pussy Cat",
+          "author": ""
         },
         {
-          "Book No": "E3-285",
-          "Book Name": "The Happy Prince",
-          "Writer": "Kate Gladden"
+          "bookno": "E3-285",
+          "bookname": "The Happy Prince",
+          "author": "Kate Gladden"
         },
         {
-          "Book No": "E3-286",
-          "Book Name": "The Coming of Wheels",
-          "Writer": "Anup Ray"
+          "bookno": "E3-286",
+          "bookname": "The Coming of Wheels",
+          "author": "Anup Ray"
         },
         {
-          "Book No": "E3-287",
-          "Book Name": "100 Facts on Mammals",
-          "Writer": ""
+          "bookno": "E3-287",
+          "bookname": "100 Facts on Mammals",
+          "author": ""
         },
         {
-          "Book No": "E3-288",
-          "Book Name": "Jataka Tales",
-          "Writer": "Lalitha Shetty"
+          "bookno": "E3-288",
+          "bookname": "Jataka Tales",
+          "author": "Lalitha Shetty"
         },
         {
-          "Book No": "E3-289",
-          "Book Name": "The Tales of Hitopadesh",
-          "Writer": "Jayashree Venugopal"
+          "bookno": "E3-289",
+          "bookname": "The Tales of Hitopadesh",
+          "author": "Jayashree Venugopal"
         },
         {
-          "Book No": "E3-290",
-          "Book Name": "Stories from Pramchand",
-          "Writer": ""
+          "bookno": "E3-290",
+          "bookname": "Stories from Pramchand",
+          "author": ""
         },
         {
-          "Book No": "E3-291",
-          "Book Name": "Tales of Besty-May",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-291",
+          "bookname": "Tales of Besty-May",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-292",
-          "Book Name": "The Ring O'Bells Mystery",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-292",
+          "bookname": "The Ring O'Bells Mystery",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-293",
-          "Book Name": "Repley's Believe it or not",
-          "Writer": ""
+          "bookno": "E3-293",
+          "bookname": "Repley's Believe it or not",
+          "author": ""
         },
         {
-          "Book No": "E3-294",
-          "Book Name": "Whitaker's world of Facts",
-          "Writer": "Russe Ash"
+          "bookno": "E3-294",
+          "bookname": "Whitaker's world of Facts",
+          "author": "Russe Ash"
         },
         {
-          "Book No": "E3-295",
-          "Book Name": "Know about science: Light and Colour",
-          "Writer": ""
+          "bookno": "E3-295",
+          "bookname": "Know about science: Light and Colour",
+          "author": ""
         },
         {
-          "Book No": "E3-296",
-          "Book Name": "Vikram and Betal stories",
-          "Writer": "Ramesh Jaiswal"
+          "bookno": "E3-296",
+          "bookname": "Vikram and Betal stories",
+          "author": "Ramesh Jaiswal"
         },
         {
-          "Book No": "E3-297",
-          "Book Name": "fun for the Secret Seven",
-          "Writer": ""
+          "bookno": "E3-297",
+          "bookname": "fun for the Secret Seven",
+          "author": ""
         },
         {
-          "Book No": "E3-298",
-          "Book Name": "101 Moral Stories",
-          "Writer": "Marina Andrade"
+          "bookno": "E3-298",
+          "bookname": "101 Moral Stories",
+          "author": "Marina Andrade"
         },
         {
-          "Book No": "E3-299",
-          "Book Name": "The Hardy Boys: Fear on wheels",
-          "Writer": "Franklin W. Dixon"
+          "bookno": "E3-299",
+          "bookname": "The Hardy Boys: Fear on wheels",
+          "author": "Franklin W. Dixon"
         },
         {
-          "Book No": "E3-300",
-          "Book Name": "Hero of Washington Square",
-          "Writer": "Rose Estes"
+          "bookno": "E3-300",
+          "bookname": "Hero of Washington Square",
+          "author": "Rose Estes"
         },
         {
-          "Book No": "E3-301",
-          "Book Name": "Revenge of the Rainbow Dragon",
-          "Writer": "Rose Estes"
+          "bookno": "E3-301",
+          "bookname": "Revenge of the Rainbow Dragon",
+          "author": "Rose Estes"
         },
         {
-          "Book No": "E3-302",
-          "Book Name": "101 Ways to boost your science skills",
-          "Writer": "Robert Hirschfeld"
+          "bookno": "E3-302",
+          "bookname": "101 Ways to boost your science skills",
+          "author": "Robert Hirschfeld"
         },
         {
-          "Book No": "E3-303",
-          "Book Name": "The Twelve Dancing Princesses",
-          "Writer": "Ellen Miles"
+          "bookno": "E3-303",
+          "bookname": "The Twelve Dancing Princesses",
+          "author": "Ellen Miles"
         },
         {
-          "Book No": "E3-304",
-          "Book Name": "Stiories from Mythology",
-          "Writer": "Swapna Dutta"
+          "bookno": "E3-304",
+          "bookname": "Stiories from Mythology",
+          "author": "Swapna Dutta"
         },
         {
-          "Book No": "E3-305",
-          "Book Name": "Jataka Tales",
-          "Writer": "Varsha Das"
+          "bookno": "E3-305",
+          "bookname": "Jataka Tales",
+          "author": "Varsha Das"
         },
         {
-          "Book No": "E3-306",
-          "Book Name": "The Naughtiest Girl in the School",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-306",
+          "bookname": "The Naughtiest Girl in the School",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-307",
-          "Book Name": "Mystery Of The Friday Ghost",
-          "Writer": "Mathew Panamkat"
+          "bookno": "E3-307",
+          "bookname": "Mystery Of The Friday Ghost",
+          "author": "Mathew Panamkat"
         },
         {
-          "Book No": "E3-308",
-          "Book Name": "The Mystry of Dead Man's Riddle",
-          "Writer": "William Arden"
+          "bookno": "E3-308",
+          "bookname": "The Mystry of Dead Man's Riddle",
+          "author": "William Arden"
         },
         {
-          "Book No": "E3-309",
-          "Book Name": "Jataka Tales",
-          "Writer": ""
+          "bookno": "E3-309",
+          "bookname": "Jataka Tales",
+          "author": ""
         },
         {
-          "Book No": "E3-310",
-          "Book Name": "The Naughtiest Girl is a Monitor",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-310",
+          "bookname": "The Naughtiest Girl is a Monitor",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-311",
-          "Book Name": "Well Done, the Naughiest Girl",
-          "Writer": "Enid Blyton"
+          "bookno": "E3-311",
+          "bookname": "Well Done, the Naughiest Girl",
+          "author": "Enid Blyton"
         },
         {
-          "Book No": "E3-312",
-          "Book Name": "Tales from Jataka",
-          "Writer": "Shyam Dau"
+          "bookno": "E3-312",
+          "bookname": "Tales from Jataka",
+          "author": "Shyam Dau"
         },
         {
-          "Book No": "E3-313",
-          "Book Name": "Light on Quests Mountain",
-          "Writer": "Mary L Kirchoff"
+          "bookno": "E3-313",
+          "bookname": "Light on Quests Mountain",
+          "author": "Mary L Kirchoff"
         },
         {
-          "Book No": "E3-314",
-          "Book Name": "Selected Folk Tales Of India",
-          "Writer": "J.C. joshi"
+          "bookno": "E3-314",
+          "bookname": "Selected Folk Tales Of India",
+          "author": "J.C. joshi"
         },
         {
-          "Book No": "E3-315",
-          "Book Name": "The Adventures of Huckleberry Finn",
-          "Writer": "Mark Twain"
+          "bookno": "E3-315",
+          "bookname": "The Adventures of Huckleberry Finn",
+          "author": "Mark Twain"
         },
         {
-          "Book No": "E3-316",
-          "Book Name": "Selected Stories form Panchatantra",
-          "Writer": "Rashmi Jaiswal"
+          "bookno": "E3-316",
+          "bookname": "Selected Stories form Panchatantra",
+          "author": "Rashmi Jaiswal"
         },
         {
-          "Book No": "E3-317",
-          "Book Name": "Deltora Quest The Forest of Silence",
-          "Writer": "Emily Rodda"
+          "bookno": "E3-317",
+          "bookname": "Deltora Quest The Forest of Silence",
+          "author": "Emily Rodda"
         },
         {
-          "Book No": "E3-318",
-          "Book Name": "Dear Father",
-          "Writer": "Bhabendranath Saikai"
+          "bookno": "E3-318",
+          "bookname": "Dear Father",
+          "author": "Bhabendranath Saikai"
         },
         {
-          "Book No": "E3-319",
-          "Book Name": "Where did dinosaurs go?",
-          "Writer": "Mike Unwin"
+          "bookno": "E3-319",
+          "bookname": "Where did dinosaurs go?",
+          "author": "Mike Unwin"
         },
         {
-          "Book No": "E3-320",
-          "Book Name": "Chacha Chaudhari rakka's game",
-          "Writer": ""
+          "bookno": "E3-320",
+          "bookname": "Chacha Chaudhari rakka's game",
+          "author": ""
         },
         {
-          "Book No": "E3-321",
-          "Book Name": "Tales of Modern Jungle",
-          "Writer": "Dilip M. Salwi"
+          "bookno": "E3-321",
+          "bookname": "Tales of Modern Jungle",
+          "author": "Dilip M. Salwi"
         },
         {
-          "Book No": "E3-322",
-          "Book Name": "The Starry Sky",
-          "Writer": "Patrick Moore"
+          "bookno": "E3-322",
+          "bookname": "The Starry Sky",
+          "author": "Patrick Moore"
         },
         {
-          "Book No": "E3-323",
-          "Book Name": "101 Ways to boost your math skills",
-          "Writer": "Susan Shafer"
+          "bookno": "E3-323",
+          "bookname": "101 Ways to boost your math skills",
+          "author": "Susan Shafer"
         },
         {
-          "Book No": "E4-001",
-          "Book Name": "Not Without My Daughter",
-          "Writer": "Betty MahMoody"
+          "bookno": "E4-001",
+          "bookname": "Not Without My Daughter",
+          "author": "Betty MahMoody"
         },
         {
-          "Book No": "E4-002",
-          "Book Name": "Calvin and Hobbes",
-          "Writer": "Bill Waterson"
+          "bookno": "E4-002",
+          "bookname": "Calvin and Hobbes",
+          "author": "Bill Waterson"
         },
         {
-          "Book No": "E4-003",
-          "Book Name": "Summer and the City",
-          "Writer": "Carrie Diaries"
+          "bookno": "E4-003",
+          "bookname": "Summer and the City",
+          "author": "Carrie Diaries"
         },
         {
-          "Book No": "E4-004",
-          "Book Name": "What Young India Wants",
-          "Writer": "Chetan Bhagat"
+          "bookno": "E4-004",
+          "bookname": "What Young India Wants",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "E4-005",
-          "Book Name": "Red Crystals",
-          "Writer": "Clare Francis"
+          "bookno": "E4-005",
+          "bookname": "Red Crystals",
+          "author": "Clare Francis"
         },
         {
-          "Book No": "E4-006",
-          "Book Name": "Three Shakespear Tragedies",
-          "Writer": "E.F. Dodd"
+          "bookno": "E4-006",
+          "bookname": "Three Shakespear Tragedies",
+          "author": "E.F. Dodd"
         },
         {
-          "Book No": "E4-007",
-          "Book Name": "Committed",
-          "Writer": "Elizabeth Gilbert"
+          "bookno": "E4-007",
+          "bookname": "Committed",
+          "author": "Elizabeth Gilbert"
         },
         {
-          "Book No": "E4-008",
-          "Book Name": "Shall We Tell the President?",
-          "Writer": "Jeffrey Archer"
+          "bookno": "E4-008",
+          "bookname": "Shall We Tell the President?",
+          "author": "Jeffrey Archer"
         },
         {
-          "Book No": "E4-009",
-          "Book Name": "The Black Swan",
-          "Writer": "Nassim Nicholas Taleb"
+          "bookno": "E4-009",
+          "bookname": "The Black Swan",
+          "author": "Nassim Nicholas Taleb"
         },
         {
-          "Book No": "E4-010",
-          "Book Name": "Dear John",
-          "Writer": "Nicholas Sparks"
+          "bookno": "E4-010",
+          "bookname": "Dear John",
+          "author": "Nicholas Sparks"
         },
         {
-          "Book No": "E4-011",
-          "Book Name": "The Notebook",
-          "Writer": "Nicholas Sparks"
+          "bookno": "E4-011",
+          "bookname": "The Notebook",
+          "author": "Nicholas Sparks"
         },
         {
-          "Book No": "E4-012",
-          "Book Name": "A Walk to Remember",
-          "Writer": "Nicholas Sparks"
+          "bookno": "E4-012",
+          "bookname": "A Walk to Remember",
+          "author": "Nicholas Sparks"
         },
         {
-          "Book No": "E4-013",
-          "Book Name": "Safe Heaven",
-          "Writer": "Nicholas Sparks"
+          "bookno": "E4-013",
+          "bookname": "Safe Heaven",
+          "author": "Nicholas Sparks"
         },
         {
-          "Book No": "E4-014",
-          "Book Name": "The Lucky One",
-          "Writer": "Nicholas Sparks"
+          "bookno": "E4-014",
+          "bookname": "The Lucky One",
+          "author": "Nicholas Sparks"
         },
         {
-          "Book No": "E4-015",
-          "Book Name": "Nights in Rodanthe",
-          "Writer": "Nicholas Sparks"
+          "bookno": "E4-015",
+          "bookname": "Nights in Rodanthe",
+          "author": "Nicholas Sparks"
         },
         {
-          "Book No": "E4-016",
-          "Book Name": "Accidently in Love",
-          "Writer": "Nikita Singh"
+          "bookno": "E4-016",
+          "bookname": "Accidently in Love",
+          "author": "Nikita Singh"
         },
         {
-          "Book No": "E4-017",
-          "Book Name": "Life is What You Make it",
-          "Writer": "Preeti Shenoy"
+          "bookno": "E4-017",
+          "bookname": "Life is What You Make it",
+          "author": "Preeti Shenoy"
         },
         {
-          "Book No": "E4-018",
-          "Book Name": "That’s the Life Baby",
-          "Writer": "Priyesh Rajan"
+          "bookno": "E4-018",
+          "bookname": "That’s the Life Baby",
+          "author": "Priyesh Rajan"
         },
         {
-          "Book No": "E4-019",
-          "Book Name": "Can Love Happen Twice?",
-          "Writer": "Ravinder Singh"
+          "bookno": "E4-019",
+          "bookname": "Can Love Happen Twice?",
+          "author": "Ravinder Singh"
         },
         {
-          "Book No": "E4-020",
-          "Book Name": "That Thing Called Love",
-          "Writer": "Tuhin Sinha"
+          "bookno": "E4-020",
+          "bookname": "That Thing Called Love",
+          "author": "Tuhin Sinha"
         },
         {
-          "Book No": "E4-021",
-          "Book Name": "Anything for You Ma'am",
-          "Writer": "Tushar Raheja"
+          "bookno": "E4-021",
+          "bookname": "Anything for You Ma'am",
+          "author": "Tushar Raheja"
         },
         {
-          "Book No": "E4-022",
-          "Book Name": "Emma",
-          "Writer": "Jane Austen"
+          "bookno": "E4-022",
+          "bookname": "Emma",
+          "author": "Jane Austen"
         },
         {
-          "Book No": "E4-023",
-          "Book Name": "Journey to the Centre of the Earth",
-          "Writer": "Jules Verne"
+          "bookno": "E4-023",
+          "bookname": "Journey to the Centre of the Earth",
+          "author": "Jules Verne"
         },
         {
-          "Book No": "E4-024",
-          "Book Name": "Misery",
-          "Writer": "Stephen King"
+          "bookno": "E4-024",
+          "bookname": "Misery",
+          "author": "Stephen King"
         },
         {
-          "Book No": "E4-025",
-          "Book Name": "Hannibal",
-          "Writer": "Thomas Harris"
+          "bookno": "E4-025",
+          "bookname": "Hannibal",
+          "author": "Thomas Harris"
         },
         {
-          "Book No": "E4-026",
-          "Book Name": "The Secret Garden",
-          "Writer": "Frances Hodgson"
+          "bookno": "E4-026",
+          "bookname": "The Secret Garden",
+          "author": "Frances Hodgson"
         },
         {
-          "Book No": "E4-027",
-          "Book Name": "Pride and Prejudice",
-          "Writer": "Jane Austen"
+          "bookno": "E4-027",
+          "bookname": "Pride and Prejudice",
+          "author": "Jane Austen"
         },
         {
-          "Book No": "E4-028",
-          "Book Name": "Great Expectations",
-          "Writer": "Charles Dickens"
+          "bookno": "E4-028",
+          "bookname": "Great Expectations",
+          "author": "Charles Dickens"
         },
         {
-          "Book No": "E4-029",
-          "Book Name": "Schindler's Ark",
-          "Writer": "Thomas Keneally"
+          "bookno": "E4-029",
+          "bookname": "Schindler's Ark",
+          "author": "Thomas Keneally"
         },
         {
-          "Book No": "E4-030",
-          "Book Name": "The Matlock Paper",
-          "Writer": "Robert Ludlum"
+          "bookno": "E4-030",
+          "bookname": "The Matlock Paper",
+          "author": "Robert Ludlum"
         },
         {
-          "Book No": "E4-031",
-          "Book Name": "The Storyteller",
-          "Writer": "Harold Robbins"
+          "bookno": "E4-031",
+          "bookname": "The Storyteller",
+          "author": "Harold Robbins"
         },
         {
-          "Book No": "E4-032",
-          "Book Name": "Book of the Dead",
-          "Writer": "Patricia Cornwell"
+          "bookno": "E4-032",
+          "bookname": "Book of the Dead",
+          "author": "Patricia Cornwell"
         },
         {
-          "Book No": "E4-033",
-          "Book Name": "Atonement",
-          "Writer": "Ian McEwan"
+          "bookno": "E4-033",
+          "bookname": "Atonement",
+          "author": "Ian McEwan"
         },
         {
-          "Book No": "E4-034",
-          "Book Name": "Silence of the Lambs & Red Dragon",
-          "Writer": "Thomas Harris"
+          "bookno": "E4-034",
+          "bookname": "Silence of the Lambs & Red Dragon",
+          "author": "Thomas Harris"
         },
         {
-          "Book No": "E4-035",
-          "Book Name": "Les Miseables - 2",
-          "Writer": "Victor Hugo"
+          "bookno": "E4-035",
+          "bookname": "Les Miseables - 2",
+          "author": "Victor Hugo"
         },
         {
-          "Book No": "E4-036",
-          "Book Name": "The Giant Book of Ghost Stories",
-          "Writer": "Ed: Richard Dalby"
+          "bookno": "E4-036",
+          "bookname": "The Giant Book of Ghost Stories",
+          "author": "Ed: Richard Dalby"
         },
         {
-          "Book No": "E4-037",
-          "Book Name": "Cloak and Dagger",
-          "Writer": "Ed: Bill Pronzini"
+          "bookno": "E4-037",
+          "bookname": "Cloak and Dagger",
+          "author": "Ed: Bill Pronzini"
         },
         {
-          "Book No": "E4-038",
-          "Book Name": "The Lost World",
-          "Writer": "Michael Crichton"
+          "bookno": "E4-038",
+          "bookname": "The Lost World",
+          "author": "Michael Crichton"
         },
         {
-          "Book No": "E4-039",
-          "Book Name": "The Scientific Indian",
-          "Writer": "A. P. J. Abdul Kalam"
+          "bookno": "E4-039",
+          "bookname": "The Scientific Indian",
+          "author": "A. P. J. Abdul Kalam"
         },
         {
-          "Book No": "E4-040",
-          "Book Name": "The Caller",
-          "Writer": "Alex Barclay"
+          "bookno": "E4-040",
+          "bookname": "The Caller",
+          "author": "Alex Barclay"
         },
         {
-          "Book No": "E4-041",
-          "Book Name": "Of Course I Love You..!",
-          "Writer": "Durjoy Datta, Maanvi Ahuja"
+          "bookno": "E4-041",
+          "bookname": "Of Course I Love You..!",
+          "author": "Durjoy Datta, Maanvi Ahuja"
         },
         {
-          "Book No": "E4-042",
-          "Book Name": "The Man with Two Left Feet",
-          "Writer": "P. G. Wodehouse"
+          "bookno": "E4-042",
+          "bookname": "The Man with Two Left Feet",
+          "author": "P. G. Wodehouse"
         },
         {
-          "Book No": "E4-043",
-          "Book Name": "The City of Joy",
-          "Writer": "Dominique Lapierre"
+          "bookno": "E4-043",
+          "bookname": "The City of Joy",
+          "author": "Dominique Lapierre"
         },
         {
-          "Book No": "E4-044",
-          "Book Name": "Broca's Brain",
-          "Writer": "Carl Sagan"
+          "bookno": "E4-044",
+          "bookname": "Broca's Brain",
+          "author": "Carl Sagan"
         },
         {
-          "Book No": "E4-045",
-          "Book Name": "Impossible Things",
-          "Writer": "Connie Willis"
+          "bookno": "E4-045",
+          "bookname": "Impossible Things",
+          "author": "Connie Willis"
         },
         {
-          "Book No": "E4-046",
-          "Book Name": "Selected Stories",
-          "Writer": "Maxim Gorky"
+          "bookno": "E4-046",
+          "bookname": "Selected Stories",
+          "author": "Maxim Gorky"
         },
         {
-          "Book No": "E4-047",
-          "Book Name": "Gone with the Wind",
-          "Writer": "Margaret Mitchell's"
+          "bookno": "E4-047",
+          "bookname": "Gone with the Wind",
+          "author": "Margaret Mitchell's"
         },
         {
-          "Book No": "E4-048",
-          "Book Name": "A Mysterious Intruder",
-          "Writer": "Jaya Paramsivan"
+          "bookno": "E4-048",
+          "bookname": "A Mysterious Intruder",
+          "author": "Jaya Paramsivan"
         },
         {
-          "Book No": "E4-049",
-          "Book Name": "Ten Best Books",
-          "Writer": ""
+          "bookno": "E4-049",
+          "bookname": "Ten Best Books",
+          "author": ""
         },
         {
-          "Book No": "E4-050",
-          "Book Name": "The Alchemist",
-          "Writer": "Paulo Coelho"
+          "bookno": "E4-050",
+          "bookname": "The Alchemist",
+          "author": "Paulo Coelho"
         },
         {
-          "Book No": "E4-051",
-          "Book Name": "4 Condensed Books",
-          "Writer": ""
+          "bookno": "E4-051",
+          "bookname": "4 Condensed Books",
+          "author": ""
         },
         {
-          "Book No": "E4-052",
-          "Book Name": "Foundation's Edge",
-          "Writer": "Isaac Asimov"
+          "bookno": "E4-052",
+          "bookname": "Foundation's Edge",
+          "author": "Isaac Asimov"
         },
         {
-          "Book No": "E4-053",
-          "Book Name": "The Best of Laxman",
-          "Writer": "R. K. Laxman"
+          "bookno": "E4-053",
+          "bookname": "The Best of Laxman",
+          "author": "R. K. Laxman"
         },
         {
-          "Book No": "E4-054",
-          "Book Name": "Reader's Digest Condensed Books",
-          "Writer": ""
+          "bookno": "E4-054",
+          "bookname": "Reader's Digest Condensed Books",
+          "author": ""
         },
         {
-          "Book No": "E4-055",
-          "Book Name": "Aleta and the Queen",
-          "Writer": "Pricilla Galloway"
+          "bookno": "E4-055",
+          "bookname": "Aleta and the Queen",
+          "author": "Pricilla Galloway"
         },
         {
-          "Book No": "E4-056",
-          "Book Name": "Hanna's Suitcase",
-          "Writer": "Karen Levine"
+          "bookno": "E4-056",
+          "bookname": "Hanna's Suitcase",
+          "author": "Karen Levine"
         },
         {
-          "Book No": "E4-057",
-          "Book Name": "The Monkey Wrench Gang",
-          "Writer": "Edward Abbey"
+          "bookno": "E4-057",
+          "bookname": "The Monkey Wrench Gang",
+          "author": "Edward Abbey"
         },
         {
-          "Book No": "E4-058",
-          "Book Name": "Andromeda",
-          "Writer": "Ivan Yefremov"
+          "bookno": "E4-058",
+          "bookname": "Andromeda",
+          "author": "Ivan Yefremov"
         },
         {
-          "Book No": "E4-059",
-          "Book Name": "Triple",
-          "Writer": "Ken  Follet"
+          "bookno": "E4-059",
+          "bookname": "Triple",
+          "author": "Ken  Follet"
         },
         {
-          "Book No": "E4-060",
-          "Book Name": "Making the Most of Your Life",
-          "Writer": ""
+          "bookno": "E4-060",
+          "bookname": "Making the Most of Your Life",
+          "author": ""
         },
         {
-          "Book No": "E4-061",
-          "Book Name": "Murder on the Orient Express",
-          "Writer": "Agatha Christie"
+          "bookno": "E4-061",
+          "bookname": "Murder on the Orient Express",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "E4-062",
-          "Book Name": "Wicked Women of the Raj",
-          "Writer": "Carolie Younger"
+          "bookno": "E4-062",
+          "bookname": "Wicked Women of the Raj",
+          "author": "Carolie Younger"
         },
         {
-          "Book No": "E4-063",
-          "Book Name": "Book of New Indian Fiction",
-          "Writer": "Khushwant Singh (Edited)"
+          "bookno": "E4-063",
+          "bookname": "Book of New Indian Fiction",
+          "author": "Khushwant Singh (Edited)"
         },
         {
-          "Book No": "E4-064",
-          "Book Name": "The Matarese Countdown",
-          "Writer": "Robert Ludlum"
+          "bookno": "E4-064",
+          "bookname": "The Matarese Countdown",
+          "author": "Robert Ludlum"
         },
         {
-          "Book No": "E4-065",
-          "Book Name": "2 States",
-          "Writer": "Chetan Bhagat"
+          "bookno": "E4-065",
+          "bookname": "2 States",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "E4-066",
-          "Book Name": "One Night @ the Call Center",
-          "Writer": "Chetan Bhagat"
+          "bookno": "E4-066",
+          "bookname": "One Night @ the Call Center",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "E4-067",
-          "Book Name": "Five Point Someone",
-          "Writer": "Chetan Bhagat"
+          "bookno": "E4-067",
+          "bookname": "Five Point Someone",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "E4-068",
-          "Book Name": "The 3 Mistakes of My Life",
-          "Writer": "Chetan Bhagat"
+          "bookno": "E4-068",
+          "bookname": "The 3 Mistakes of My Life",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "E4-069",
-          "Book Name": "Revolution 2020",
-          "Writer": "Chetan Bhagat"
+          "bookno": "E4-069",
+          "bookname": "Revolution 2020",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "E4-070",
-          "Book Name": "What Young India Wants",
-          "Writer": "Chetan Bhagat"
+          "bookno": "E4-070",
+          "bookname": "What Young India Wants",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "E4-071",
-          "Book Name": "Angel of the Dark",
-          "Writer": "Sidney Sheldon"
+          "bookno": "E4-071",
+          "bookname": "Angel of the Dark",
+          "author": "Sidney Sheldon"
         },
         {
-          "Book No": "E4-072",
-          "Book Name": "Morning, Noon & Night",
-          "Writer": "Sidney Sheldon"
+          "bookno": "E4-072",
+          "bookname": "Morning, Noon & Night",
+          "author": "Sidney Sheldon"
         },
         {
-          "Book No": "E4-073",
-          "Book Name": "After The Darkness",
-          "Writer": "Sidney Sheldon"
+          "bookno": "E4-073",
+          "bookname": "After The Darkness",
+          "author": "Sidney Sheldon"
         },
         {
-          "Book No": "E4-074",
-          "Book Name": "Mistress Of The Game",
-          "Writer": "Sidney Sheldon"
+          "bookno": "E4-074",
+          "bookname": "Mistress Of The Game",
+          "author": "Sidney Sheldon"
         },
         {
-          "Book No": "E4-075",
-          "Book Name": "Angels & Demons",
-          "Writer": "Dan Brown"
+          "bookno": "E4-075",
+          "bookname": "Angels & Demons",
+          "author": "Dan Brown"
         },
         {
-          "Book No": "E4-076",
-          "Book Name": "The Lost Symbol",
-          "Writer": "Dan Brown"
+          "bookno": "E4-076",
+          "bookname": "The Lost Symbol",
+          "author": "Dan Brown"
         },
         {
-          "Book No": "E4-077",
-          "Book Name": "Sherlock Holmes Volume One",
-          "Writer": "Sir Arthur Conan Doyle"
+          "bookno": "E4-077",
+          "bookname": "Sherlock Holmes Volume One",
+          "author": "Sir Arthur Conan Doyle"
         },
         {
-          "Book No": "E4-078",
-          "Book Name": "Sherlock Holmes Volume Two",
-          "Writer": "Sir Arthur Conan Doyle"
+          "bookno": "E4-078",
+          "bookname": "Sherlock Holmes Volume Two",
+          "author": "Sir Arthur Conan Doyle"
         },
         {
-          "Book No": "E4-079",
-          "Book Name": "The Second Lady",
-          "Writer": "Irving Vallace"
+          "bookno": "E4-079",
+          "bookname": "The Second Lady",
+          "author": "Irving Vallace"
         },
         {
-          "Book No": "E4-080",
-          "Book Name": "The Raiders",
-          "Writer": "Harold Robbins"
+          "bookno": "E4-080",
+          "bookname": "The Raiders",
+          "author": "Harold Robbins"
         },
         {
-          "Book No": "E4-081",
-          "Book Name": "The 3 Mistakes of My Life",
-          "Writer": "Chetan Bhagat"
+          "bookno": "E4-081",
+          "bookname": "The 3 Mistakes of My Life",
+          "author": "Chetan Bhagat"
         },
         {
-          "Book No": "E4-082",
-          "Book Name": "The Best of Ruskin Bond",
-          "Writer": "Ruskin Bond"
+          "bookno": "E4-082",
+          "bookname": "The Best of Ruskin Bond",
+          "author": "Ruskin Bond"
         },
         {
-          "Book No": "E4-083",
-          "Book Name": "Mother",
-          "Writer": "Maxim Gorky"
+          "bookno": "E4-083",
+          "bookname": "Mother",
+          "author": "Maxim Gorky"
         },
         {
-          "Book No": "E4-084",
-          "Book Name": "Everest",
-          "Writer": "Gordon Korman"
+          "bookno": "E4-084",
+          "bookname": "Everest",
+          "author": "Gordon Korman"
         },
         {
-          "Book No": "E4-085",
-          "Book Name": "Broken Symmetries",
-          "Writer": "Paul Preuss"
+          "bookno": "E4-085",
+          "bookname": "Broken Symmetries",
+          "author": "Paul Preuss"
         },
         {
-          "Book No": "E4-086",
-          "Book Name": "The Racketeer",
-          "Writer": "John Grisham"
+          "bookno": "E4-086",
+          "bookname": "The Racketeer",
+          "author": "John Grisham"
         },
         {
-          "Book No": "E4-087",
-          "Book Name": "Death on the Nile",
-          "Writer": "Agatha Christie"
+          "bookno": "E4-087",
+          "bookname": "Death on the Nile",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "E4-088",
-          "Book Name": "The Secret of Nagas (Shiva Triology 2)",
-          "Writer": "Amish Tripathi"
+          "bookno": "E4-088",
+          "bookname": "The Secret of Nagas (Shiva Triology 2)",
+          "author": "Amish Tripathi"
         },
         {
-          "Book No": "E4-089",
-          "Book Name": "The Immortals of Meluha  (Shiva Triology 1)",
-          "Writer": "Amish Tripathi"
+          "bookno": "E4-089",
+          "bookname": "The Immortals of Meluha  (Shiva Triology 1)",
+          "author": "Amish Tripathi"
         },
         {
-          "Book No": "E4-090",
-          "Book Name": "The Kill List",
-          "Writer": "Frederick Forsyth"
+          "bookno": "E4-090",
+          "bookname": "The Kill List",
+          "author": "Frederick Forsyth"
         },
         {
-          "Book No": "E4-091",
-          "Book Name": "The Oath of the Vayuputras (Shiva Triology 3)",
-          "Writer": "Amish Tripathi"
+          "bookno": "E4-091",
+          "bookname": "The Oath of the Vayuputras (Shiva Triology 3)",
+          "author": "Amish Tripathi"
         },
         {
-          "Book No": "E4-092",
-          "Book Name": "Animal Farm",
-          "Writer": "George Orwell"
+          "bookno": "E4-092",
+          "bookname": "Animal Farm",
+          "author": "George Orwell"
         },
         {
-          "Book No": "E4-093",
-          "Book Name": "Malgudi Days",
-          "Writer": "R. K. Narayan"
+          "bookno": "E4-093",
+          "bookname": "Malgudi Days",
+          "author": "R. K. Narayan"
         },
         {
-          "Book No": "E4-094",
-          "Book Name": "The Murder of Roger Acroyd",
-          "Writer": "Agatha Christie"
+          "bookno": "E4-094",
+          "bookname": "The Murder of Roger Acroyd",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "E4-095",
-          "Book Name": "Artemis Fowl and the Arctic Incident",
-          "Writer": "Eoin Colfer"
+          "bookno": "E4-095",
+          "bookname": "Artemis Fowl and the Arctic Incident",
+          "author": "Eoin Colfer"
         },
         {
-          "Book No": "E4-096",
-          "Book Name": "Artemis Fowl",
-          "Writer": "Eoin Colfer"
+          "bookno": "E4-096",
+          "bookname": "Artemis Fowl",
+          "author": "Eoin Colfer"
         },
         {
-          "Book No": "E4-097",
-          "Book Name": "Ineterpreter of Maladies",
-          "Writer": "Jhumpa Lahiri"
+          "bookno": "E4-097",
+          "bookname": "Ineterpreter of Maladies",
+          "author": "Jhumpa Lahiri"
         },
         {
-          "Book No": "E4-098",
-          "Book Name": "Classic Short Stories",
-          "Writer": ""
+          "bookno": "E4-098",
+          "bookname": "Classic Short Stories",
+          "author": ""
         },
         {
-          "Book No": "E4-099",
-          "Book Name": "A Walk to Remember",
-          "Writer": "Nicholas Sparks"
+          "bookno": "E4-099",
+          "bookname": "A Walk to Remember",
+          "author": "Nicholas Sparks"
         },
         {
-          "Book No": "E4-100",
-          "Book Name": "I Too Had a Love Story",
-          "Writer": "Ravinder Singh"
+          "bookno": "E4-100",
+          "bookname": "I Too Had a Love Story",
+          "author": "Ravinder Singh"
         },
         {
-          "Book No": "E4-101",
-          "Book Name": "The Magic Drum",
-          "Writer": "Sudha Murthy"
+          "bookno": "E4-101",
+          "bookname": "The Magic Drum",
+          "author": "Sudha Murthy"
         },
         {
-          "Book No": "E4-102",
-          "Book Name": "The War of Worlds",
-          "Writer": "H. G. Wells"
+          "bookno": "E4-102",
+          "bookname": "The War of Worlds",
+          "author": "H. G. Wells"
         },
         {
-          "Book No": "E4-103",
-          "Book Name": "Rich Dad Poor Dad",
-          "Writer": "Robert Kiyosaki"
+          "bookno": "E4-103",
+          "bookname": "Rich Dad Poor Dad",
+          "author": "Robert Kiyosaki"
         },
         {
-          "Book No": "E4-104",
-          "Book Name": "Short Stories",
-          "Writer": "W. Somerset Maugham"
+          "bookno": "E4-104",
+          "bookname": "Short Stories",
+          "author": "W. Somerset Maugham"
         },
         {
-          "Book No": "E4-105",
-          "Book Name": "The Chronicles of Narnia",
-          "Writer": "C. S. Lewis"
+          "bookno": "E4-105",
+          "bookname": "The Chronicles of Narnia",
+          "author": "C. S. Lewis"
         },
         {
-          "Book No": "E4-106",
-          "Book Name": "The Forty Rules of Love",
-          "Writer": "Elif Shafak"
+          "bookno": "E4-106",
+          "bookname": "The Forty Rules of Love",
+          "author": "Elif Shafak"
         },
         {
-          "Book No": "E4-107",
-          "Book Name": "The Silk Worm",
-          "Writer": "Robert Galbraith"
+          "bookno": "E4-107",
+          "bookname": "The Silk Worm",
+          "author": "Robert Galbraith"
         },
         {
-          "Book No": "E4-108",
-          "Book Name": "The Whole Truth",
-          "Writer": "David Baldacci"
+          "bookno": "E4-108",
+          "bookname": "The Whole Truth",
+          "author": "David Baldacci"
         },
         {
-          "Book No": "E4-109",
-          "Book Name": "The Cuckoo's Calling",
-          "Writer": "Robert Galbraith"
+          "bookno": "E4-109",
+          "bookname": "The Cuckoo's Calling",
+          "author": "Robert Galbraith"
         },
         {
-          "Book No": "E4-110",
-          "Book Name": "Gray Mountain",
-          "Writer": "John Grisham"
+          "bookno": "E4-110",
+          "bookname": "Gray Mountain",
+          "author": "John Grisham"
         },
         {
-          "Book No": "E4-111",
-          "Book Name": "Calico Joe",
-          "Writer": "John Grisham"
+          "bookno": "E4-111",
+          "bookname": "Calico Joe",
+          "author": "John Grisham"
         },
         {
-          "Book No": "E4-112",
-          "Book Name": "Da Vinci Code",
-          "Writer": "Dan Brown"
+          "bookno": "E4-112",
+          "bookname": "Da Vinci Code",
+          "author": "Dan Brown"
         },
         {
-          "Book No": "E4-113",
-          "Book Name": "The Age of Miracles",
-          "Writer": "Karen Walker"
+          "bookno": "E4-113",
+          "bookname": "The Age of Miracles",
+          "author": "Karen Walker"
         },
         {
-          "Book No": "E4-114",
-          "Book Name": "Ivanhoe",
-          "Writer": "Sir Walter Scott"
+          "bookno": "E4-114",
+          "bookname": "Ivanhoe",
+          "author": "Sir Walter Scott"
         },
         {
-          "Book No": "E4-115",
-          "Book Name": "The Pilgrimage",
-          "Writer": "Paulo Coelho"
+          "bookno": "E4-115",
+          "bookname": "The Pilgrimage",
+          "author": "Paulo Coelho"
         },
         {
-          "Book No": "E4-116",
-          "Book Name": "Valkyries",
-          "Writer": "Paulo Coelho"
+          "bookno": "E4-116",
+          "bookname": "Valkyries",
+          "author": "Paulo Coelho"
         },
         {
-          "Book No": "E4-117",
-          "Book Name": "5 Indian Masters",
-          "Writer": "Tagore, Rao, Premchand, Singh, Anand"
+          "bookno": "E4-117",
+          "bookname": "5 Indian Masters",
+          "author": "Tagore, Rao, Premchand, Singh, Anand"
         },
         {
-          "Book No": "E4-118",
-          "Book Name": "The Last Lecture",
-          "Writer": "Randy Pausch"
+          "bookno": "E4-118",
+          "bookname": "The Last Lecture",
+          "author": "Randy Pausch"
         },
         {
-          "Book No": "E4-119",
-          "Book Name": "Twelve Red Herrings",
-          "Writer": "Jeffrey Archer"
+          "bookno": "E4-119",
+          "bookname": "Twelve Red Herrings",
+          "author": "Jeffrey Archer"
         },
         {
-          "Book No": "E4-120",
-          "Book Name": "A Matter of Honor",
-          "Writer": "Jeffrey Archer"
+          "bookno": "E4-120",
+          "bookname": "A Matter of Honor",
+          "author": "Jeffrey Archer"
         },
         {
-          "Book No": "E4-121",
-          "Book Name": "Veronica Decides to Die",
-          "Writer": "Paulo Coelho"
+          "bookno": "E4-121",
+          "bookname": "Veronica Decides to Die",
+          "author": "Paulo Coelho"
         },
         {
-          "Book No": "E4-122",
-          "Book Name": "Uncle Tom's Cabin",
-          "Writer": "Harriet Stowe"
+          "bookno": "E4-122",
+          "bookname": "Uncle Tom's Cabin",
+          "author": "Harriet Stowe"
         },
         {
-          "Book No": "E4-123",
-          "Book Name": "Da Vinci Code",
-          "Writer": "Dan Brown"
+          "bookno": "E4-123",
+          "bookname": "Da Vinci Code",
+          "author": "Dan Brown"
         },
         {
-          "Book No": "E4-124",
-          "Book Name": "The Great Indian Novel",
-          "Writer": "Shashi Tharoor"
+          "bookno": "E4-124",
+          "bookname": "The Great Indian Novel",
+          "author": "Shashi Tharoor"
         },
         {
-          "Book No": "E4-125",
-          "Book Name": "Vector",
-          "Writer": "Robin Cook"
+          "bookno": "E4-125",
+          "bookname": "Vector",
+          "author": "Robin Cook"
         },
         {
-          "Book No": "E4-126",
-          "Book Name": "Emma",
-          "Writer": "Jane Austen"
+          "bookno": "E4-126",
+          "bookname": "Emma",
+          "author": "Jane Austen"
         },
         {
-          "Book No": "E4-127",
-          "Book Name": "The Glass Inferno",
-          "Writer": "Scortia & Robinson"
+          "bookno": "E4-127",
+          "bookname": "The Glass Inferno",
+          "author": "Scortia & Robinson"
         },
         {
-          "Book No": "E4-128",
-          "Book Name": "Vital Signs",
-          "Writer": "Robin Cook"
+          "bookno": "E4-128",
+          "bookname": "Vital Signs",
+          "author": "Robin Cook"
         },
         {
-          "Book No": "E4-129",
-          "Book Name": "Overload",
-          "Writer": "Arther Hailey"
+          "bookno": "E4-129",
+          "bookname": "Overload",
+          "author": "Arther Hailey"
         },
         {
-          "Book No": "E4-130",
-          "Book Name": "One , A Novel",
-          "Writer": "Richard Bach"
+          "bookno": "E4-130",
+          "bookname": "One , A Novel",
+          "author": "Richard Bach"
         },
         {
-          "Book No": "E4-131",
-          "Book Name": "The Mystery of Edwin Drood",
-          "Writer": "Charles Dickens"
+          "bookno": "E4-131",
+          "bookname": "The Mystery of Edwin Drood",
+          "author": "Charles Dickens"
         },
         {
-          "Book No": "E4-132",
-          "Book Name": "The Eleventh Commandment",
-          "Writer": "Jeffrey Archer"
+          "bookno": "E4-132",
+          "bookname": "The Eleventh Commandment",
+          "author": "Jeffrey Archer"
         },
         {
-          "Book No": "E4-133",
-          "Book Name": "The Creative Life",
-          "Writer": "Radhakrishnan"
+          "bookno": "E4-133",
+          "bookname": "The Creative Life",
+          "author": "Radhakrishnan"
         },
         {
-          "Book No": "E4-134",
-          "Book Name": "Animal Farm",
-          "Writer": "George Orwell"
+          "bookno": "E4-134",
+          "bookname": "Animal Farm",
+          "author": "George Orwell"
         },
         {
-          "Book No": "E4-135",
-          "Book Name": "Malgudi Adventures ",
-          "Writer": "R.K. Narayan"
+          "bookno": "E4-135",
+          "bookname": "Malgudi Adventures ",
+          "author": "R.K. Narayan"
         },
         {
-          "Book No": "E4-136",
-          "Book Name": "The Selected Works of Gandhi - Part 2",
-          "Writer": "M K Gandhi"
+          "bookno": "E4-136",
+          "bookname": "The Selected Works of Gandhi - Part 2",
+          "author": "M K Gandhi"
         },
         {
-          "Book No": "E4-137",
-          "Book Name": "The Selected Works of Gandhi - Part 3",
-          "Writer": "M K Gandhi"
+          "bookno": "E4-137",
+          "bookname": "The Selected Works of Gandhi - Part 3",
+          "author": "M K Gandhi"
         },
         {
-          "Book No": "E4-138",
-          "Book Name": "The Long Silence",
-          "Writer": "Shashi Deshpande"
+          "bookno": "E4-138",
+          "bookname": "The Long Silence",
+          "author": "Shashi Deshpande"
         },
         {
-          "Book No": "E4-139",
-          "Book Name": "Dollar Bahu",
-          "Writer": "Sudha Murthy"
+          "bookno": "E4-139",
+          "bookname": "Dollar Bahu",
+          "author": "Sudha Murthy"
         },
         {
-          "Book No": "E4-140",
-          "Book Name": "The Secret Agent",
-          "Writer": "Joseph Conrad"
+          "bookno": "E4-140",
+          "bookname": "The Secret Agent",
+          "author": "Joseph Conrad"
         },
         {
-          "Book No": "E4-141",
-          "Book Name": "Double Sin and Other Stories",
-          "Writer": "Agatha Christie"
+          "bookno": "E4-141",
+          "bookname": "Double Sin and Other Stories",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "E4-142",
-          "Book Name": "House of Cards",
-          "Writer": "Sudha Murthy"
+          "bookno": "E4-142",
+          "bookname": "House of Cards",
+          "author": "Sudha Murthy"
         },
         {
-          "Book No": "E4-143",
-          "Book Name": "Mahashweta",
-          "Writer": "Sudha Murthy"
+          "bookno": "E4-143",
+          "bookname": "Mahashweta",
+          "author": "Sudha Murthy"
         },
         {
-          "Book No": "E4-144",
-          "Book Name": "The Best Days of My Life",
-          "Writer": "Scharda Dubey"
+          "bookno": "E4-144",
+          "bookname": "The Best Days of My Life",
+          "author": "Scharda Dubey"
         },
         {
-          "Book No": "E4-145",
-          "Book Name": "Reader's Digest Select Editions",
-          "Writer": ""
+          "bookno": "E4-145",
+          "bookname": "Reader's Digest Select Editions",
+          "author": ""
         },
         {
-          "Book No": "E4-146",
-          "Book Name": "The Ultimate Gift",
-          "Writer": "Jim Stovall"
+          "bookno": "E4-146",
+          "bookname": "The Ultimate Gift",
+          "author": "Jim Stovall"
         },
         {
-          "Book No": "E4-147",
-          "Book Name": "Night Train",
-          "Writer": "Martin Amis"
+          "bookno": "E4-147",
+          "bookname": "Night Train",
+          "author": "Martin Amis"
         },
         {
-          "Book No": "E4-148",
-          "Book Name": "Sisters",
-          "Writer": "Shobha Dey"
+          "bookno": "E4-148",
+          "bookname": "Sisters",
+          "author": "Shobha Dey"
         },
         {
-          "Book No": "E4-149",
-          "Book Name": "Deception Point",
-          "Writer": "Dan Brown"
+          "bookno": "E4-149",
+          "bookname": "Deception Point",
+          "author": "Dan Brown"
         },
         {
-          "Book No": "E4-150",
-          "Book Name": "The Book Thief",
-          "Writer": "Markus Zusak"
+          "bookno": "E4-150",
+          "bookname": "The Book Thief",
+          "author": "Markus Zusak"
         },
         {
-          "Book No": "E4-151",
-          "Book Name": "Disgrace ",
-          "Writer": "J. M. Coetzee"
+          "bookno": "E4-151",
+          "bookname": "Disgrace ",
+          "author": "J. M. Coetzee"
         },
         {
-          "Book No": "E4-152",
-          "Book Name": "The Great Stories Of Leo Tolstoy",
-          "Writer": "Leo Tolstoy"
+          "bookno": "E4-152",
+          "bookname": "The Great Stories Of Leo Tolstoy",
+          "author": "Leo Tolstoy"
         },
         {
-          "Book No": "E4-153",
-          "Book Name": "100 Selected Stories ",
-          "Writer": "O Henry"
+          "bookno": "E4-153",
+          "bookname": "100 Selected Stories ",
+          "author": "O Henry"
         },
         {
-          "Book No": "E4-154",
-          "Book Name": "100 Selected Stories ",
-          "Writer": "Anton Chekhov"
+          "bookno": "E4-154",
+          "bookname": "100 Selected Stories ",
+          "author": "Anton Chekhov"
         },
         {
-          "Book No": "E4-155",
-          "Book Name": "How I Braved Anu Aunty & Co-Founded A Million Dollar Company",
-          "Writer": "Varun Agarwal"
+          "bookno": "E4-155",
+          "bookname": "How I Braved Anu Aunty & Co-Founded A Million Dollar Company",
+          "author": "Varun Agarwal"
         },
         {
-          "Book No": "E4-156",
-          "Book Name": "Journey to Success",
-          "Writer": "Martha J.Ross-Rogers"
+          "bookno": "E4-156",
+          "bookname": "Journey to Success",
+          "author": "Martha J.Ross-Rogers"
         },
         {
-          "Book No": "E4-157",
-          "Book Name": "With Love Ann Marie",
-          "Writer": "Michael Quoist"
+          "bookno": "E4-157",
+          "bookname": "With Love Ann Marie",
+          "author": "Michael Quoist"
         },
         {
-          "Book No": "E4-158",
-          "Book Name": "Warrior Of The Fourth Estate",
-          "Writer": "B.G. Verghese"
+          "bookno": "E4-158",
+          "bookname": "Warrior Of The Fourth Estate",
+          "author": "B.G. Verghese"
         },
         {
-          "Book No": "E4-159",
-          "Book Name": "The Last Song Of Dusk",
-          "Writer": "Siddhart Dhanwant Shangavi"
+          "bookno": "E4-159",
+          "bookname": "The Last Song Of Dusk",
+          "author": "Siddhart Dhanwant Shangavi"
         },
         {
-          "Book No": "E4-160",
-          "Book Name": "Kathy's Story",
-          "Writer": "Kathy O berine"
+          "bookno": "E4-160",
+          "bookname": "Kathy's Story",
+          "author": "Kathy O berine"
         },
         {
-          "Book No": "E4-161",
-          "Book Name": "Brida",
-          "Writer": "Paulo Coelho"
+          "bookno": "E4-161",
+          "bookname": "Brida",
+          "author": "Paulo Coelho"
         },
         {
-          "Book No": "E4-162",
-          "Book Name": "DragonFire",
-          "Writer": "Humphery Hawksley"
+          "bookno": "E4-162",
+          "bookname": "DragonFire",
+          "author": "Humphery Hawksley"
         },
         {
-          "Book No": "E4-163",
-          "Book Name": "Seasons Of Love",
-          "Writer": "Edited"
+          "bookno": "E4-163",
+          "bookname": "Seasons Of Love",
+          "author": "Edited"
         },
         {
-          "Book No": "E4-164",
-          "Book Name": "20 Tales from Shakespeare",
-          "Writer": "Charles and Mary Lamb"
+          "bookno": "E4-164",
+          "bookname": "20 Tales from Shakespeare",
+          "author": "Charles and Mary Lamb"
         },
         {
-          "Book No": "E4-165",
-          "Book Name": "The Complete Short Stories Hercule Poirot",
-          "Writer": "Agatha Christie"
+          "bookno": "E4-165",
+          "bookname": "The Complete Short Stories Hercule Poirot",
+          "author": "Agatha Christie"
         },
         {
-          "Book No": "E4-166",
-          "Book Name": "Harry Potter and the Cursed Child Part 1 and 2",
-          "Writer": "J K Rowling"
+          "bookno": "E4-166",
+          "bookname": "Harry Potter and the Cursed Child Part 1 and 2",
+          "author": "J K Rowling"
         },
         {
-          "Book No": "E4-167",
-          "Book Name": "The Secret Letters of the Monk who sold his Ferrari",
-          "Writer": "Robin Sharma"
+          "bookno": "E4-167",
+          "bookname": "The Secret Letters of the Monk who sold his Ferrari",
+          "author": "Robin Sharma"
         },
         {
-          "Book No": "E4-168",
-          "Book Name": "Angle of the Dark",
-          "Writer": "Sidney Sheldon"
+          "bookno": "E4-168",
+          "bookname": "Angle of the Dark",
+          "author": "Sidney Sheldon"
         },
         {
-          "Book No": "E4-169",
-          "Book Name": "In High Places",
-          "Writer": "Arthur Hailey"
+          "bookno": "E4-169",
+          "bookname": "In High Places",
+          "author": "Arthur Hailey"
         },
         {
-          "Book No": "E4-170",
-          "Book Name": "Eragon",
-          "Writer": "Christopher Paolini"
+          "bookno": "E4-170",
+          "bookname": "Eragon",
+          "author": "Christopher Paolini"
         },
         {
-          "Book No": "E4-171",
-          "Book Name": "Chasing Tomorrow",
-          "Writer": "Sidney Sheldon"
+          "bookno": "E4-171",
+          "bookname": "Chasing Tomorrow",
+          "author": "Sidney Sheldon"
         },
         {
-          "Book No": "E4-172",
-          "Book Name": "Scion of Ikshvaku",
-          "Writer": "Amish"
+          "bookno": "E4-172",
+          "bookname": "Scion of Ikshvaku",
+          "author": "Amish"
         },
         {
-          "Book No": "E5-001",
-          "Book Name": "Eat. Delete",
-          "Writer": "Pooja Makhija"
+          "bookno": "E5-001",
+          "bookname": "Eat. Delete",
+          "author": "Pooja Makhija"
         },
         {
-          "Book No": "E5-002",
-          "Book Name": "How to Lose Weight and Keep Fit",
-          "Writer": ""
+          "bookno": "E5-002",
+          "bookname": "How to Lose Weight and Keep Fit",
+          "author": ""
         },
         {
-          "Book No": "E5-003",
-          "Book Name": "A Cancer Therapy",
-          "Writer": "Max Gerson"
+          "bookno": "E5-003",
+          "bookname": "A Cancer Therapy",
+          "author": "Max Gerson"
         },
         {
-          "Book No": "E5-004",
-          "Book Name": "The Gerson Therapy",
-          "Writer": "Charlotte Gerson and Morton Walker"
+          "bookno": "E5-004",
+          "bookname": "The Gerson Therapy",
+          "author": "Charlotte Gerson and Morton Walker"
         },
         {
-          "Book No": "E5-005",
-          "Book Name": "Ready reckoner on Fruit & Vegetable Preservation and Nutrition",
-          "Writer": " - - - - "
+          "bookno": "E5-005",
+          "bookname": "Ready reckoner on Fruit & Vegetable Preservation and Nutrition",
+          "author": " - - - - "
         },
         {
-          "Book No": "E5-006",
-          "Book Name": "Prevention and Early detection of Cancer",
-          "Writer": "R.S. Rao and D.M. Parekh"
+          "bookno": "E5-006",
+          "bookname": "Prevention and Early detection of Cancer",
+          "author": "R.S. Rao and D.M. Parekh"
         },
         {
-          "Book No": "E5-007",
-          "Book Name": "Our Eyes",
-          "Writer": "Dr. Madhavi Vidvauns"
+          "bookno": "E5-007",
+          "bookname": "Our Eyes",
+          "author": "Dr. Madhavi Vidvauns"
         },
         {
-          "Book No": "E5-008",
-          "Book Name": "Ivanhoe",
-          "Writer": "Sir Walter Scott"
+          "bookno": "E5-008",
+          "bookname": "Ivanhoe",
+          "author": "Sir Walter Scott"
         },
         {
-          "Book No": "E5-009",
-          "Book Name": "Foods that Harms Foodds that Heal",
-          "Writer": ""
+          "bookno": "E5-009",
+          "bookname": "Foods that Harms Foodds that Heal",
+          "author": ""
         },
         {
-          "Book No": "E5-010",
-          "Book Name": "How To Meditate",
-          "Writer": "Lawrence LeSham"
+          "bookno": "E5-010",
+          "bookname": "How To Meditate",
+          "author": "Lawrence LeSham"
         },
         {
-          "Book No": "E6-001",
-          "Book Name": "Life From Cell to Cell",
-          "Writer": "Baal Phondke"
+          "bookno": "E6-001",
+          "bookname": "Life From Cell to Cell",
+          "author": "Baal Phondke"
         },
         {
-          "Book No": "E6-002",
-          "Book Name": "Body's Battles",
-          "Writer": "Dr. Baal Phondke"
+          "bookno": "E6-002",
+          "bookname": "Body's Battles",
+          "author": "Dr. Baal Phondke"
         },
         {
-          "Book No": "E6-003",
-          "Book Name": "Khagol Parichay",
-          "Writer": "Pradeep Nayak"
+          "bookno": "E6-003",
+          "bookname": "Khagol Parichay",
+          "author": "Pradeep Nayak"
         },
         {
-          "Book No": "E6-004",
-          "Book Name": "Solar Eclipses",
-          "Writer": "Pradeep Nayak"
+          "bookno": "E6-004",
+          "bookname": "Solar Eclipses",
+          "author": "Pradeep Nayak"
         },
         {
-          "Book No": "E6-005",
-          "Book Name": "How?",
-          "Writer": ""
+          "bookno": "E6-005",
+          "bookname": "How?",
+          "author": ""
         },
         {
-          "Book No": "E6-006",
-          "Book Name": "Astronomy for Amateures",
-          "Writer": "Pradeep Nayak"
+          "bookno": "E6-006",
+          "bookname": "Astronomy for Amateures",
+          "author": "Pradeep Nayak"
         },
         {
-          "Book No": "E6-007",
-          "Book Name": "Of Science and Scientists",
-          "Writer": "A. N. Kothare"
+          "bookno": "E6-007",
+          "bookname": "Of Science and Scientists",
+          "author": "A. N. Kothare"
         },
         {
-          "Book No": "E6-008",
-          "Book Name": "The Human Body",
-          "Writer": "Paul Lewis"
+          "bookno": "E6-008",
+          "bookname": "The Human Body",
+          "author": "Paul Lewis"
         },
         {
-          "Book No": "E6-009",
-          "Book Name": "50 Simple Things You Can Do to Save the Earth",
-          "Writer": ""
+          "bookno": "E6-009",
+          "bookname": "50 Simple Things You Can Do to Save the Earth",
+          "author": ""
         },
         {
-          "Book No": "E6-010",
-          "Book Name": "Chemistry Today",
-          "Writer": ""
+          "bookno": "E6-010",
+          "bookname": "Chemistry Today",
+          "author": ""
         },
         {
-          "Book No": "E6-011",
-          "Book Name": "The Heavens",
-          "Writer": ""
+          "bookno": "E6-011",
+          "bookname": "The Heavens",
+          "author": ""
         },
         {
-          "Book No": "E6-012",
-          "Book Name": "Before the Beginning",
-          "Writer": "Marteen Rees"
+          "bookno": "E6-012",
+          "bookname": "Before the Beginning",
+          "author": "Marteen Rees"
         },
         {
-          "Book No": "E6-013",
-          "Book Name": "Climbing Mount Improbable",
-          "Writer": "Richard Dawkins"
+          "bookno": "E6-013",
+          "bookname": "Climbing Mount Improbable",
+          "author": "Richard Dawkins"
         },
         {
-          "Book No": "E6-014",
-          "Book Name": "Wonderful Life",
-          "Writer": "Stephen Jay Gould"
+          "bookno": "E6-014",
+          "bookname": "Wonderful Life",
+          "author": "Stephen Jay Gould"
         },
         {
-          "Book No": "E6-015",
-          "Book Name": "Parallel Universes",
-          "Writer": "Fred Alan Wolf"
+          "bookno": "E6-015",
+          "bookname": "Parallel Universes",
+          "author": "Fred Alan Wolf"
         },
         {
-          "Book No": "E6-016",
-          "Book Name": "In The Beginning",
-          "Writer": "John Gribbin"
+          "bookno": "E6-016",
+          "bookname": "In The Beginning",
+          "author": "John Gribbin"
         },
         {
-          "Book No": "E6-017",
-          "Book Name": "In Search of Schordinger's Cat",
-          "Writer": "John Gribbin"
+          "bookno": "E6-017",
+          "bookname": "In Search of Schordinger's Cat",
+          "author": "John Gribbin"
         },
         {
-          "Book No": "E6-018",
-          "Book Name": "The Origin of The Universe",
-          "Writer": "John D. Barrow"
+          "bookno": "E6-018",
+          "bookname": "The Origin of The Universe",
+          "author": "John D. Barrow"
         },
         {
-          "Book No": "E6-019",
-          "Book Name": "The Mismeasure of Man",
-          "Writer": "Stephen Jay Gould"
+          "bookno": "E6-019",
+          "bookname": "The Mismeasure of Man",
+          "author": "Stephen Jay Gould"
         },
         {
-          "Book No": "E6-020",
-          "Book Name": "The Environmental Science",
-          "Writer": "Peter J. Bowler"
+          "bookno": "E6-020",
+          "bookname": "The Environmental Science",
+          "author": "Peter J. Bowler"
         },
         {
-          "Book No": "E6-021",
-          "Book Name": "Chaos",
-          "Writer": "James J. Leick"
+          "bookno": "E6-021",
+          "bookname": "Chaos",
+          "author": "James J. Leick"
         },
         {
-          "Book No": "E6-022",
-          "Book Name": "The Last Three Minutes",
-          "Writer": "Paul Davies"
+          "bookno": "E6-022",
+          "bookname": "The Last Three Minutes",
+          "author": "Paul Davies"
         },
         {
-          "Book No": "E6-023",
-          "Book Name": "The Observational Amateur Astronomy",
-          "Writer": "Patrick Moore"
+          "bookno": "E6-023",
+          "bookname": "The Observational Amateur Astronomy",
+          "author": "Patrick Moore"
         },
         {
-          "Book No": "E6-024",
-          "Book Name": "The Story of Light",
-          "Writer": "Lillian Bragdon"
+          "bookno": "E6-024",
+          "bookname": "The Story of Light",
+          "author": "Lillian Bragdon"
         },
         {
-          "Book No": "E6-025",
-          "Book Name": "The Life of the Cosmos",
-          "Writer": "Lee Smolin"
+          "bookno": "E6-025",
+          "bookname": "The Life of the Cosmos",
+          "author": "Lee Smolin"
         },
         {
-          "Book No": "E6-026",
-          "Book Name": "The Little Book of String Theory",
-          "Writer": "Steven Gubser"
+          "bookno": "E6-026",
+          "bookname": "The Little Book of String Theory",
+          "author": "Steven Gubser"
         },
         {
-          "Book No": "E6-027",
-          "Book Name": "Care Lonar",
-          "Writer": "Dilip Joshi, Pradeep Nayak"
+          "bookno": "E6-027",
+          "bookname": "Care Lonar",
+          "author": "Dilip Joshi, Pradeep Nayak"
         },
         {
-          "Book No": "E6-028",
-          "Book Name": "Something Called Nothing: Physical Vacuum What is it?",
-          "Writer": "R. Podolny"
+          "bookno": "E6-028",
+          "bookname": "Something Called Nothing: Physical Vacuum What is it?",
+          "author": "R. Podolny"
         },
         {
-          "Book No": "E6-029",
-          "Book Name": "The Modern Amateur Astronomer",
-          "Writer": "Patrick Moore"
+          "bookno": "E6-029",
+          "bookname": "The Modern Amateur Astronomer",
+          "author": "Patrick Moore"
         },
         {
-          "Book No": "E6-030",
-          "Book Name": "Seeing the Solar System",
-          "Writer": "Fred Schaff"
+          "bookno": "E6-030",
+          "bookname": "Seeing the Solar System",
+          "author": "Fred Schaff"
         },
         {
-          "Book No": "E6-031",
-          "Book Name": "Energy and Entropy",
-          "Writer": "G. N. Alekseev"
+          "bookno": "E6-031",
+          "bookname": "Energy and Entropy",
+          "author": "G. N. Alekseev"
         },
         {
-          "Book No": "E6-032",
-          "Book Name": "The Vanishing Face of Gaia",
-          "Writer": "James Lovelock"
+          "bookno": "E6-032",
+          "bookname": "The Vanishing Face of Gaia",
+          "author": "James Lovelock"
         },
         {
-          "Book No": "E6-033",
-          "Book Name": "Relativity and Man",
-          "Writer": "V. Smilga"
+          "bookno": "E6-033",
+          "bookname": "Relativity and Man",
+          "author": "V. Smilga"
         },
         {
-          "Book No": "E6-034",
-          "Book Name": "Relativity (The Special and the General Theory)",
-          "Writer": "Albert Einstein"
+          "bookno": "E6-034",
+          "bookname": "Relativity (The Special and the General Theory)",
+          "author": "Albert Einstein"
         },
         {
-          "Book No": "E6-035",
-          "Book Name": "Unweaving the Rainbow",
-          "Writer": "Richard Dawkins"
+          "bookno": "E6-035",
+          "bookname": "Unweaving the Rainbow",
+          "author": "Richard Dawkins"
         },
         {
-          "Book No": "E6-036",
-          "Book Name": "Quantum Mechanics and Experience",
-          "Writer": "David Albert"
+          "bookno": "E6-036",
+          "bookname": "Quantum Mechanics and Experience",
+          "author": "David Albert"
         },
         {
-          "Book No": "E6-037",
-          "Book Name": "Astronomy of Eclipses",
-          "Writer": "Hemant Mone, Shirish Deshmukh"
+          "bookno": "E6-037",
+          "bookname": "Astronomy of Eclipses",
+          "author": "Hemant Mone, Shirish Deshmukh"
         },
         {
-          "Book No": "E6-038",
-          "Book Name": "The Nature of Space and Time",
-          "Writer": "Stephen Hawking & Roger Penrose"
+          "bookno": "E6-038",
+          "bookname": "The Nature of Space and Time",
+          "author": "Stephen Hawking & Roger Penrose"
         },
         {
-          "Book No": "E6-039",
-          "Book Name": "Ripples in the Cosmos",
-          "Writer": "Michael Rowan - Robinson"
+          "bookno": "E6-039",
+          "bookname": "Ripples in the Cosmos",
+          "author": "Michael Rowan - Robinson"
         },
         {
-          "Book No": "E6-040",
-          "Book Name": "Infinity and the Mind",
-          "Writer": "Rudy Rucker"
+          "bookno": "E6-040",
+          "bookname": "Infinity and the Mind",
+          "author": "Rudy Rucker"
         },
         {
-          "Book No": "E6-041",
-          "Book Name": "Other Worlds (The Search fro Life in the Universe)",
-          "Writer": "Michael Lemonick"
+          "bookno": "E6-041",
+          "bookname": "Other Worlds (The Search fro Life in the Universe)",
+          "author": "Michael Lemonick"
         },
         {
-          "Book No": "E6-042",
-          "Book Name": "Cosmos",
-          "Writer": "Carl Sagan"
+          "bookno": "E6-042",
+          "bookname": "Cosmos",
+          "author": "Carl Sagan"
         },
         {
-          "Book No": "E6-043",
-          "Book Name": "One Renegade Cell",
-          "Writer": "Robert Weinberg"
+          "bookno": "E6-043",
+          "bookname": "One Renegade Cell",
+          "author": "Robert Weinberg"
         },
         {
-          "Book No": "E6-044",
-          "Book Name": "Gene Power",
-          "Writer": "Asis Datta, Sudha Bhattacharya"
+          "bookno": "E6-044",
+          "bookname": "Gene Power",
+          "author": "Asis Datta, Sudha Bhattacharya"
         },
         {
-          "Book No": "E6-045",
-          "Book Name": "A Brief History of Times",
-          "Writer": "Stephen Hawking"
+          "bookno": "E6-045",
+          "bookname": "A Brief History of Times",
+          "author": "Stephen Hawking"
         },
         {
-          "Book No": "E6-046",
-          "Book Name": "The Time Machine",
-          "Writer": "H.G. Wells"
+          "bookno": "E6-046",
+          "bookname": "The Time Machine",
+          "author": "H.G. Wells"
         },
         {
-          "Book No": "E6-047",
-          "Book Name": "Hubble's Universe",
-          "Writer": "Simon Goodwin"
+          "bookno": "E6-047",
+          "bookname": "Hubble's Universe",
+          "author": "Simon Goodwin"
         },
         {
-          "Book No": "E7-001",
-          "Book Name": "The Lost Continent",
-          "Writer": "Bill Bryson"
+          "bookno": "E7-001",
+          "bookname": "The Lost Continent",
+          "author": "Bill Bryson"
         },
         {
-          "Book No": "E7-002",
-          "Book Name": "Beach Holidays in India",
-          "Writer": ""
+          "bookno": "E7-002",
+          "bookname": "Beach Holidays in India",
+          "author": ""
         },
         {
-          "Book No": "E8-001",
-          "Book Name": "Swaraj for the People",
-          "Writer": "Jayaprakash Narayan"
+          "bookno": "E8-001",
+          "bookname": "Swaraj for the People",
+          "author": "Jayaprakash Narayan"
         },
         {
-          "Book No": "E8-002",
-          "Book Name": "Quit India",
-          "Writer": "Mahatma Gandhi"
+          "bookno": "E8-002",
+          "bookname": "Quit India",
+          "author": "Mahatma Gandhi"
         },
         {
-          "Book No": "E8-003",
-          "Book Name": "Relations of the Rani of Jhansi",
-          "Writer": "Sanjeev Desai"
+          "bookno": "E8-003",
+          "bookname": "Relations of the Rani of Jhansi",
+          "author": "Sanjeev Desai"
         },
         {
-          "Book No": "E8-004",
-          "Book Name": "The Discovery of India",
-          "Writer": "Jawaharlal Nehru"
+          "bookno": "E8-004",
+          "bookname": "The Discovery of India",
+          "author": "Jawaharlal Nehru"
         },
         {
-          "Book No": "E8-005",
-          "Book Name": "Glimpses of Indian Heritage",
-          "Writer": "Varadaraja Raman"
+          "bookno": "E8-005",
+          "bookname": "Glimpses of Indian Heritage",
+          "author": "Varadaraja Raman"
         },
         {
-          "Book No": "E8-006",
-          "Book Name": "Mummies - A Journey Through Eternity",
-          "Writer": "Francoise Dunand"
+          "bookno": "E8-006",
+          "bookname": "Mummies - A Journey Through Eternity",
+          "author": "Francoise Dunand"
         },
         {
-          "Book No": "E9-001",
-          "Book Name": "On the Organizational Principles of a Proletarian Party",
-          "Writer": "Lenin"
+          "bookno": "E9-001",
+          "bookname": "On the Organizational Principles of a Proletarian Party",
+          "author": "Lenin"
         },
         {
-          "Book No": "E9-002",
-          "Book Name": "Soil",
-          "Writer": "Rusi Engineer"
+          "bookno": "E9-002",
+          "bookname": "Soil",
+          "author": "Rusi Engineer"
         },
         {
-          "Book No": "E9-003",
-          "Book Name": "The Mismeasure of Women",
-          "Writer": "Carol Tavris"
+          "bookno": "E9-003",
+          "bookname": "The Mismeasure of Women",
+          "author": "Carol Tavris"
         },
         {
-          "Book No": "E9-004",
-          "Book Name": "Just Like a Woman",
-          "Writer": "Dianne Hales"
+          "bookno": "E9-004",
+          "bookname": "Just Like a Woman",
+          "author": "Dianne Hales"
         },
         {
-          "Book No": "E9-005",
-          "Book Name": "Anihilation of Caste",
-          "Writer": "Dr. B. R. Ambedkar"
+          "bookno": "E9-005",
+          "bookname": "Anihilation of Caste",
+          "author": "Dr. B. R. Ambedkar"
         },
         {
-          "Book No": "E9-006",
-          "Book Name": "Ice",
-          "Writer": "Sir Fred Hoyle"
+          "bookno": "E9-006",
+          "bookname": "Ice",
+          "author": "Sir Fred Hoyle"
         },
         {
-          "Book No": "E9-007",
-          "Book Name": "Capitalism: The Unknown Ideal",
-          "Writer": "Ayn Rand"
+          "bookno": "E9-007",
+          "bookname": "Capitalism: The Unknown Ideal",
+          "author": "Ayn Rand"
         },
         {
-          "Book No": "E9-008",
-          "Book Name": "Priya Cross Stitch No. 51",
-          "Writer": ""
+          "bookno": "E9-008",
+          "bookname": "Priya Cross Stitch No. 51",
+          "author": ""
         },
         {
-          "Book No": "E9-009",
-          "Book Name": "Hinduism",
-          "Writer": "Chitralekha Singh"
+          "bookno": "E9-009",
+          "bookname": "Hinduism",
+          "author": "Chitralekha Singh"
         },
         {
-          "Book No": "E9-010",
-          "Book Name": "The Constitution of India",
-          "Writer": "P. M. Bakshi"
+          "bookno": "E9-010",
+          "bookname": "The Constitution of India",
+          "author": "P. M. Bakshi"
         }
       ]
 }
