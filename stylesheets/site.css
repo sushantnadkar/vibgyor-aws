@@ -361,6 +361,10 @@ section#footer {
   #t-page div.row:last-child::after {
     border-bottom: none; }
 
+@media screen and (max-width: 767px) {
+  #t-page .testimonial::after {
+    width: 90%; } }
+
 #about-page {
   margin: 3em auto; }
   #about-page #about-header {

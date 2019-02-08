@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Use the title from a page's frontmatter if it has one -->
 	<title>
-		Middleman
+		Vibgyor Library - Book List
 	</title>
 	<script src="javascripts/jquery.js"></script>
 	<link href="stylesheets/site.css" rel="stylesheet" />
@@ -56,16 +56,17 @@
 			</ul>
 		</div>
 	</nav>
-	<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
-<!--===============================================================================================-->
+		<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
 	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
-<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/perfect-scrollbar/perfect-scrollbar.css">
-<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="stylesheets/booklist.css">
-<!--===============================================================================================-->
 <div class="limiter">
+    <div id="search">
+        <input id="input" placeholder="Search author or book...">
+        <button id="button"><i class="fa fa-search"></i></button>
+        <div class="search-spinner"><i class="fa fa-spinner"></i></div>
+    </div>
+    <div class="note">Click the button or hit enter.</div>
     <div class="container-table100">
         <div class="wrap-table100">
             <div class="table100 ver1">
@@ -84,7 +85,7 @@
                 <div class="table100-body js-pscroll">
                     <table>
                         <tbody>
-                            <tr><td class="spinner"></td>
+                            <tr><td class="loading-spinner"></td>
                         </tbody>
                     </table>
                 </div>
@@ -96,11 +97,9 @@
 </div>
 
 
-<!--===============================================================================================-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.0/fuse.min.js"></script>
 <script src="vendor/bootstrap/js/popper.js"></script>
-<!--===============================================================================================-->
 <script src="vendor/select2/select2.min.js"></script>
-<!--===============================================================================================-->
 <script src="vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
 <script>
     $('.js-pscroll').each(function(){
@@ -111,7 +110,6 @@
         })
     });
 </script>
-<!--===============================================================================================-->
 <script src="js/main.js"></script>
 
 	<section id="footer" class="bg-dark">

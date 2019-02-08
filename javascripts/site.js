@@ -100,11 +100,63 @@ window.onload = loadJSON(url, function(r){
       );
     }
     if($("tbody").length !== 0) {
-      $(".spinner").parent().remove();
+      $(".loading-spinner").parent().remove();
     }
   }
   // to stimulate hover effect on touch screen devices
   $(".img-container a").on("touchstart touched", function(e) {
     $(this).focus();
   });
+
+  if($(".limiter").length !== 0) {
+    //search logic using fuse.js
+    var options = {
+      shouldSort: true,
+      tokenize: true,
+      matchAllTokens: true,
+      findAllMatches: true,
+      threshold: 0.6,
+      location: 0,
+      distance: 100,
+      maxPatternLength: 32,
+      minMatchCharLength: 5,
+      keys: [
+        "bookname",
+        "author"
+      ]
+    };
+    var fuse = new Fuse(ar.booklist, options);
+
+    function search_booklist() {
+      $("#search").addClass("loading");
+
+      var result = fuse.search($("#search input")[0].value);
+
+      $("tbody").empty();
+
+      for(var i = 0; i < result.length; i++) {
+
+        $("tbody").append(
+          '<tr class="row100 body">'+
+            '<td class="cell100 column1">' + result[i].bookno + '</td>'+
+            '<td class="cell100 column2">' + result[i].bookname + '</td>'+
+            '<td class="cell100 column3">' + result[i].author + '</td>' +
+          '</tr>'
+        );
+      }
+
+      setTimeout(function() {
+        $("#search").removeClass("loading");
+      }, 1500);
+    }
+    // search bar
+    $("#search input").on("keydown", function(e) {
+      if(e.keyCode === 13) {
+        search_booklist();
+      }
+    });
+    $("#search button").on("click", function(e) {
+      search_booklist();
+    });
+  }
 });

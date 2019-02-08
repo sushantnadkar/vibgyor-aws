@@ -60,7 +60,7 @@ ul, li {
 input {
   display: block;
 	outline: none;
-	border: none !important;
+	border: none;
 }
 
 textarea {
@@ -149,10 +149,9 @@ iframe {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 5em 2px;
+  padding: 1.5em 2em 2em;
 }
 
 .wrap-table100 {
@@ -249,11 +248,11 @@ th, td {
   border-radius: 10px;
   overflow: hidden;
   text-align: left !important;
-  box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
-  -moz-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
-  -webkit-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
-  -o-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
-  -ms-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 5px 5px 25px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 5px 5px 25px 0px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 5px 5px 25px 0px rgba(0, 0, 0, 0.15);
+  -o-box-shadow: 5px 5px 25px 0px rgba(0, 0, 0, 0.15);
+  -ms-box-shadow: 5px 5px 25px 0px rgba(0, 0, 0, 0.15);
 }
 
 .table100.ver1 .ps__rail-y {
@@ -357,10 +356,6 @@ th, td {
   }
 }
 
-@-webkit-keyframes spinner {
-  to {-webkit-transform: rotate(360deg);transform: rotate(360deg);}
-}
-
 @keyframes spinner {
   to {-webkit-transform: rotate(360deg);transform: rotate(360deg);}
 }
@@ -389,7 +384,7 @@ th, td {
   to {-webkit-transform: rotate(360deg);transform: rotate(360deg);}
 }
  
-.spinner:before {
+.loading-spinner:before {
   content: '' !important;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -407,3 +402,95 @@ th, td {
           animation: spinner .6s linear infinite;
 }
 /* loading spinner */
+/* search bar */
+.note {
+  font-size: 0.575em;
+  text-transform: uppercase;
+  color: #ccc;
+}
+
+#search {
+  align-items: center;
+  background: #eee;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  margin: 7em auto 0.5em;
+  padding: 1em;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  width: 60%;
+  -webkit-box-shadow: 0 5px 5px 0 rgba(50, 50, 50, 0.15);
+          box-shadow: 0 5px 5px 0 rgba(50, 50, 50, 0.15);
+}
+#search:hover, #search:focus {
+  background: #ccc;
+}
+#search button,
+#search input {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background: transparent;
+  border: 0;
+  color: inherit;
+  font: inherit;
+  outline: 0;
+}
+#search button {
+  cursor: pointer;
+  padding: 0 0.25em;
+}
+#search input {
+  flex: 1;
+}
+#search input::-webkit-input-placeholder {
+  color: #000;
+}
+#search input:-ms-input-placeholder {
+  color: #000;
+}
+#search input::-ms-input-placeholder {
+  color: #000;
+}
+#search input::placeholder {
+  color: #000;
+}
+#search .search-spinner {
+  -webkit-animation: spinner 1s infinite linear;
+          animation: spinner 1s infinite linear;
+  display: none;
+  padding: 0 0.25em;
+}
+
+#search.loading button {
+  display: none;
+}
+#search.loading .search-spinner {
+  display: block;
+}
+
+@-webkit-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+
+/* search bar */
