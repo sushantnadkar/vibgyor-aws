@@ -109,6 +109,18 @@ window.onload = loadJSON(url, function(r){
   });
 
   if($(".limiter").length !== 0) {
+    var filter_options = {
+      "Self Help": 1,
+      "Biography": 2,
+      "Children's": 3,
+      "Novel": 4,
+      "Fitness": 5,
+      "Science Non-fiction": 6,
+      "Travelogues": 7,
+      "History": 8,
+      "Other Non-fiction": 9
+    };
+
     //search logic using fuse.js
     var options = {
       shouldSort: true,
@@ -127,36 +139,76 @@ window.onload = loadJSON(url, function(r){
     };
     var fuse = new Fuse(ar.booklist, options);
 
-    function search_booklist() {
+    function search_booklist(booklist) {
       $("#search").addClass("loading");
 
-      var result = fuse.search($("#search input")[0].value);
-
-      $("tbody").empty();
-
-      for(var i = 0; i < result.length; i++) {
-
-        $("tbody").append(
-          '<tr class="row100 body">'+
-            '<td class="cell100 column1">' + result[i].bookno + '</td>'+
-            '<td class="cell100 column2">' + result[i].bookname + '</td>'+
-            '<td class="cell100 column3">' + result[i].author + '</td>' +
-          '</tr>'
-        );
+      var result = [];
+      var language = $("#language .choices__item.choices__item--selectable").data("value");
+      var category = $("#category .choices__item.choices__item--selectable").data("value");
+      
+      if ($(".input-field.second-wrap input#search")[0].value.length !== 0) {
+        result = fuse.search($(".input-field.second-wrap input#search")[0].value);
+      } else {
+        result = booklist;
       }
+      if(language !== "Language") {
+        if (language === "E") {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("E") > -1});
+        } else if (language === "M") {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("M") > -1});
+        }
+      }
+      
+      if (category !== "Category") {
 
+        if(category === 1) {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("1") > -1});
+        } else if(category === 2) {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("2") > -1});
+        } else if(category === 3) {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("3") > -1});
+        } else if(category === 4) {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("4") > -1});
+        } else if(category === 5) {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("5") > -1});
+        } else if(category === 6) {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("6") > -1});
+        } else if(category === 7) {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("7") > -1});
+        } else if(category === 8) {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("8") > -1});
+        } else if(category === 9) {
+          result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("9") > -1});
+        }
+      }
+      
+      $("tbody").empty().append('<tr><td class="loading-spinner"></td>');
+      
       setTimeout(function() {
+        $("tbody").empty();
+
+        for(var i = 0; i < result.length; i++) {
+
+          $("tbody").append(
+            '<tr class="row100 body">'+
+              '<td class="cell100 column1">' + result[i].bookno + '</td>'+
+              '<td class="cell100 column2">' + result[i].bookname + '</td>'+
+              '<td class="cell100 column3">' + result[i].author + '</td>' +
+            '</tr>'
+          );
+        }
+
         $("#search").removeClass("loading");
       }, 1500);
     }
     // search bar
-    $("#search input").on("keydown", function(e) {
+    $(".input-field.second-wrap input#search, #language .choices__item.choices__item--selectable").on("keydown", {"booklist": ar.booklist}, function(e) {
       if(e.keyCode === 13) {
-        search_booklist();
+        search_booklist(e.data.booklist);
       }
     });
-    $("#search button").on("click", function(e) {
-      search_booklist();
+    $(".input-field.third-wrap button.btn-search").on("click", {"booklist": ar.booklist}, function(e) {
+      search_booklist(e.data.booklist);
     });
   }
 });
