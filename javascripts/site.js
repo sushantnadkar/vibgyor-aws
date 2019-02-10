@@ -145,7 +145,7 @@ window.onload = loadJSON(url, function(r){
       var result = [];
       var language = $("#language .choices__item.choices__item--selectable").data("value");
       var category = $("#category .choices__item.choices__item--selectable").data("value");
-      
+
       if ($(".input-field.second-wrap input#search")[0].value.length !== 0) {
         result = fuse.search($(".input-field.second-wrap input#search")[0].value);
       } else {
@@ -158,7 +158,7 @@ window.onload = loadJSON(url, function(r){
           result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("M") > -1});
         }
       }
-      
+
       if (category !== "Category") {
 
         if(category === 1) {
@@ -181,7 +181,7 @@ window.onload = loadJSON(url, function(r){
           result = result.filter(function(b) {return b.bookno.split("-")[0].indexOf("9") > -1});
         }
       }
-      
+
       $("tbody").empty().append('<tr><td class="loading-spinner"></td>');
       
       setTimeout(function() {

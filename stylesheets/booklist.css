@@ -273,6 +273,10 @@ th, td {
     padding-top: 0em;
     margin: 0 0.5em;
   }
+  .wrap-table100 {
+    margin-left: 0em;
+    margin-right: 0em;
+  }
   .table100-body td {
     padding: 0.3em 0;
   }
@@ -347,6 +351,7 @@ th, td {
   tbody tr {
     font-size: 14px;
   }
+
 }
 
 @media (max-width: 576px) {
@@ -412,7 +417,7 @@ th, td {
   text-transform: uppercase;
   color: #aaa;
 }
-/* 
+/*
 #search {
   align-items: center;
   background: #eee;
@@ -930,7 +935,7 @@ th, td {
 }
 
 .s003 div .inner-form .input-field.first-wrap {
-  width: 200px;
+  width: 20em;
   border-right: 1px solid rgba(0, 0, 0, 0.1);
 }
 
@@ -1044,11 +1049,14 @@ th, td {
 }
 
 @media screen and (max-width: 992px) {
+  .s003 div {
+    max-width: 88.5vw;
+  }
   .s003 div .inner-form .input-field {
-    height: 50px;
+    height: 3.75em;
   }
   .s003 div .inner-form .input-field.first-wrap .choices__inner {
-    padding: 1px 30px;
+    padding: 6px 30px;
   }
   .s003 div .inner-form .input-field.third-wrap {
     width: 90px;
@@ -1056,6 +1064,9 @@ th, td {
 }
 
 @media screen and (max-width: 767px) {
+  .s003 div {
+    max-width: 85vw;
+  }
   .s003 div .inner-form {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;

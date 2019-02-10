@@ -59,59 +59,71 @@
     ],
       "galleryimages":[
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr01/original-9161-1439317330-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/964702_672464862797621_382382478_o.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://66.media.tumblr.com/tumblr_m1yru9PNMV1qeo682o1_500.jpg",
+          "image":"images/gallery/14595802_1325135787530522_4118097022891966757_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr08/original-1654-1439317465-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/14671086_1320651851312249_3664202708990898108_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr08/original-13354-1439321173-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/14680764_1325129504197817_5007646308134564217_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr04/original-25740-1439321209-5.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/14717073_1325130470864387_1054694789796132695_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr04/original-25740-1439321209-5.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/14718747_1320651817978919_5854223289558862555_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr08/original-9292-1439319916-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/14853212_1325139724196795_5741628513566678369_o.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr05/original-6710-1439319334-17.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/14900570_1325133367530764_5941612732074275464_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr02/original-16901-1439320287-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/14908265_1325134394197328_8034419439701841175_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr04/original-29345-1439321306-8.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/22491989_1707436332633797_1303348653352949621_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/15/enhanced/webdr15/original-20286-1439320376-10.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/22539968_1707437405967023_1168012248317326663_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr02/original-6989-1439317507-15.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/45719569_2194911420552950_3305385777071915008_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr11/original-8867-1439317446-6.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/45736468_2194911117219647_8886196630009675776_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         },
         {
-          "image":"https://img.buzzfeed.com/buzzfeed-static/static/2015-08/11/14/enhanced/webdr03/original-22498-1439319085-3.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+          "image":"images/gallery/45757856_2194911540552938_7853315862143434752_n.jpg",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"images/gallery/45779628_2194911353886290_3727985540813815808_n.jpg",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"images/gallery/45786279_2194911063886319_913048878205370368_n.jpg",
+          "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
+        },
+        {
+          "image":"images/gallery/45814959_2194911147219644_7176994727911227392_n.jpg",
           "caption": "In this article, you learned the necessary skills to create resizable square tiles and place them in a responsive tiled grid. To review, here are all of the techniques we've used along the way."
         }
       ],
